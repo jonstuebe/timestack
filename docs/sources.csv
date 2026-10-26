@@ -299,3 +299,1528 @@ puzzle_id,event_id,title,date,source_url
 60,e3,The First Fleet arrives at Sydney Cove,26 Jan 1788,https://en.wikipedia.org/wiki/First_Fleet
 60,e4,Storming of the Bastille,14 Jul 1789,https://en.wikipedia.org/wiki/Storming_of_the_Bastille
 60,e5,Sydney Opera House opens,20 Oct 1973,https://en.wikipedia.org/wiki/Sydney_Opera_House
+61,e1,Ötzi the Iceman is killed high in the Alps,c. 3230 BC,https://en.wikipedia.org/wiki/Ötzi
+61,e2,The World Wide Web opens to the whole internet,23 Aug 1991,https://en.wikipedia.org/wiki/World_Wide_Web
+61,e3,Hikers find Ötzi the Iceman in melting ice,19 Sep 1991,https://en.wikipedia.org/wiki/Ötzi
+61,e4,Nirvana releases Nevermind,24 Sep 1991,https://en.wikipedia.org/wiki/Nevermind
+61,e5,Freddie Mercury dies,24 Nov 1991,https://en.wikipedia.org/wiki/Freddie_Mercury
+62,e1,Nara's Great Buddha is dedicated at Tōdai-ji,752,https://en.wikipedia.org/wiki/Tōdai-ji
+62,e2,Vikings raid the monastery at Lindisfarne,8 Jun 793,https://en.wikipedia.org/wiki/Lindisfarne
+62,e3,Charlemagne is crowned emperor in Rome,25 Dec 800,https://en.wikipedia.org/wiki/Charlemagne
+62,e4,An elephant from Baghdad arrives in Aachen,20 Jul 802,https://en.wikipedia.org/wiki/Abul-Abbas
+62,e5,The Treaty of Verdun splits the Frankish empire,10 Aug 843,https://en.wikipedia.org/wiki/Treaty_of_Verdun
+63,e1,A truck bomb wrecks a federal building in Oklahoma City,19 Apr 1995,https://en.wikipedia.org/wiki/Oklahoma_City_bombing
+63,e2,Microsoft launches Windows with a new Start button,24 Aug 1995,https://en.wikipedia.org/wiki/Windows_95
+63,e3,Netflix is founded,29 Aug 1997,https://en.wikipedia.org/wiki/Netflix
+63,e4,Princess Diana dies in a Paris car crash,31 Aug 1997,"https://en.wikipedia.org/wiki/Death_of_Diana,_Princess_of_Wales"
+63,e5,Google is founded,4 Sep 1998,https://en.wikipedia.org/wiki/History_of_Google
+64,e1,Rurik takes power in Novgorod,c. 862,https://en.wikipedia.org/wiki/Rurik
+64,e2,Viking leader Rollo is granted Normandy,911,https://en.wikipedia.org/wiki/Treaty_of_Saint-Clair-sur-Epte
+64,e3,Ibn Fadlan's embassy leaves Baghdad for the Volga,21 Jun 921,https://en.wikipedia.org/wiki/Ahmad_ibn_Fadlan
+64,e4,Kievan Rus converts to Orthodox Christianity,988,https://en.wikipedia.org/wiki/Christianization_of_Kievan_Rus'
+64,e5,Battle of Stiklestad is fought in Norway,1030,https://en.wikipedia.org/wiki/Battle_of_Stiklestad
+65,e1,Hunter-gatherers raise the stone pillars of Göbekli Tepe,c. 9500 BC,https://en.wikipedia.org/wiki/Göbekli_Tepe
+65,e2,Jericho's stone tower is built,c. 8000 BC,https://en.wikipedia.org/wiki/Tower_of_Jericho
+65,e3,Çatalhöyük is settled in Anatolia,c. 7500 BC,https://en.wikipedia.org/wiki/Çatalhöyük
+65,e4,The great ziggurat of Ur is built,c. 2100 BC,https://en.wikipedia.org/wiki/Ziggurat_of_Ur
+65,e5,Excavations begin at Göbekli Tepe,1995,https://en.wikipedia.org/wiki/Göbekli_Tepe
+66,e1,The nylon-bristle toothbrush goes on sale,24 Feb 1938,https://en.wikipedia.org/wiki/Toothbrush
+66,e2,Samsung is founded as a trading company,1 Mar 1938,https://en.wikipedia.org/wiki/Samsung
+66,e3,Superman debuts in Action Comics,18 Apr 1938,https://en.wikipedia.org/wiki/Action_Comics_1
+66,e4,Orson Welles broadcasts The War of the Worlds,30 Oct 1938,https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1938_radio_drama)
+66,e5,Samsung's Galaxy S smartphone goes on sale,4 Jun 2010,https://en.wikipedia.org/wiki/Samsung_Galaxy_S
+67,e1,Wolfgang Amadeus Mozart is born in Salzburg,27 Jan 1756,https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart
+67,e2,The US Constitution is signed in Philadelphia,17 Sep 1787,https://en.wikipedia.org/wiki/Constitution_of_the_United_States
+67,e3,Mozart's The Magic Flute premieres in Vienna,30 Sep 1791,https://en.wikipedia.org/wiki/The_Magic_Flute
+67,e4,Mozart dies in Vienna,5 Dec 1791,https://en.wikipedia.org/wiki/Death_of_Wolfgang_Amadeus_Mozart
+67,e5,The US Bill of Rights is ratified,15 Dec 1791,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights
+68,e1,Leonardo da Vinci dies in France,2 May 1519,https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+68,e2,Danish king executes nobles in the Stockholm Bloodbath,Nov 1520,https://en.wikipedia.org/wiki/Stockholm_Bloodbath
+68,e3,Luther refuses to recant at the Diet of Worms,18 Apr 1521,https://en.wikipedia.org/wiki/Diet_of_Worms
+68,e4,Magellan is killed in battle at Mactan,27 Apr 1521,https://en.wikipedia.org/wiki/Battle_of_Mactan
+68,e5,"The Pope names Henry VIII ""Defender of the Faith""",11 Oct 1521,https://en.wikipedia.org/wiki/Defender_of_the_Faith
+69,e1,Agatha Christie vanishes for eleven days,3 Dec 1926,https://en.wikipedia.org/wiki/Agatha_Christie
+69,e2,The US detonates the first hydrogen bomb,1 Nov 1952,https://en.wikipedia.org/wiki/Ivy_Mike
+69,e3,The Mousetrap opens in London's West End,25 Nov 1952,https://en.wikipedia.org/wiki/The_Mousetrap
+69,e4,Joseph Stalin dies,5 Mar 1953,https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Joseph_Stalin
+69,e5,Agatha Christie dies,12 Jan 1976,https://en.wikipedia.org/wiki/Agatha_Christie
+70,e1,Motorola is founded in Chicago,25 Sep 1928,https://en.wikipedia.org/wiki/Motorola
+70,e2,Pink Floyd release The Dark Side of the Moon,1 Mar 1973,https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon
+70,e3,The first handheld mobile phone call is made,3 Apr 1973,https://en.wikipedia.org/wiki/Martin_Cooper_(inventor)
+70,e4,The World Trade Center opens in New York,4 Apr 1973,https://en.wikipedia.org/wiki/World_Trade_Center_(1973–2001)
+70,e5,Secretariat wins the Triple Crown,9 Jun 1973,https://en.wikipedia.org/wiki/1973_Belmont_Stakes
+71,e1,Al-Qarawiyyin is founded in Fez,c. 859,https://en.wikipedia.org/wiki/University_of_al-Qarawiyyin
+71,e2,Al-Azhar Mosque is founded in Cairo,970,https://en.wikipedia.org/wiki/Al-Azhar_Mosque
+71,e3,Avicenna completes The Canon of Medicine,1025,https://en.wikipedia.org/wiki/The_Canon_of_Medicine
+71,e4,The University of Bologna is founded,1088,https://en.wikipedia.org/wiki/University_of_Bologna
+71,e5,Charles University is founded in Prague,7 Apr 1348,https://en.wikipedia.org/wiki/Charles_University
+72,e1,Persians under Cyrus the Great take Babylon,539 BC,https://en.wikipedia.org/wiki/Fall_of_Babylon
+72,e2,Rome expels its last king and becomes a republic,509 BC,https://en.wikipedia.org/wiki/Roman_Republic
+72,e3,Spartans make their stand at Thermopylae,480 BC,https://en.wikipedia.org/wiki/Battle_of_Thermopylae
+72,e4,Confucius dies in the state of Lu,c. 479 BC,https://en.wikipedia.org/wiki/Confucius
+72,e5,The first Confucius Institute opens in Seoul,2004,https://en.wikipedia.org/wiki/Confucius_Institute
+73,e1,Mexico executes its Austrian-born emperor,19 Jun 1867,https://en.wikipedia.org/wiki/Maximilian_I_of_Mexico
+73,e2,Canada becomes a self-governing dominion,1 Jul 1867,https://en.wikipedia.org/wiki/Canadian_Confederation
+73,e3,Russia hands Alaska over to the United States,18 Oct 1867,https://en.wikipedia.org/wiki/Alaska_Purchase
+73,e4,Japan's shogun returns power to the emperor,9 Nov 1867,https://en.wikipedia.org/wiki/Tokugawa_Yoshinobu
+73,e5,Edo is renamed Tokyo,3 Sep 1868,https://en.wikipedia.org/wiki/Tokyo
+74,e1,Nelson Mandela is sentenced to life in prison,12 Jun 1964,https://en.wikipedia.org/wiki/Rivonia_Trial
+74,e2,Tim Berners-Lee proposes the World Wide Web,Mar 1989,https://en.wikipedia.org/wiki/Tim_Berners-Lee
+74,e3,Nintendo's Game Boy goes on sale in Japan,21 Apr 1989,https://en.wikipedia.org/wiki/Game_Boy
+74,e4,The Simpsons premieres as a TV series,17 Dec 1989,https://en.wikipedia.org/wiki/Simpsons_Roasting_on_an_Open_Fire
+74,e5,Nelson Mandela walks free from prison,11 Feb 1990,https://en.wikipedia.org/wiki/Nelson_Mandela
+75,e1,La Salle claims the Mississippi basin for France,9 Apr 1682,"https://en.wikipedia.org/wiki/René-Robert_Cavelier,_Sieur_de_La_Salle"
+75,e2,Qing navy wins the Battle of Penghu,Jul 1683,https://en.wikipedia.org/wiki/Battle_of_Penghu
+75,e3,Ottomans are routed at the Battle of Vienna,12 Sep 1683,https://en.wikipedia.org/wiki/Battle_of_Vienna
+75,e4,France revokes the Edict of Nantes,18 Oct 1685,https://en.wikipedia.org/wiki/Edict_of_Fontainebleau
+75,e5,Russia and China sign the Treaty of Nerchinsk,27 Aug 1689,https://en.wikipedia.org/wiki/Treaty_of_Nerchinsk
+76,e1,J. R. R. Tolkien is born,3 Jan 1892,https://en.wikipedia.org/wiki/J._R._R._Tolkien
+76,e2,San Francisco's Golden Gate Bridge opens,27 May 1937,https://en.wikipedia.org/wiki/Golden_Gate_Bridge
+76,e3,Amelia Earhart disappears over the Pacific,2 Jul 1937,https://en.wikipedia.org/wiki/Amelia_Earhart
+76,e4,Tolkien's The Hobbit is published,21 Sep 1937,https://en.wikipedia.org/wiki/The_Hobbit
+76,e5,Disney's Snow White premieres,21 Dec 1937,https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)
+77,e1,Otis installs a passenger elevator in New York,23 Mar 1857,https://en.wikipedia.org/wiki/E._V._Haughwout_Building
+77,e2,Lincoln's Emancipation Proclamation takes effect,1 Jan 1863,https://en.wikipedia.org/wiki/Emancipation_Proclamation
+77,e3,The London Underground opens,10 Jan 1863,https://en.wikipedia.org/wiki/Metropolitan_Railway
+77,e4,Alice's Adventures in Wonderland is published,Nov 1865,https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+77,e5,The New York City Subway opens,27 Oct 1904,https://en.wikipedia.org/wiki/New_York_City_Subway
+78,e1,Florence Cathedral is consecrated beneath its new dome,25 Mar 1436,https://en.wikipedia.org/wiki/Florence_Cathedral
+78,e2,Christopher Columbus is born in Genoa,1451,https://en.wikipedia.org/wiki/Christopher_Columbus
+78,e3,Leonardo da Vinci is born,15 Apr 1452,https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+78,e4,Nicolaus Copernicus is born,19 Feb 1473,https://en.wikipedia.org/wiki/Nicolaus_Copernicus
+78,e5,Michelangelo's David is unveiled in Florence,8 Sep 1504,https://en.wikipedia.org/wiki/David_(Michelangelo)
+79,e1,Construction of the Colosseum begins,72,https://en.wikipedia.org/wiki/Colosseum
+79,e2,Vesuvius buries Pompeii and Herculaneum,79,https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD
+79,e3,The Colosseum opens with a hundred days of games,80,https://en.wikipedia.org/wiki/Colosseum
+79,e4,A well-digger strikes buried Herculaneum,1709,https://en.wikipedia.org/wiki/Herculaneum
+79,e5,AI helps read a word inside a charred Herculaneum scroll,Oct 2023,https://en.wikipedia.org/wiki/Vesuvius_Challenge
+80,e1,Allied bombers attack Dresden,13 Feb 1945,https://en.wikipedia.org/wiki/Bombing_of_Dresden
+80,e2,Franklin D. Roosevelt dies,12 Apr 1945,https://en.wikipedia.org/wiki/Death_of_Franklin_D._Roosevelt
+80,e3,Mussolini is executed by Italian partisans,28 Apr 1945,https://en.wikipedia.org/wiki/Death_of_Benito_Mussolini
+80,e4,Hitler dies in his Berlin bunker,30 Apr 1945,https://en.wikipedia.org/wiki/Death_of_Adolf_Hitler
+80,e5,The Trinity atomic bomb test,16 Jul 1945,https://en.wikipedia.org/wiki/Trinity_(nuclear_test)
+81,e1,Bismarck is forced to resign as German chancellor,18 Mar 1890,https://en.wikipedia.org/wiki/Otto_von_Bismarck
+81,e2,Congress creates Yosemite National Park,1 Oct 1890,https://en.wikipedia.org/wiki/Yosemite_National_Park
+81,e3,The first game of basketball is played,21 Dec 1891,https://en.wikipedia.org/wiki/History_of_basketball
+81,e4,Ellis Island immigration station opens,1 Jan 1892,https://en.wikipedia.org/wiki/Ellis_Island
+81,e5,"Volleyball is invented as ""Mintonette""",1895,https://en.wikipedia.org/wiki/Volleyball
+82,e1,George Eastman launches the Kodak camera,1888,https://en.wikipedia.org/wiki/Eastman_Kodak
+82,e2,The Paris Exposition Universelle opens,14 Apr 1900,https://en.wikipedia.org/wiki/Exposition_Universelle_(1900)
+82,e3,The first Zeppelin airship flies,2 Jul 1900,https://en.wikipedia.org/wiki/Zeppelin_LZ_1
+82,e4,The Paris Métro opens,19 Jul 1900,https://en.wikipedia.org/wiki/Paris_Métro
+82,e5,"A hurricane devastates Galveston, Texas",8 Sep 1900,https://en.wikipedia.org/wiki/1900_Galveston_hurricane
+83,e1,The Aztec Triple Alliance is formed,1428,https://en.wikipedia.org/wiki/Aztec_Triple_Alliance
+83,e2,Pachacuti begins building the Inca Empire,c. 1438,https://en.wikipedia.org/wiki/Pachacuti
+83,e3,Spain and Portugal divide the world at Tordesillas,7 Jun 1494,https://en.wikipedia.org/wiki/Treaty_of_Tordesillas
+83,e4,Magellan's surviving ship completes a world voyage,6 Sep 1522,https://en.wikipedia.org/wiki/Magellan_expedition
+83,e5,Pizarro captures the Inca ruler Atahualpa,16 Nov 1532,https://en.wikipedia.org/wiki/Battle_of_Cajamarca
+84,e1,Hannibal crosses the Alps with war elephants,218 BC,https://en.wikipedia.org/wiki/Hannibal's_crossing_of_the_Alps
+84,e2,Hannibal annihilates a Roman army at Cannae,216 BC,https://en.wikipedia.org/wiki/Battle_of_Cannae
+84,e3,China's first emperor orders books burned,213 BC,https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars
+84,e4,China's first emperor dies while touring his realm,210 BC,https://en.wikipedia.org/wiki/Qin_Shi_Huang
+84,e5,Liu Bang founds the Han dynasty,202 BC,https://en.wikipedia.org/wiki/Han_dynasty
+85,e1,Humphry Davy suggests laughing gas could ease surgery,1800,https://en.wikipedia.org/wiki/Humphry_Davy
+85,e2,Adolphe Sax patents the saxophone,28 Jun 1846,https://en.wikipedia.org/wiki/Saxophone
+85,e3,Ether is shown to work in a public surgery,16 Oct 1846,https://en.wikipedia.org/wiki/William_T._G._Morton
+85,e4,Queen Victoria takes chloroform to give birth,7 Apr 1853,"https://en.wikipedia.org/wiki/Prince_Leopold,_Duke_of_Albany"
+85,e5,Carl Koller shows cocaine can numb the eye,1884,https://en.wikipedia.org/wiki/Carl_Koller
+86,e1,Michael Romanov is elected tsar of Russia,21 Feb 1613,https://en.wikipedia.org/wiki/Michael_of_Russia
+86,e2,Shakespeare's Globe Theatre burns down,29 Jun 1613,https://en.wikipedia.org/wiki/Globe_Theatre
+86,e3,"Tokugawa Ieyasu, founder of the shogunate, dies",1 Jun 1616,https://en.wikipedia.org/wiki/Tokugawa_Ieyasu
+86,e4,William Harvey shows that blood circulates,1628,https://en.wikipedia.org/wiki/De_Motu_Cordis
+86,e5,Tsar Nicholas II abdicates,15 Mar 1917,https://en.wikipedia.org/wiki/Abdication_of_Nicholas_II
+87,e1,Hampton Court talks order a new English Bible,Jan 1604,https://en.wikipedia.org/wiki/Hampton_Court_Conference
+87,e2,Othello is performed at the English court,1 Nov 1604,https://en.wikipedia.org/wiki/Othello
+87,e3,Mughal emperor Akbar dies in Agra,27 Oct 1605,https://en.wikipedia.org/wiki/Akbar
+87,e4,The Gunpowder Plot is foiled in London,5 Nov 1605,https://en.wikipedia.org/wiki/Gunpowder_Plot
+87,e5,Galileo publishes his telescope discoveries,13 Mar 1610,https://en.wikipedia.org/wiki/Sidereus_Nuncius
+88,e1,Pablo Picasso is born in Málaga,25 Oct 1881,https://en.wikipedia.org/wiki/Pablo_Picasso
+88,e2,German and Italian planes bomb Guernica,26 Apr 1937,https://en.wikipedia.org/wiki/Bombing_of_Guernica
+88,e3,The Paris Peace Accords are signed,27 Jan 1973,https://en.wikipedia.org/wiki/Paris_Peace_Accords
+88,e4,Pink Floyd release The Dark Side of the Moon,1 Mar 1973,https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon
+88,e5,Pablo Picasso dies,8 Apr 1973,https://en.wikipedia.org/wiki/Pablo_Picasso
+89,e1,Scotland's parliament bans golf,1457,https://en.wikipedia.org/wiki/History_of_golf
+89,e2,Florence Nightingale opens her nursing school,9 Jul 1860,https://en.wikipedia.org/wiki/Florence_Nightingale
+89,e3,The first Open Championship is played,17 Oct 1860,https://en.wikipedia.org/wiki/The_Open_Championship
+89,e4,Abraham Lincoln is elected US president,6 Nov 1860,https://en.wikipedia.org/wiki/1860_United_States_presidential_election
+89,e5,Tiger Woods wins his first Masters,13 Apr 1997,https://en.wikipedia.org/wiki/1997_Masters_Tournament
+90,e1,Henry Ford is born in Michigan,30 Jul 1863,https://en.wikipedia.org/wiki/Henry_Ford
+90,e2,Grand Central Terminal opens in New York,2 Feb 1913,https://en.wikipedia.org/wiki/Grand_Central_Terminal
+90,e3,Ford starts its moving assembly line,7 Oct 1913,https://en.wikipedia.org/wiki/Ford_Model_T
+90,e4,The first crossword puzzle is published,21 Dec 1913,https://en.wikipedia.org/wiki/Arthur_Wynne
+90,e5,The US Federal Reserve is created,23 Dec 1913,https://en.wikipedia.org/wiki/Federal_Reserve_Act
+91,e1,Ise Grand Shrine is ritually rebuilt for the first time,692,https://en.wikipedia.org/wiki/Ise_Grand_Shrine
+91,e2,Byōdō-in's Phoenix Hall is built near Kyoto,1053,https://en.wikipedia.org/wiki/Byōdō-in
+91,e3,A shogun turns a Kyoto villa into the Golden Pavilion,1397,https://en.wikipedia.org/wiki/Kinkaku-ji
+91,e4,Tokyo Tower opens,23 Dec 1958,https://en.wikipedia.org/wiki/Tokyo_Tower
+91,e5,Ise Grand Shrine is rebuilt for the 62nd time,2013,https://en.wikipedia.org/wiki/Ise_Grand_Shrine
+92,e1,Olmecs carve colossal stone heads,by 900 BC,https://en.wikipedia.org/wiki/Olmec_colossal_heads
+92,e2,"Phoenician settlers found Carthage, by tradition",814 BC,https://en.wikipedia.org/wiki/Carthage
+92,e3,"Romulus founds Rome, by tradition",753 BC,https://en.wikipedia.org/wiki/Founding_of_Rome
+92,e4,Babylonians destroy Jerusalem and its Temple,587 BC,https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(587_BC)
+92,e5,The first Olmec colossal head is found in Mexico,1862,https://en.wikipedia.org/wiki/Olmec_colossal_heads
+93,e1,Louis Pasteur is born,27 Dec 1822,https://en.wikipedia.org/wiki/Louis_Pasteur
+93,e2,Robert Koch identifies the tuberculosis germ,24 Mar 1882,https://en.wikipedia.org/wiki/Robert_Koch
+93,e3,Adventures of Huckleberry Finn is published in the US,18 Feb 1885,https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn
+93,e4,The Statue of Liberty arrives in New York,17 Jun 1885,https://en.wikipedia.org/wiki/Statue_of_Liberty
+93,e5,Pasteur's rabies vaccine is given to a bitten boy,6 Jul 1885,https://en.wikipedia.org/wiki/Louis_Pasteur
+94,e1,Ludwig van Beethoven is baptised in Bonn,17 Dec 1770,https://en.wikipedia.org/wiki/Ludwig_van_Beethoven
+94,e2,The Monroe Doctrine is announced,2 Dec 1823,https://en.wikipedia.org/wiki/Monroe_Doctrine
+94,e3,Lord Byron dies in Greece,19 Apr 1824,https://en.wikipedia.org/wiki/Lord_Byron
+94,e4,Beethoven's Ninth Symphony premieres,7 May 1824,https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)
+94,e5,The Stockton and Darlington Railway opens,27 Sep 1825,https://en.wikipedia.org/wiki/Stockton_and_Darlington_Railway
+95,e1,Nelson destroys a French fleet at the Battle of the Nile,1 Aug 1798,https://en.wikipedia.org/wiki/Battle_of_the_Nile
+95,e2,Tipu Sultan dies defending Seringapatam,4 May 1799,https://en.wikipedia.org/wiki/Siege_of_Seringapatam_(1799)
+95,e3,Napoleon seizes power in the Brumaire coup,9 Nov 1799,https://en.wikipedia.org/wiki/Coup_of_18_Brumaire
+95,e4,George Washington dies at Mount Vernon,14 Dec 1799,https://en.wikipedia.org/wiki/George_Washington
+95,e5,The Library of Congress is founded,24 Apr 1800,https://en.wikipedia.org/wiki/Library_of_Congress
+96,e1,Britain declares an emergency in Kenya,20 Oct 1952,https://en.wikipedia.org/wiki/Mau_Mau_rebellion
+96,e2,Poet Sylvia Plath dies in London,11 Feb 1963,https://en.wikipedia.org/wiki/Sylvia_Plath
+96,e3,Doctor Who is first broadcast,23 Nov 1963,https://en.wikipedia.org/wiki/An_Unearthly_Child
+96,e4,Kenya becomes independent,12 Dec 1963,https://en.wikipedia.org/wiki/Kenya
+96,e5,The Zanzibar Revolution topples the sultan,12 Jan 1964,https://en.wikipedia.org/wiki/Zanzibar_Revolution
+97,e1,The first organised indoor ice hockey game,3 Mar 1875,https://en.wikipedia.org/wiki/Victoria_Skating_Rink
+97,e2,The Bolsheviks seize power in Petrograd,7 Nov 1917,https://en.wikipedia.org/wiki/October_Revolution
+97,e3,The National Hockey League is founded,26 Nov 1917,https://en.wikipedia.org/wiki/National_Hockey_League
+97,e4,The Halifax Explosion devastates the city,6 Dec 1917,https://en.wikipedia.org/wiki/Halifax_Explosion
+97,e5,Wayne Gretzky is born,26 Jan 1961,https://en.wikipedia.org/wiki/Wayne_Gretzky
+98,e1,The Moulin Rouge opens in Paris,6 Oct 1889,https://en.wikipedia.org/wiki/Moulin_Rouge
+98,e2,Scotland's Forth Bridge opens,4 Mar 1890,https://en.wikipedia.org/wiki/Forth_Bridge
+98,e3,Vincent van Gogh dies,29 Jul 1890,https://en.wikipedia.org/wiki/Death_of_Vincent_van_Gogh
+98,e4,The electric chair is first used,6 Aug 1890,https://en.wikipedia.org/wiki/William_Kemmler
+98,e5,The Wounded Knee Massacre,29 Dec 1890,https://en.wikipedia.org/wiki/Wounded_Knee_Massacre
+99,e1,Ming scholars complete the Yongle Encyclopedia,1408,https://en.wikipedia.org/wiki/Yongle_Encyclopedia
+99,e2,The first volume of Diderot's Encyclopédie appears,1751,https://en.wikipedia.org/wiki/Encyclopédie
+99,e3,Encyclopædia Britannica begins publication,1768,https://en.wikipedia.org/wiki/Encyclopædia_Britannica
+99,e4,Wikipedia is launched,15 Jan 2001,https://en.wikipedia.org/wiki/Wikipedia
+99,e5,Britannica announces the end of its print edition,Mar 2012,https://en.wikipedia.org/wiki/Encyclopædia_Britannica
+100,e1,Artists paint horses and bulls in Lascaux cave,"c. 17,000 BC",https://en.wikipedia.org/wiki/Lascaux
+100,e2,The Dunkirk evacuation ends,4 Jun 1940,https://en.wikipedia.org/wiki/Dunkirk_evacuation
+100,e3,The Blitz begins over London,7 Sep 1940,https://en.wikipedia.org/wiki/The_Blitz
+100,e4,Teenagers stumble on the Lascaux cave paintings,12 Sep 1940,https://en.wikipedia.org/wiki/Lascaux
+100,e5,Lascaux cave closes to the public,1963,https://en.wikipedia.org/wiki/Lascaux
+101,e1,Henry Cavendish identifies hydrogen,1766,https://en.wikipedia.org/wiki/Henry_Cavendish
+101,e2,Astronomers spot helium in the Sun's light,18 Aug 1868,https://en.wikipedia.org/wiki/Helium
+101,e3,Mendeleev presents his periodic table,6 Mar 1869,https://en.wikipedia.org/wiki/Dmitri_Mendeleev
+101,e4,Basketball is played for the first time,21 Dec 1891,https://en.wikipedia.org/wiki/History_of_basketball
+101,e5,William Ramsay finds helium on Earth,26 Mar 1895,https://en.wikipedia.org/wiki/Helium
+102,e1,The Penny Black stamp is issued,1 May 1840,https://en.wikipedia.org/wiki/Penny_Black
+102,e2,Charlotte Brontë's Jane Eyre is published,19 Oct 1847,https://en.wikipedia.org/wiki/Jane_Eyre
+102,e3,Wuthering Heights and Agnes Grey are published together,Dec 1847,https://en.wikipedia.org/wiki/Agnes_Grey
+102,e4,"Gold is found at Sutter's Mill, California",24 Jan 1848,https://en.wikipedia.org/wiki/Sutter's_Mill
+102,e5,The Communist Manifesto is published,Feb 1848,https://en.wikipedia.org/wiki/The_Communist_Manifesto
+103,e1,Toussaint Louverture dies in a French prison,7 Apr 1803,https://en.wikipedia.org/wiki/Toussaint_Louverture
+103,e2,France agrees to sell Louisiana to the US,30 Apr 1803,https://en.wikipedia.org/wiki/Louisiana_Purchase
+103,e3,Haiti declares independence from France,1 Jan 1804,https://en.wikipedia.org/wiki/Haitian_Declaration_of_Independence
+103,e4,Lewis and Clark set out up the Missouri,14 May 1804,https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition
+103,e5,Aaron Burr kills Alexander Hamilton in a duel,11 Jul 1804,https://en.wikipedia.org/wiki/Burr–Hamilton_duel
+104,e1,Florence Green is born in London,19 Feb 1901,https://en.wikipedia.org/wiki/Florence_Green
+104,e2,The Royal Air Force is formed,1 Apr 1918,https://en.wikipedia.org/wiki/Royal_Air_Force
+104,e3,Facebook launches at Harvard,4 Feb 2004,https://en.wikipedia.org/wiki/Facebook
+104,e4,Apple's iPad goes on sale,3 Apr 2010,https://en.wikipedia.org/wiki/IPad_(1st_generation)
+104,e5,"Florence Green, the last WWI veteran, dies",4 Feb 2012,https://en.wikipedia.org/wiki/Florence_Green
+105,e1,The Mechanical Turk chess automaton is unveiled,1770,https://en.wikipedia.org/wiki/Mechanical_Turk
+105,e2,The Lewis chessmen are found in Scotland,1831,https://en.wikipedia.org/wiki/Lewis_chessmen
+105,e3,Deep Blue beats Garry Kasparov at chess,11 May 1997,https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov
+105,e4,Harry Potter and the Philosopher's Stone is published,26 Jun 1997,https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone
+105,e5,AlphaGo beats Go champion Lee Sedol,Mar 2016,https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol
+106,e1,Bram Stoker's Dracula is published,26 May 1897,https://en.wikipedia.org/wiki/Dracula
+106,e2,Felix Hoffmann synthesises pure aspirin,10 Aug 1897,https://en.wikipedia.org/wiki/Felix_Hoffmann
+106,e3,Bayer starts selling heroin,1898,https://en.wikipedia.org/wiki/Heroin
+106,e4,Bayer launches Aspirin,1899,https://en.wikipedia.org/wiki/Bayer
+106,e5,The US Harrison Act restricts narcotics,17 Dec 1914,https://en.wikipedia.org/wiki/Harrison_Narcotics_Tax_Act
+107,e1,The Song government issues paper money,1024,https://en.wikipedia.org/wiki/Jiaozi_(currency)
+107,e2,Florence mints its first gold florin,1252,https://en.wikipedia.org/wiki/Florin
+107,e3,A Swedish bank issues paper banknotes,1661,https://en.wikipedia.org/wiki/Stockholms_Banco
+107,e4,The Bank of England is founded,27 Jul 1694,https://en.wikipedia.org/wiki/Bank_of_England
+107,e5,The Coinage Act creates the US Mint,2 Apr 1792,https://en.wikipedia.org/wiki/Coinage_Act_of_1792
+108,e1,Work begins on China's first emperor's tomb,246 BC,https://en.wikipedia.org/wiki/Mausoleum_of_Qin_Shi_Huang
+108,e2,Bruce Lee dies in Hong Kong,20 Jul 1973,https://en.wikipedia.org/wiki/Bruce_Lee
+108,e3,Farmers digging a well find the Terracotta Army,29 Mar 1974,https://en.wikipedia.org/wiki/Terracotta_Army
+108,e4,ABBA wins Eurovision with 'Waterloo',6 Apr 1974,https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1974
+108,e5,Richard Nixon resigns as US president,9 Aug 1974,https://en.wikipedia.org/wiki/Resignation_of_Richard_Nixon
+109,e1,Copernicus publishes his Sun-centred universe,1543,https://en.wikipedia.org/wiki/Nicolaus_Copernicus
+109,e2,Hans Lipperhey applies to patent a telescope,2 Oct 1608,https://en.wikipedia.org/wiki/Hans_Lipperhey
+109,e3,Shakespeare's Sonnets are published,1609,https://en.wikipedia.org/wiki/Shakespeare%27s_sonnets
+109,e4,Galileo spots moons orbiting Jupiter,7 Jan 1610,https://en.wikipedia.org/wiki/Galilean_moons
+109,e5,King Henri IV of France is assassinated,14 May 1610,https://en.wikipedia.org/wiki/Henry_IV_of_France
+110,e1,A sperm whale sinks the whaleship Essex,20 Nov 1820,https://en.wikipedia.org/wiki/Essex_(whaleship)
+110,e2,Isaac Singer patents his sewing machine,12 Aug 1851,https://en.wikipedia.org/wiki/Isaac_Singer
+110,e3,The yacht America wins the race that names the America's Cup,22 Aug 1851,https://en.wikipedia.org/wiki/America_(yacht)
+110,e4,Herman Melville's Moby-Dick is published,18 Oct 1851,https://en.wikipedia.org/wiki/Moby-Dick
+110,e5,Herman Melville dies in New York,28 Sep 1891,https://en.wikipedia.org/wiki/Herman_Melville
+111,e1,Babbage proposes his Difference Engine,14 Jun 1822,https://en.wikipedia.org/wiki/Difference_engine
+111,e2,Poet Percy Shelley drowns off Italy,8 Jul 1822,https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley
+111,e3,Lord Byron dies in Greece,19 Apr 1824,https://en.wikipedia.org/wiki/Lord_Byron
+111,e4,Beethoven's Ninth Symphony premieres,7 May 1824,https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)
+111,e5,Spain's army surrenders after the Battle of Ayacucho,9 Dec 1824,https://en.wikipedia.org/wiki/Battle_of_Ayacucho
+112,e1,The Mir space station's core is launched,20 Feb 1986,https://en.wikipedia.org/wiki/Mir
+112,e2,Sergei Krikalev launches to the Mir space station,May 1991,https://en.wikipedia.org/wiki/Sergei_Krikalev
+112,e3,Hardliners attempt a coup against Gorbachev,19 Aug 1991,https://en.wikipedia.org/wiki/1991_Soviet_coup_attempt
+112,e4,Mikhail Gorbachev resigns as Soviet president,25 Dec 1991,https://en.wikipedia.org/wiki/Mikhail_Gorbachev
+112,e5,Sergei Krikalev returns to Earth,25 Mar 1992,https://en.wikipedia.org/wiki/Sergei_Krikalev
+113,e1,FIFA is founded in Paris,21 May 1904,https://en.wikipedia.org/wiki/FIFA
+113,e2,The World Cup trophy is stolen in London,20 Mar 1966,https://en.wikipedia.org/wiki/Pickles_(dog)
+113,e3,A dog named Pickles finds the stolen trophy,27 Mar 1966,https://en.wikipedia.org/wiki/Pickles_(dog)
+113,e4,England win the football World Cup,30 Jul 1966,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_final
+113,e5,The Jules Rimet Trophy is stolen in Rio,19 Dec 1983,https://en.wikipedia.org/wiki/FIFA_World_Cup_Trophy
+114,e1,Britain's 'Red Flag Act' limits road locomotives,1865,https://en.wikipedia.org/wiki/Locomotive_Acts
+114,e2,Alfred Nobel patents dynamite,7 May 1867,https://en.wikipedia.org/wiki/Dynamite
+114,e3,A traffic light is installed in London,9 Dec 1868,https://en.wikipedia.org/wiki/John_Peake_Knight
+114,e4,Bertha Benz takes a long-distance drive by car,5 Aug 1888,https://en.wikipedia.org/wiki/Bertha_Benz
+114,e5,A driver gets the world's first speeding ticket,28 Jan 1896,https://en.wikipedia.org/wiki/Speeding_ticket
+115,e1,Salisbury Cathedral's main building is completed,1258,https://en.wikipedia.org/wiki/Salisbury_Cathedral
+115,e2,Lincoln Cathedral's central spire is completed,1311,https://en.wikipedia.org/wiki/Lincoln_Cathedral
+115,e3,Dante completes the Divine Comedy,c. 1321,https://en.wikipedia.org/wiki/Divine_Comedy
+115,e4,Ivan the Terrible is crowned tsar,16 Jan 1547,https://en.wikipedia.org/wiki/Ivan_the_Terrible
+115,e5,Lincoln Cathedral's spire collapses,1548,https://en.wikipedia.org/wiki/Lincoln_Cathedral
+116,e1,Thutmose sculpts the bust of Nefertiti,c. 1345 BC,https://en.wikipedia.org/wiki/Nefertiti_Bust
+116,e2,German archaeologists dig up Nefertiti's bust,6 Dec 1912,https://en.wikipedia.org/wiki/Nefertiti_Bust
+116,e3,'Piltdown Man' is unveiled in London,18 Dec 1912,https://en.wikipedia.org/wiki/Piltdown_Man
+116,e4,Nefertiti's bust goes on public display in Berlin,1924,https://en.wikipedia.org/wiki/Nefertiti_Bust
+116,e5,Piltdown Man is exposed as a hoax,1953,https://en.wikipedia.org/wiki/Piltdown_Man
+117,e1,Huxley and Wilberforce clash over evolution in Oxford,30 Jun 1860,https://en.wikipedia.org/wiki/1860_Oxford_evolution_debate
+117,e2,John Scopes is convicted for teaching evolution,21 Jul 1925,https://en.wikipedia.org/wiki/Scopes_trial
+117,e3,Tennessee repeals its ban on teaching evolution,18 May 1967,https://en.wikipedia.org/wiki/Butler_Act
+117,e4,Surgeons in Cape Town transplant a human heart,3 Dec 1967,https://en.wikipedia.org/wiki/Christiaan_Barnard
+117,e5,The 'Lucy' skeleton is found in Ethiopia,24 Nov 1974,https://en.wikipedia.org/wiki/Lucy_(Australopithecus)
+118,e1,Humphrey Bogart is born,25 Dec 1899,https://en.wikipedia.org/wiki/Humphrey_Bogart
+118,e2,The Battle of Midway begins,4 Jun 1942,https://en.wikipedia.org/wiki/Battle_of_Midway
+118,e3,Allied forces land in French North Africa,8 Nov 1942,https://en.wikipedia.org/wiki/Operation_Torch
+118,e4,Casablanca premieres in New York,26 Nov 1942,https://en.wikipedia.org/wiki/Casablanca_(film)
+118,e5,The first nuclear reactor goes critical,2 Dec 1942,https://en.wikipedia.org/wiki/Chicago_Pile-1
+119,e1,Levi Strauss patents riveted jeans,20 May 1873,https://en.wikipedia.org/wiki/Jeans
+119,e2,Zulu army crushes the British at Isandlwana,22 Jan 1879,https://en.wikipedia.org/wiki/Battle_of_Isandlwana
+119,e3,Albert Einstein is born,14 Mar 1879,https://en.wikipedia.org/wiki/Albert_Einstein
+119,e4,Ibsen's A Doll's House premieres,21 Dec 1879,https://en.wikipedia.org/wiki/A_Doll's_House
+119,e5,Ned Kelly is captured at Glenrowan,28 Jun 1880,https://en.wikipedia.org/wiki/Ned_Kelly
+120,e1,The United States declares war on Germany,6 Apr 1917,https://en.wikipedia.org/wiki/American_entry_into_World_War_I
+120,e2,Ella Fitzgerald is born,25 Apr 1917,https://en.wikipedia.org/wiki/Ella_Fitzgerald
+120,e3,John F. Kennedy is born,29 May 1917,https://en.wikipedia.org/wiki/John_F._Kennedy
+120,e4,Crowds report the 'Miracle of the Sun' at Fátima,13 Oct 1917,https://en.wikipedia.org/wiki/Miracle_of_the_Sun
+120,e5,John F. Kennedy is inaugurated,20 Jan 1961,https://en.wikipedia.org/wiki/Inauguration_of_John_F._Kennedy
+121,e1,Joe Louis wins the world heavyweight title,22 Jun 1937,https://en.wikipedia.org/wiki/Joe_Louis
+121,e2,Amelia Earhart disappears over the Pacific,2 Jul 1937,https://en.wikipedia.org/wiki/Amelia_Earhart
+121,e3,Hormel introduces Spam,5 Jul 1937,https://en.wikipedia.org/wiki/Spam_(food)
+121,e4,Snow White and the Seven Dwarfs premieres,21 Dec 1937,https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)
+121,e5,"Monty Python airs its ""Spam"" sketch",15 Dec 1970,https://en.wikipedia.org/wiki/Spam_(Monty_Python_sketch)
+122,e1,Stephenson's Rocket wins the Rainhill Trials,Oct 1829,https://en.wikipedia.org/wiki/Rainhill_trials
+122,e2,Joseph Smith founds the Mormon church,6 Apr 1830,https://en.wikipedia.org/wiki/Church_of_Christ_(Latter_Day_Saints)
+122,e3,France's July Revolution topples Charles X,27 Jul 1830,https://en.wikipedia.org/wiki/July_Revolution
+122,e4,Edwin Budding patents the lawnmower,31 Aug 1830,https://en.wikipedia.org/wiki/Edwin_Beard_Budding
+122,e5,The Liverpool and Manchester Railway opens,15 Sep 1830,https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway
+123,e1,Caxton prints Sayings of the Philosophers,18 Nov 1477,https://en.wikipedia.org/wiki/William_Caxton
+123,e2,Richard III dies at the Battle of Bosworth,22 Aug 1485,https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field
+123,e3,Shakespeare's Richard III is written,c. 1593,https://en.wikipedia.org/wiki/Richard_III_(play)
+123,e4,Alec Jeffreys discovers DNA fingerprinting,10 Sep 1984,https://en.wikipedia.org/wiki/Alec_Jeffreys
+123,e5,Richard III's skeleton is found under a car park,25 Aug 2012,https://en.wikipedia.org/wiki/Exhumation_and_reburial_of_Richard_III_of_England
+124,e1,Mokaya people sip frothy cacao drinks,by 1900 BC,https://en.wikipedia.org/wiki/History_of_chocolate
+124,e2,Columbus's crew meets cacao on a Maya canoe,15 Aug 1502,https://en.wikipedia.org/wiki/History_of_chocolate
+124,e3,Maya nobles bring chocolate to Spain's court,1544,https://en.wikipedia.org/wiki/History_of_chocolate
+124,e4,Daniel Peter invents milk chocolate,1875,https://en.wikipedia.org/wiki/Daniel_Peter
+124,e5,The Hershey bar goes on sale,1900,https://en.wikipedia.org/wiki/Hershey_bar
+125,e1,Ernest Rutherford is born,30 Aug 1871,https://en.wikipedia.org/wiki/Ernest_Rutherford
+125,e2,The Lindbergh baby is kidnapped,1 Mar 1932,https://en.wikipedia.org/wiki/Lindbergh_kidnapping
+125,e3,Sydney Harbour Bridge opens,19 Mar 1932,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge
+125,e4,Cockcroft and Walton split the atom,14 Apr 1932,https://en.wikipedia.org/wiki/John_Cockcroft
+125,e5,Amelia Earhart sets off on a solo Atlantic flight,20 May 1932,https://en.wikipedia.org/wiki/Amelia_Earhart
+126,e1,Deep Blue beats Garry Kasparov at chess,11 May 1997,https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov
+126,e2,Harry Potter and the Philosopher's Stone is published,26 Jun 1997,https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher's_Stone
+126,e3,Britain hands Hong Kong back to China,1 Jul 1997,https://en.wikipedia.org/wiki/Handover_of_Hong_Kong
+126,e4,Mars Pathfinder lands on Mars,4 Jul 1997,https://en.wikipedia.org/wiki/Mars_Pathfinder
+126,e5,"Diana, Princess of Wales, dies in Paris",31 Aug 1997,"https://en.wikipedia.org/wiki/Death_of_Diana,_Princess_of_Wales"
+127,e1,Mozart’s The Marriage of Figaro premieres,1 May 1786,https://en.wikipedia.org/wiki/The_Marriage_of_Figaro
+127,e2,Mutiny breaks out on HMS Bounty,28 Apr 1789,https://en.wikipedia.org/wiki/Mutiny_on_the_Bounty
+127,e3,George Washington is sworn in as president,30 Apr 1789,https://en.wikipedia.org/wiki/First_inauguration_of_George_Washington
+127,e4,Bounty mutineers land on Pitcairn Island,Jan 1790,https://en.wikipedia.org/wiki/Pitcairn_Islands
+127,e5,Kamehameha wins the Battle of Nuʻuanu,May 1795,https://en.wikipedia.org/wiki/Battle_of_Nuʻuanu
+128,e1,New York's Woolworth Building opens,24 Apr 1913,https://en.wikipedia.org/wiki/Woolworth_Building
+128,e2,The Chrysler Building opens,27 May 1930,https://en.wikipedia.org/wiki/Chrysler_Building
+128,e3,'The Star-Spangled Banner' becomes the US anthem,3 Mar 1931,https://en.wikipedia.org/wiki/The_Star-Spangled_Banner
+128,e4,The Empire State Building opens,1 May 1931,https://en.wikipedia.org/wiki/Empire_State_Building
+128,e5,King Kong premieres in New York,2 Mar 1933,https://en.wikipedia.org/wiki/King_Kong_(1933_film)
+129,e1,The Holy Roman Empire is dissolved,6 Aug 1806,https://en.wikipedia.org/wiki/Dissolution_of_the_Holy_Roman_Empire
+129,e2,The first Oktoberfest is held in Munich,12 Oct 1810,https://en.wikipedia.org/wiki/Oktoberfest
+129,e3,The Brothers Grimm publish their fairy tales,20 Dec 1812,https://en.wikipedia.org/wiki/Grimms%27_Fairy_Tales
+129,e4,The German Empire is proclaimed at Versailles,18 Jan 1871,https://en.wikipedia.org/wiki/Proclamation_of_the_German_Empire
+129,e5,Hitler's Beer Hall Putsch fails in Munich,8 Nov 1923,https://en.wikipedia.org/wiki/Beer_Hall_Putsch
+130,e1,Iceland's Laki volcano begins erupting,8 Jun 1783,https://en.wikipedia.org/wiki/Laki
+130,e2,The Treaty of Paris ends the American war,3 Sep 1783,https://en.wikipedia.org/wiki/Treaty_of_Paris_(1783)
+130,e3,Humans fly in a Montgolfier hot-air balloon,21 Nov 1783,https://en.wikipedia.org/wiki/Montgolfier_brothers
+130,e4,Jacques Charles flies a hydrogen balloon,1 Dec 1783,https://en.wikipedia.org/wiki/Jacques_Charles
+130,e5,A balloon crosses the English Channel,7 Jan 1785,https://en.wikipedia.org/wiki/Jean-Pierre_Blanchard
+131,e1,Pakal becomes king of Palenque at age 12,Jul 615,https://en.wikipedia.org/wiki/K'inich_Janaab'_Pakal
+131,e2,Pakal the Great dies at Palenque,29 Aug 683,https://en.wikipedia.org/wiki/K'inich_Janaab'_Pakal
+131,e3,A Spanish expedition reaches the Maya coast of Yucatán,1517,https://en.wikipedia.org/wiki/Francisco_Hernández_de_Córdoba_(Yucatán_conquistador)
+131,e4,Stephens and Catherwood publish their Maya travels,1841,https://en.wikipedia.org/wiki/John_Lloyd_Stephens
+131,e5,Archaeologists open Pakal's hidden tomb,1952,https://en.wikipedia.org/wiki/Temple_of_the_Inscriptions
+132,e1,Ashoka conquers Kalinga in a bloody war,c. 261 BC,https://en.wikipedia.org/wiki/Kalinga_War
+132,e2,The Lion Capital is carved for Ashoka at Sarnath,c. 250 BC,https://en.wikipedia.org/wiki/Lion_Capital_of_Ashoka
+132,e3,Archaeologists unearth the Lion Capital at Sarnath,1905,https://en.wikipedia.org/wiki/Lion_Capital_of_Ashoka
+132,e4,Mahatma Gandhi is assassinated,30 Jan 1948,https://en.wikipedia.org/wiki/Assassination_of_Mahatma_Gandhi
+132,e5,India adopts Ashoka's lions as its national emblem,26 Jan 1950,https://en.wikipedia.org/wiki/State_Emblem_of_India
+133,e1,Humanae Vitae rejects artificial birth control,25 Jul 1968,https://en.wikipedia.org/wiki/Humanae_vitae
+133,e2,The Garfield comic strip debuts,19 Jun 1978,https://en.wikipedia.org/wiki/Garfield
+133,e3,"Louise Brown, the first 'test-tube baby', is born",25 Jul 1978,https://en.wikipedia.org/wiki/Louise_Brown
+133,e4,John Paul I is elected pope,26 Aug 1978,https://en.wikipedia.org/wiki/Pope_John_Paul_I
+133,e5,John Paul II is elected pope,16 Oct 1978,https://en.wikipedia.org/wiki/Pope_John_Paul_II
+134,e1,Granada surrenders to Ferdinand and Isabella,2 Jan 1492,https://en.wikipedia.org/wiki/Fall_of_Granada
+134,e2,Columbus sets sail on his fourth voyage,9 May 1502,https://en.wikipedia.org/wiki/Fourth_voyage_of_Christopher_Columbus
+134,e3,Michelangelo's David is unveiled in Florence,8 Sep 1504,https://en.wikipedia.org/wiki/David_(Michelangelo)
+134,e4,Christopher Columbus dies,20 May 1506,https://en.wikipedia.org/wiki/Christopher_Columbus
+134,e5,A world map is the first to name the land 'America',1507,https://en.wikipedia.org/wiki/Waldseem%C3%BCller_map
+135,e1,Taiping Rebellion breaks out at Jintian,11 Jan 1851,https://en.wikipedia.org/wiki/Jintian_Uprising
+135,e2,Indian Rebellion erupts at Meerut,10 May 1857,https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857
+135,e3,The Emancipation Proclamation takes effect,1 Jan 1863,https://en.wikipedia.org/wiki/Emancipation_Proclamation
+135,e4,The London Underground opens,10 Jan 1863,https://en.wikipedia.org/wiki/Metropolitan_Railway
+135,e5,Qing forces retake Nanjing from the Taiping,Jul 1864,https://en.wikipedia.org/wiki/Third_Battle_of_Nanking
+136,e1,Orville Wright is born,19 Aug 1871,https://en.wikipedia.org/wiki/Orville_Wright
+136,e2,Wilbur Wright dies of typhoid,30 May 1912,https://en.wikipedia.org/wiki/Wilbur_Wright
+136,e3,Chuck Yeager breaks the sound barrier,14 Oct 1947,https://en.wikipedia.org/wiki/Bell_X-1
+136,e4,Bell Labs demonstrates the transistor,23 Dec 1947,https://en.wikipedia.org/wiki/History_of_the_transistor
+136,e5,Orville Wright dies,30 Jan 1948,https://en.wikipedia.org/wiki/Orville_Wright
+137,e1,New Mexico becomes a US state,6 Jan 1912,https://en.wikipedia.org/wiki/New_Mexico
+137,e2,Future Titanic survivor Millvina Dean is born,2 Feb 1912,https://en.wikipedia.org/wiki/Millvina_Dean
+137,e3,Barack Obama is inaugurated as president,20 Jan 2009,https://en.wikipedia.org/wiki/First_inauguration_of_Barack_Obama
+137,e4,The last Titanic survivor dies,31 May 2009,https://en.wikipedia.org/wiki/Millvina_Dean
+137,e5,An Air France jet crashes into the Atlantic,1 Jun 2009,https://en.wikipedia.org/wiki/Air_France_Flight_447
+138,e1,The Great Chicago Fire breaks out,8 Oct 1871,https://en.wikipedia.org/wiki/Great_Chicago_Fire
+138,e2,The Brooklyn Bridge opens,24 May 1883,https://en.wikipedia.org/wiki/Brooklyn_Bridge
+138,e3,The last quagga dies in Amsterdam's zoo,12 Aug 1883,https://en.wikipedia.org/wiki/Quagga
+138,e4,Krakatoa erupts in a cataclysmic explosion,27 Aug 1883,https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa
+138,e5,The Statue of Liberty is dedicated,28 Oct 1886,https://en.wikipedia.org/wiki/Statue_of_Liberty
+139,e1,Austria-Hungary declares war on Serbia,28 Jul 1914,https://en.wikipedia.org/wiki/Austro-Hungarian_declaration_of_war_on_Serbia
+139,e2,The Beatles play the Cavern Club for the first time,9 Feb 1961,https://en.wikipedia.org/wiki/The_Cavern_Club
+139,e3,The Beatles release 'Love Me Do',5 Oct 1962,https://en.wikipedia.org/wiki/Love_Me_Do
+139,e4,The Cuban Missile Crisis begins,16 Oct 1962,https://en.wikipedia.org/wiki/Cuban_Missile_Crisis
+139,e5,Paul McCartney announces the Beatles' split,10 Apr 1970,https://en.wikipedia.org/wiki/Breakup_of_the_Beatles
+140,e1,Lenin dies,21 Jan 1924,https://en.wikipedia.org/wiki/Vladimir_Lenin
+140,e2,The first Winter Olympics open in Chamonix,25 Jan 1924,https://en.wikipedia.org/wiki/1924_Winter_Olympics
+140,e3,Gershwin's Rhapsody in Blue premieres,12 Feb 1924,https://en.wikipedia.org/wiki/Rhapsody_in_Blue
+140,e4,Mallory and Irvine vanish near Everest's summit,8 Jun 1924,https://en.wikipedia.org/wiki/1924_British_Mount_Everest_expedition
+140,e5,Jamaica's bobsleigh team debuts at the Olympics,1988,https://en.wikipedia.org/wiki/Jamaica_national_bobsleigh_team
+141,e1,Thomas Paine publishes Common Sense,10 Jan 1776,https://en.wikipedia.org/wiki/Common_Sense
+141,e2,The submarine Turtle attacks a British flagship,7 Sep 1776,https://en.wikipedia.org/wiki/Turtle_(submersible)
+141,e3,British troops land at Kip's Bay and take New York,15 Sep 1776,https://en.wikipedia.org/wiki/Landing_at_Kip%27s_Bay
+141,e4,Spain founds the Presidio of San Francisco,17 Sep 1776,https://en.wikipedia.org/wiki/Presidio_of_San_Francisco
+141,e5,Captain Cook is killed in Hawaii,14 Feb 1779,https://en.wikipedia.org/wiki/James_Cook
+142,e1,Work begins on Notre-Dame de Paris,1163,https://en.wikipedia.org/wiki/Notre-Dame_de_Paris
+142,e2,Thomas Becket is murdered in Canterbury Cathedral,29 Dec 1170,https://en.wikipedia.org/wiki/Thomas_Becket
+142,e3,Polynesian voyagers settle New Zealand,c. 1320,https://en.wikipedia.org/wiki/History_of_New_Zealand
+142,e4,Abel Tasman sights New Zealand,13 Dec 1642,https://en.wikipedia.org/wiki/Abel_Tasman
+142,e5,Fire destroys Notre-Dame's spire and roof,15 Apr 2019,https://en.wikipedia.org/wiki/Notre-Dame_fire
+143,e1,The Parthenon is completed in Athens,432 BC,https://en.wikipedia.org/wiki/Parthenon
+143,e2,Socrates is sentenced to death,399 BC,https://en.wikipedia.org/wiki/Trial_of_Socrates
+143,e3,A Venetian shell blows up the Parthenon,26 Sep 1687,https://en.wikipedia.org/wiki/Siege_of_the_Acropolis_(1687)
+143,e4,Lord Elgin's agents start stripping the Parthenon,1801,https://en.wikipedia.org/wiki/Elgin_Marbles
+143,e5,The new Acropolis Museum opens,20 Jun 2009,https://en.wikipedia.org/wiki/Acropolis_Museum
+144,e1,London's Great Exhibition opens,1 May 1851,https://en.wikipedia.org/wiki/The_Great_Exhibition
+144,e2,John Snow has the Broad Street pump disabled,8 Sep 1854,https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak
+144,e3,The Charge of the Light Brigade,25 Oct 1854,https://en.wikipedia.org/wiki/Charge_of_the_Light_Brigade
+144,e4,Florence Nightingale arrives at Scutari,Nov 1854,https://en.wikipedia.org/wiki/Florence_Nightingale
+144,e5,The 'Great Stink' engulfs London,1858,https://en.wikipedia.org/wiki/Great_Stink
+145,e1,Tennis for Two is shown at a US lab open day,18 Oct 1958,https://en.wikipedia.org/wiki/Tennis_for_Two
+145,e2,MIT students create the game Spacewar!,1962,https://en.wikipedia.org/wiki/Spacewar!
+145,e3,The Godfather premieres in New York,14 Mar 1972,https://en.wikipedia.org/wiki/The_Godfather
+145,e4,Atari releases Pong,29 Nov 1972,https://en.wikipedia.org/wiki/Pong
+145,e5,Apollo 17 launches for the Moon,7 Dec 1972,https://en.wikipedia.org/wiki/Apollo_17
+146,e1,US Navy wins the Battle of Manila Bay,1 May 1898,https://en.wikipedia.org/wiki/Battle_of_Manila_Bay
+146,e2,Britain leases Hong Kong's New Territories for 99 years,9 Jun 1898,https://en.wikipedia.org/wiki/Convention_for_the_Extension_of_Hong_Kong_Territory
+146,e3,The Philippines declares independence from Spain,12 Jun 1898,https://en.wikipedia.org/wiki/Philippine_Declaration_of_Independence
+146,e4,The Curies announce the discovery of radium,26 Dec 1898,https://en.wikipedia.org/wiki/Radium
+146,e5,Hong Kong is handed back to China,1 Jul 1997,https://en.wikipedia.org/wiki/Handover_of_Hong_Kong
+147,e1,James Watt patents his separate condenser,5 Jan 1769,https://en.wikipedia.org/wiki/James_Watt
+147,e2,Future Duke of Wellington is born,1 May 1769,"https://en.wikipedia.org/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington"
+147,e3,Captain Cook's crew observe the transit of Venus,3 Jun 1769,https://en.wikipedia.org/wiki/1769_transit_of_Venus_observed_from_Tahiti
+147,e4,Napoleon is born on Corsica,15 Aug 1769,https://en.wikipedia.org/wiki/Napoleon
+147,e5,The Duke of Wellington dies,14 Sep 1852,"https://en.wikipedia.org/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington"
+148,e1,Dutch sailors first describe the dodo,1598,https://en.wikipedia.org/wiki/Dodo
+148,e2,The Dutch found a settlement at Cape Town,6 Apr 1652,https://en.wikipedia.org/wiki/Jan_van_Riebeeck
+148,e3,The Taj Mahal complex is completed,1653,https://en.wikipedia.org/wiki/Taj_Mahal
+148,e4,The last widely accepted dodo sighting,1662,https://en.wikipedia.org/wiki/Dodo
+148,e5,The Great Fire of London breaks out,2 Sep 1666,https://en.wikipedia.org/wiki/Great_Fire_of_London
+149,e1,Mother Teresa founds the Missionaries of Charity,7 Oct 1950,https://en.wikipedia.org/wiki/Missionaries_of_Charity
+149,e2,Diana Spencer is born,1 Jul 1961,"https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales"
+149,e3,Charles and Diana marry at St Paul's,29 Jul 1981,https://en.wikipedia.org/wiki/Wedding_of_Prince_Charles_and_Lady_Diana_Spencer
+149,e4,"Diana, Princess of Wales, dies in Paris",31 Aug 1997,"https://en.wikipedia.org/wiki/Death_of_Diana,_Princess_of_Wales"
+149,e5,Mother Teresa dies in Calcutta,5 Sep 1997,https://en.wikipedia.org/wiki/Mother_Teresa
+150,e1,"Hargraves finds gold, sparking Australia's gold rush",Feb 1851,https://en.wikipedia.org/wiki/Edward_Hargraves
+150,e2,The schooner America wins a race round the Isle of Wight,22 Aug 1851,https://en.wikipedia.org/wiki/America_(yacht)
+150,e3,The New York Times publishes its first issue,18 Sep 1851,https://en.wikipedia.org/wiki/George_Jones_(publisher)
+150,e4,Moby-Dick is published in London,18 Oct 1851,https://en.wikipedia.org/wiki/Moby-Dick
+150,e5,Australia II wins the America's Cup,26 Sep 1983,https://en.wikipedia.org/wiki/Australia_II
+151,e1,The British Museum opens to the public,15 Jan 1759,https://en.wikipedia.org/wiki/British_Museum
+151,e2,Handel dies in London,14 Apr 1759,https://en.wikipedia.org/wiki/George_Frideric_Handel
+151,e3,Wolfe defeats the French at Quebec,13 Sep 1759,https://en.wikipedia.org/wiki/Battle_of_the_Plains_of_Abraham
+151,e4,Arthur Guinness leases the St James's Gate brewery,31 Dec 1759,https://en.wikipedia.org/wiki/St._James%27s_Gate_Brewery
+151,e5,The Guinness Book of Records is first published,27 Aug 1955,https://en.wikipedia.org/wiki/Guinness_World_Records
+152,e1,Temüjin is proclaimed Genghis Khan,1206,https://en.wikipedia.org/wiki/Genghis_Khan
+152,e2,The University of Cambridge is founded,1209,https://en.wikipedia.org/wiki/University_of_Cambridge
+152,e3,Mongols capture the city that became Beijing,Jun 1215,https://en.wikipedia.org/wiki/Siege_of_Zhongdu
+152,e4,Genghis Khan dies,Aug 1227,https://en.wikipedia.org/wiki/Genghis_Khan
+152,e5,Mamluks halt the Mongols at Ain Jalut,3 Sep 1260,https://en.wikipedia.org/wiki/Battle_of_Ain_Jalut
+153,e1,Sumerian poems about Gilgamesh are written,c. 2100 BC,https://en.wikipedia.org/wiki/Epic_of_Gilgamesh
+153,e2,Babylonians and Medes sack Nineveh,612 BC,https://en.wikipedia.org/wiki/Nineveh
+153,e3,Ashurbanipal's buried library is discovered,1849,https://en.wikipedia.org/wiki/Library_of_Ashurbanipal
+153,e4,Yellowstone becomes a national park,1 Mar 1872,https://en.wikipedia.org/wiki/Yellowstone_National_Park
+153,e5,George Smith reveals a Babylonian flood story,3 Dec 1872,https://en.wikipedia.org/wiki/George_Smith_(Assyriologist)
+154,e1,The Hubble Space Telescope is launched,24 Apr 1990,https://en.wikipedia.org/wiki/Hubble_Space_Telescope
+154,e2,The Rwandan genocide begins,7 Apr 1994,https://en.wikipedia.org/wiki/Rwandan_genocide
+154,e3,Jeff Bezos founds Amazon,5 Jul 1994,https://en.wikipedia.org/wiki/Amazon_(company)
+154,e4,Comet fragments begin slamming into Jupiter,16 Jul 1994,https://en.wikipedia.org/wiki/Comet_Shoemaker–Levy_9
+154,e5,Brazil wins a World Cup final on penalties,17 Jul 1994,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_final
+155,e1,Nintendo's Famicom console goes on sale in Japan,15 Jul 1983,https://en.wikipedia.org/wiki/Nintendo_Entertainment_System
+155,e2,Back to the Future opens in US cinemas,3 Jul 1985,https://en.wikipedia.org/wiki/Back_to_the_Future
+155,e3,The wreck of the Titanic is found,1 Sep 1985,https://en.wikipedia.org/wiki/Wreck_of_the_Titanic
+155,e4,Super Mario Bros. is released,13 Sep 1985,https://en.wikipedia.org/wiki/Super_Mario_Bros.
+155,e5,The Space Shuttle Challenger breaks apart,28 Jan 1986,https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster
+156,e1,Buenos Aires ousts its Spanish viceroy,25 May 1810,https://en.wikipedia.org/wiki/May_Revolution
+156,e2,Father Hidalgo issues the Grito de Dolores,16 Sep 1810,https://en.wikipedia.org/wiki/Cry_of_Dolores
+156,e3,Chile sets up its first government junta,18 Sep 1810,https://en.wikipedia.org/wiki/Government_Junta_of_Chile_(1810)
+156,e4,Sense and Sensibility is published,1811,https://en.wikipedia.org/wiki/Sense_and_Sensibility
+156,e5,Napoleon invades Russia,24 Jun 1812,https://en.wikipedia.org/wiki/French_invasion_of_Russia
+157,e1,The Battle of Antietam is fought in Maryland,17 Sep 1862,https://en.wikipedia.org/wiki/Battle_of_Antietam
+157,e2,Abraham Lincoln is shot at Ford's Theatre,14 Apr 1865,https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln
+157,e3,Elvis Presley releases Heartbreak Hotel,27 Jan 1956,https://en.wikipedia.org/wiki/Heartbreak_Hotel
+157,e4,"Samuel Seymour, who saw Lincoln shot, appears on TV",9 Feb 1956,https://en.wikipedia.org/wiki/Samuel_J._Seymour
+157,e5,"Samuel Seymour, among the last Lincoln witnesses, dies",12 Apr 1956,https://en.wikipedia.org/wiki/Samuel_J._Seymour
+158,e1,Michelangelo unveils the Sistine Chapel ceiling,1512,https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling
+158,e2,Magellan's fleet sets sail from Spain,20 Sep 1519,https://en.wikipedia.org/wiki/Magellan_expedition
+158,e3,The Victoria completes the voyage round the world,6 Sep 1522,https://en.wikipedia.org/wiki/Magellan_expedition
+158,e4,Copernicus publishes his Sun-centred universe,1543,https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium
+158,e5,Mercator publishes his famous world map,1569,https://en.wikipedia.org/wiki/Mercator_1569_world_map
+159,e1,The Gulf of Tonkin incident,2 Aug 1964,https://en.wikipedia.org/wiki/Gulf_of_Tonkin_incident
+159,e2,The Tet Offensive begins,30 Jan 1968,https://en.wikipedia.org/wiki/Tet_Offensive
+159,e3,Bill Gates and Paul Allen found Microsoft,4 Apr 1975,https://en.wikipedia.org/wiki/Microsoft
+159,e4,Saigon falls to North Vietnamese forces,30 Apr 1975,https://en.wikipedia.org/wiki/Fall_of_Saigon
+159,e5,Jimmy Hoffa vanishes outside a Detroit restaurant,30 Jul 1975,https://en.wikipedia.org/wiki/Jimmy_Hoffa
+160,e1,English forces invade Jamaica,May 1655,https://en.wikipedia.org/wiki/Invasion_of_Jamaica
+160,e2,Admiral Vernon orders sailors' rum watered into grog,21 Aug 1740,https://en.wikipedia.org/wiki/Grog
+160,e3,Paul McCartney announces he has left the Beatles,10 Apr 1970,https://en.wikipedia.org/wiki/Breakup_of_the_Beatles
+160,e4,Apollo 13 launches for the Moon,11 Apr 1970,https://en.wikipedia.org/wiki/Apollo_13
+160,e5,The Royal Navy issues its last rum ration,31 Jul 1970,https://en.wikipedia.org/wiki/Black_Tot_Day
+161,e1,Monteverdi's opera L'Orfeo premieres in Mantua,24 Feb 1607,https://en.wikipedia.org/wiki/L%27Orfeo
+161,e2,Samuel de Champlain founds Quebec City,3 Jul 1608,https://en.wikipedia.org/wiki/Quebec_City
+161,e3,Lippershey applies to patent the telescope,2 Oct 1608,https://en.wikipedia.org/wiki/Hans_Lipperhey
+161,e4,Galileo spots the moons of Jupiter,7 Jan 1610,https://en.wikipedia.org/wiki/Galilean_moons
+161,e5,The King James Bible is published,1611,https://en.wikipedia.org/wiki/King_James_Version
+162,e1,Granada surrenders to Spain's Catholic Monarchs,2 Jan 1492,https://en.wikipedia.org/wiki/Fall_of_Granada
+162,e2,The Alhambra Decree orders Spain's Jews expelled,31 Mar 1492,https://en.wikipedia.org/wiki/Alhambra_Decree
+162,e3,Lorenzo de' Medici dies in Florence,8 Apr 1492,https://en.wikipedia.org/wiki/Lorenzo_de'_Medici
+162,e4,Columbus sets sail from Palos,3 Aug 1492,https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus
+162,e5,Rodrigo Borgia is elected pope,11 Aug 1492,https://en.wikipedia.org/wiki/Pope_Alexander_VI
+163,e1,The Romans found Londinium,c. 47,https://en.wikipedia.org/wiki/Londinium
+163,e2,Boudica's rebels burn London,c. 60,https://en.wikipedia.org/wiki/Boudican_revolt
+163,e3,A Roman officer's wife sends a birthday invitation,c. 100,https://en.wikipedia.org/wiki/Vindolanda_tablets
+163,e4,Work begins on Hadrian's Wall,122,https://en.wikipedia.org/wiki/Hadrian's_Wall
+163,e5,Great Fire of London breaks out,2 Sep 1666,https://en.wikipedia.org/wiki/Great_Fire_of_London
+164,e1,Astronomers hold the 'Great Debate' on the universe,26 Apr 1920,https://en.wikipedia.org/wiki/Great_Debate_(astronomy)
+164,e2,The Winter Olympics are held for the first time,25 Jan 1924,https://en.wikipedia.org/wiki/1924_Winter_Olympics
+164,e3,Hubble shows Andromeda lies beyond the Milky Way,1 Jan 1925,https://en.wikipedia.org/wiki/Edwin_Hubble
+164,e4,The Great Gatsby is published,10 Apr 1925,https://en.wikipedia.org/wiki/The_Great_Gatsby
+164,e5,Georges Lemaître proposes an expanding universe,1927,https://en.wikipedia.org/wiki/Georges_Lemaître
+165,e1,Kurt Cobain is born,20 Feb 1967,https://en.wikipedia.org/wiki/Kurt_Cobain
+165,e2,The world's first website goes online,20 Dec 1990,https://en.wikipedia.org/wiki/Info.cern.ch
+165,e3,Operation Desert Storm begins,17 Jan 1991,https://en.wikipedia.org/wiki/Gulf_War
+165,e4,Nirvana releases Nevermind,24 Sep 1991,https://en.wikipedia.org/wiki/Nevermind
+165,e5,The Soviet Union is dissolved,26 Dec 1991,https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union
+166,e1,The Ottomans begin a siege of Vienna,27 Sep 1529,https://en.wikipedia.org/wiki/Siege_of_Vienna_(1529)
+166,e2,Pizarro captures Atahualpa at Cajamarca,16 Nov 1532,https://en.wikipedia.org/wiki/Battle_of_Cajamarca
+166,e3,The Inca emperor Atahualpa is executed,26 Jul 1533,https://en.wikipedia.org/wiki/Atahualpa
+166,e4,Future Queen Elizabeth I is born,7 Sep 1533,https://en.wikipedia.org/wiki/Elizabeth_I
+166,e5,The Pope approves the Jesuit order,27 Sep 1540,https://en.wikipedia.org/wiki/Society_of_Jesus
+167,e1,Saladin crushes the crusader army at Hattin,4 Jul 1187,https://en.wikipedia.org/wiki/Battle_of_Hattin
+167,e2,Richard the Lionheart dies of a crossbow wound,6 Apr 1199,https://en.wikipedia.org/wiki/Richard_I_of_England
+167,e3,Temüjin is proclaimed Genghis Khan,1206,https://en.wikipedia.org/wiki/Genghis_Khan
+167,e4,St Francis of Assisi dies,3 Oct 1226,https://en.wikipedia.org/wiki/Francis_of_Assisi
+167,e5,Genghis Khan dies,Aug 1227,https://en.wikipedia.org/wiki/Genghis_Khan
+168,e1,The Olympic Games open in London,27 Apr 1908,https://en.wikipedia.org/wiki/1908_Summer_Olympics
+168,e2,A huge blast flattens Siberian forest at Tunguska,30 Jun 1908,https://en.wikipedia.org/wiki/Tunguska_event
+168,e3,Butch Cassidy and the Sundance Kid die in Bolivia,7 Nov 1908,https://en.wikipedia.org/wiki/Butch_Cassidy
+168,e4,An earthquake destroys Messina in Sicily,28 Dec 1908,https://en.wikipedia.org/wiki/1908_Messina_earthquake
+168,e5,Robert Peary claims to reach the North Pole,6 Apr 1909,https://en.wikipedia.org/wiki/Robert_Peary
+169,e1,The Bay of Pigs invasion begins,17 Apr 1961,https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion
+169,e2,"The Freedom Riders set off from Washington, D.C.",4 May 1961,https://en.wikipedia.org/wiki/Freedom_Riders
+169,e3,Kennedy asks Congress to aim for the Moon,25 May 1961,https://en.wikipedia.org/wiki/Apollo_program
+169,e4,Ernest Hemingway dies,2 Jul 1961,https://en.wikipedia.org/wiki/Ernest_Hemingway
+169,e5,Construction of the Berlin Wall begins,13 Aug 1961,https://en.wikipedia.org/wiki/Berlin_Wall
+170,e1,William Webb Ellis supposedly runs with the ball,1823,https://en.wikipedia.org/wiki/William_Webb_Ellis
+170,e2,The Rugby Football Union is founded in London,26 Jan 1871,https://en.wikipedia.org/wiki/Rugby_Football_Union
+170,e3,The Paris Commune seizes power,18 Mar 1871,https://en.wikipedia.org/wiki/Paris_Commune
+170,e4,Scotland and England play the first rugby international,27 Mar 1871,https://en.wikipedia.org/wiki/1871_Scotland_versus_England_rugby_union_match
+170,e5,The Rugby World Cup kicks off,22 May 1987,https://en.wikipedia.org/wiki/1987_Rugby_World_Cup
+171,e1,Charles Dickens is born in Portsmouth,7 Feb 1812,https://en.wikipedia.org/wiki/Charles_Dickens
+171,e2,The Thames Tunnel opens in London,25 Mar 1843,https://en.wikipedia.org/wiki/Thames_Tunnel
+171,e3,Brunel's SS Great Britain is launched,19 Jul 1843,https://en.wikipedia.org/wiki/SS_Great_Britain
+171,e4,Ada Lovelace publishes her Analytical Engine notes,Sep 1843,https://en.wikipedia.org/wiki/Ada_Lovelace
+171,e5,Dickens publishes A Christmas Carol,19 Dec 1843,https://en.wikipedia.org/wiki/A_Christmas_Carol
+172,e1,Al-Khwarizmi writes the book that names algebra,c. 820,https://en.wikipedia.org/wiki/Al-Jabr
+172,e2,Fibonacci publishes Liber Abaci,1202,https://en.wikipedia.org/wiki/Liber_Abaci
+172,e3,Plus and minus signs first appear in print,1489,https://en.wikipedia.org/wiki/Plus_and_minus_signs
+172,e4,Robert Recorde invents the equals sign,1557,https://en.wikipedia.org/wiki/Equals_sign
+172,e5,"Descartes publishes 'I think, therefore I am'",1637,https://en.wikipedia.org/wiki/Discourse_on_the_Method
+173,e1,Thutmose III raises an obelisk at Heliopolis,c. 1450 BC,https://en.wikipedia.org/wiki/Cleopatra's_Needle_(London)
+173,e2,Cleopatra is born,69 BC,https://en.wikipedia.org/wiki/Cleopatra
+173,e3,The Luxor obelisk is raised in Paris,1836,https://en.wikipedia.org/wiki/Luxor_Obelisks
+173,e4,Cleopatra's Needle is erected on London's Embankment,12 Sep 1878,https://en.wikipedia.org/wiki/Cleopatra's_Needle_(London)
+173,e5,New York's Cleopatra's Needle is raised in Central Park,22 Feb 1881,https://en.wikipedia.org/wiki/Cleopatra's_Needle_(New_York_City)
+174,e1,Clara Barton founds the American Red Cross,21 May 1881,https://en.wikipedia.org/wiki/Clara_Barton
+174,e2,President James Garfield is shot in Washington,2 Jul 1881,https://en.wikipedia.org/wiki/Assassination_of_James_A._Garfield
+174,e3,Pat Garrett shoots Billy the Kid,14 Jul 1881,https://en.wikipedia.org/wiki/Billy_the_Kid
+174,e4,President Garfield dies of his infected wound,19 Sep 1881,https://en.wikipedia.org/wiki/James_A._Garfield
+174,e5,The Gunfight at the O.K. Corral,26 Oct 1881,https://en.wikipedia.org/wiki/Gunfight_at_the_O.K._Corral
+175,e1,Tchaikovsky's Swan Lake premieres in Moscow,4 Mar 1877,https://en.wikipedia.org/wiki/Swan_Lake
+175,e2,Carnegie Hall opens in New York,5 May 1891,https://en.wikipedia.org/wiki/Carnegie_Hall
+175,e3,The first game of basketball is played,21 Dec 1891,https://en.wikipedia.org/wiki/History_of_basketball
+175,e4,The Nutcracker premieres in St Petersburg,18 Dec 1892,https://en.wikipedia.org/wiki/The_Nutcracker
+175,e5,Pyotr Ilyich Tchaikovsky dies,6 Nov 1893,https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky
+176,e1,"An earthquake sinks much of Port Royal, Jamaica",7 Jun 1692,https://en.wikipedia.org/wiki/1692_Jamaica_earthquake
+176,e2,The 47 ronin avenge their master in Edo,31 Jan 1703,https://en.wikipedia.org/wiki/Forty-seven_rōnin
+176,e3,Peter the Great founds St Petersburg,27 May 1703,https://en.wikipedia.org/wiki/Saint_Petersburg
+176,e4,England and Scotland unite as Great Britain,1 May 1707,https://en.wikipedia.org/wiki/Acts_of_Union_1707
+176,e5,Mount Fuji erupts for the last time,16 Dec 1707,https://en.wikipedia.org/wiki/Hōei_eruption
+177,e1,Geronimo surrenders to the US Army,4 Sep 1886,https://en.wikipedia.org/wiki/Geronimo
+177,e2,The Statue of Liberty is dedicated,28 Oct 1886,https://en.wikipedia.org/wiki/Statue_of_Liberty
+177,e3,An earthquake devastates San Francisco,18 Apr 1906,https://en.wikipedia.org/wiki/1906_San_Francisco_earthquake
+177,e4,Geronimo dies,17 Feb 1909,https://en.wikipedia.org/wiki/Geronimo
+177,e5,Louis Blériot flies across the English Channel,25 Jul 1909,https://en.wikipedia.org/wiki/Louis_Blériot
+178,e1,Patriots dump tea into Boston Harbor,16 Dec 1773,https://en.wikipedia.org/wiki/Boston_Tea_Party
+178,e2,An armistice ends the fighting of World War I,11 Nov 1918,https://en.wikipedia.org/wiki/Armistice_of_11_November_1918
+178,e3,A wave of molasses floods Boston's North End,15 Jan 1919,https://en.wikipedia.org/wiki/Great_Molasses_Flood
+178,e4,The Prohibition amendment is ratified,16 Jan 1919,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution
+178,e5,The Treaty of Versailles is signed,28 Jun 1919,https://en.wikipedia.org/wiki/Treaty_of_Versailles
+179,e1,The Stonewall riots break out in New York,28 Jun 1969,https://en.wikipedia.org/wiki/Stonewall_riots
+179,e2,Ted Kennedy's car crashes at Chappaquiddick,18 Jul 1969,https://en.wikipedia.org/wiki/Chappaquiddick_incident
+179,e3,The Woodstock festival opens,15 Aug 1969,https://en.wikipedia.org/wiki/Woodstock
+179,e4,ARPANET sends its first message,29 Oct 1969,https://en.wikipedia.org/wiki/ARPANET
+179,e5,Sesame Street premieres,10 Nov 1969,https://en.wikipedia.org/wiki/Sesame_Street
+180,e1,Alan Shepard hits golf balls on the Moon,Feb 1971,https://en.wikipedia.org/wiki/Apollo_14
+180,e2,Joe Frazier beats Muhammad Ali at Madison Square Garden,8 Mar 1971,https://en.wikipedia.org/wiki/Fight_of_the_Century
+180,e3,Starbucks opens in Seattle,30 Mar 1971,https://en.wikipedia.org/wiki/Starbucks
+180,e4,US table tennis players visit China,10 Apr 1971,https://en.wikipedia.org/wiki/Ping-pong_diplomacy
+180,e5,Jim Morrison of the Doors dies in Paris,3 Jul 1971,https://en.wikipedia.org/wiki/Jim_Morrison
+181,e1,Beretta sells gun barrels to Venice,3 Oct 1526,https://en.wikipedia.org/wiki/Beretta
+181,e2,Jacques Cartier sails into the Gulf of St Lawrence,1534,https://en.wikipedia.org/wiki/Jacques_Cartier
+181,e3,Copernicus publishes his Sun-centred universe,1543,https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium
+181,e4,Nostradamus publishes his book of prophecies,1555,https://en.wikipedia.org/wiki/Les_Proph%C3%A9ties
+181,e5,The Spanish Armada sails against England,1588,https://en.wikipedia.org/wiki/Spanish_Armada
+182,e1,Hagia Sophia is dedicated in Constantinople,27 Dec 537,https://en.wikipedia.org/wiki/Hagia_Sophia
+182,e2,Bubonic plague strikes Constantinople,542,https://en.wikipedia.org/wiki/Plague_of_Justinian
+182,e3,Hagia Sophia's main dome collapses,558,https://en.wikipedia.org/wiki/Hagia_Sophia
+182,e4,Muhammad is born in Mecca,c. 570,https://en.wikipedia.org/wiki/Muhammad
+182,e5,Augustine's mission lands in Kent,597,https://en.wikipedia.org/wiki/Gregorian_mission
+183,e1,Egypt and the Hittites clash at Kadesh,c. 1274 BC,https://en.wikipedia.org/wiki/Battle_of_Kadesh
+183,e2,Pharaoh Ramesses II dies after a 66-year reign,c. 1213 BC,https://en.wikipedia.org/wiki/Ramesses_II
+183,e3,Shelley publishes 'Ozymandias',11 Jan 1818,https://en.wikipedia.org/wiki/Ozymandias
+183,e4,Abu Simbel's temples are moved to higher ground,1968,https://en.wikipedia.org/wiki/Abu_Simbel
+183,e5,Ramesses II's mummy is flown to Paris for treatment,Sep 1976,https://en.wikipedia.org/wiki/Ramesses_II
+184,e1,The Royal Society is founded in London,28 Nov 1660,https://en.wikipedia.org/wiki/Royal_Society
+184,e2,Robert Hooke's Micrographia names the 'cell',Jan 1665,https://en.wikipedia.org/wiki/Micrographia
+184,e3,The Great Fire of London breaks out,2 Sep 1666,https://en.wikipedia.org/wiki/Great_Fire_of_London
+184,e4,Hennig Brand discovers phosphorus,1669,https://en.wikipedia.org/wiki/Hennig_Brand
+184,e5,Antonie van Leeuwenhoek sees single-celled life,1676,https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek
+185,e1,Harry Houdini is born in Budapest,24 Mar 1874,https://en.wikipedia.org/wiki/Harry_Houdini
+185,e2,The first Impressionist exhibition opens in Paris,Apr 1874,https://en.wikipedia.org/wiki/Impressionism
+185,e3,Britain's General Strike begins,4 May 1926,https://en.wikipedia.org/wiki/1926_United_Kingdom_general_strike
+185,e4,Harry Houdini dies,31 Oct 1926,https://en.wikipedia.org/wiki/Harry_Houdini
+185,e5,Claude Monet dies at Giverny,5 Dec 1926,https://en.wikipedia.org/wiki/Claude_Monet
+186,e1,Work begins on the Suez Canal,25 Apr 1859,https://en.wikipedia.org/wiki/Suez_Canal
+186,e2,Dickens begins serialising A Tale of Two Cities,30 Apr 1859,https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities
+186,e3,Garibaldi sails for Sicily with his Thousand,5 May 1860,https://en.wikipedia.org/wiki/Expedition_of_the_Thousand
+186,e4,Russia's tsar frees the serfs,3 Mar 1861,https://en.wikipedia.org/wiki/Emancipation_reform_of_1861
+186,e5,Abraham Lincoln is sworn in as president,4 Mar 1861,https://en.wikipedia.org/wiki/First_inauguration_of_Abraham_Lincoln
+187,e1,Future President John Tyler is born,29 Mar 1790,https://en.wikipedia.org/wiki/John_Tyler
+187,e2,Benjamin Franklin dies,17 Apr 1790,https://en.wikipedia.org/wiki/Benjamin_Franklin
+187,e3,President William Henry Harrison dies in office,4 Apr 1841,https://en.wikipedia.org/wiki/William_Henry_Harrison
+187,e4,Pope Francis dies,21 Apr 2025,https://en.wikipedia.org/wiki/Death_and_funeral_of_Pope_Francis
+187,e5,President John Tyler's last living grandson dies,25 May 2025,https://en.wikipedia.org/wiki/Harrison_Ruffin_Tyler
+188,e1,London's first Underground railway opens,10 Jan 1863,https://en.wikipedia.org/wiki/Metropolitan_Railway
+188,e2,Foundation stone of Neuschwanstein Castle is laid,5 Sep 1869,https://en.wikipedia.org/wiki/Neuschwanstein_Castle
+188,e3,Outlaw Jesse James is shot dead at home,3 Apr 1882,https://en.wikipedia.org/wiki/Jesse_James
+188,e4,Ludwig II of Bavaria is found drowned,13 Jun 1886,https://en.wikipedia.org/wiki/Ludwig_II_of_Bavaria
+188,e5,Disneyland opens in California,17 Jul 1955,https://en.wikipedia.org/wiki/Disneyland
+189,e1,Europe's passport-free Schengen Area comes into being,26 Mar 1995,https://en.wikipedia.org/wiki/Schengen_Area
+189,e2,Netflix is founded,29 Aug 1997,https://en.wikipedia.org/wiki/Netflix
+189,e3,Google is founded,4 Sep 1998,https://en.wikipedia.org/wiki/History_of_Google
+189,e4,The euro is launched,1 Jan 1999,https://en.wikipedia.org/wiki/Euro
+189,e5,Euro notes and coins enter circulation,1 Jan 2002,https://en.wikipedia.org/wiki/Euro_banknotes
+190,e1,"Dick, Kerr Ladies draw a record crowd at Goodison Park",26 Dec 1920,"https://en.wikipedia.org/wiki/Dick,_Kerr_Ladies_F.C."
+190,e2,England's FA bans women's football from its grounds,5 Dec 1921,https://en.wikipedia.org/wiki/Women%27s_association_football
+190,e3,The Anglo-Irish Treaty is signed,6 Dec 1921,https://en.wikipedia.org/wiki/Anglo-Irish_Treaty
+190,e4,The FA lifts its ban on women's football,1971,"https://en.wikipedia.org/wiki/Dick,_Kerr_Ladies_F.C."
+190,e5,England win the women's European Championship,31 Jul 2022,https://en.wikipedia.org/wiki/UEFA_Women%27s_Euro_2022_final
+191,e1,Paul Nipkow patents a scanning disk for images,1884,https://en.wikipedia.org/wiki/Nipkow_disk
+191,e2,John Logie Baird demonstrates television,26 Jan 1926,https://en.wikipedia.org/wiki/John_Logie_Baird
+191,e3,Robert Goddard launches a liquid-fuelled rocket,16 Mar 1926,https://en.wikipedia.org/wiki/Robert_H._Goddard
+191,e4,Winnie-the-Pooh is published,14 Oct 1926,https://en.wikipedia.org/wiki/Winnie-the-Pooh_(book)
+191,e5,The BBC starts a regular TV service,2 Nov 1936,https://en.wikipedia.org/wiki/BBC_Television_Service
+192,e1,The Tale of Genji is circulating at Japan's court,by 1008,https://en.wikipedia.org/wiki/The_Tale_of_Genji
+192,e2,England's Domesday Book survey is compiled,1086,https://en.wikipedia.org/wiki/Domesday_Book
+192,e3,Don Quixote is published in Madrid,1605,https://en.wikipedia.org/wiki/Don_Quixote
+192,e4,Robinson Crusoe is published,25 Apr 1719,https://en.wikipedia.org/wiki/Robinson_Crusoe
+192,e5,Samuel Johnson's Dictionary is published,15 Apr 1755,https://en.wikipedia.org/wiki/A_Dictionary_of_the_English_Language
+193,e1,Zhang Qian sets out on his mission to the west,138 BC,https://en.wikipedia.org/wiki/Zhang_Qian
+193,e2,Gan Ying is sent towards Rome but turns back,97,https://en.wikipedia.org/wiki/Gan_Ying
+193,e3,The Antonine Plague breaks out,165,https://en.wikipedia.org/wiki/Antonine_Plague
+193,e4,A 'Roman' embassy reaches the Han court,166,https://en.wikipedia.org/wiki/Sino-Roman_relations
+193,e5,The Yellow Turban Rebellion erupts in China,184,https://en.wikipedia.org/wiki/Yellow_Turban_Rebellion
+194,e1,Ortelius suggests the continents were once joined,1596,https://en.wikipedia.org/wiki/Abraham_Ortelius
+194,e2,Alfred Wegener proposes continental drift,6 Jan 1912,https://en.wikipedia.org/wiki/Alfred_Wegener
+194,e3,Arizona becomes a US state,14 Feb 1912,https://en.wikipedia.org/wiki/Arizona
+194,e4,Piltdown Man is unveiled in London,18 Dec 1912,https://en.wikipedia.org/wiki/Piltdown_Man
+194,e5,Wegener dies on the Greenland ice sheet,Nov 1930,https://en.wikipedia.org/wiki/Alfred_Wegener
+195,e1,Germany annexes Austria,12 Mar 1938,https://en.wikipedia.org/wiki/Anschluss
+195,e2,Superman debuts in Action Comics #1,18 Apr 1938,https://en.wikipedia.org/wiki/Action_Comics_1
+195,e3,Orson Welles broadcasts The War of the Worlds,30 Oct 1938,https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1938_radio_drama)
+195,e4,Kristallnacht pogrom sweeps Germany,9 Nov 1938,https://en.wikipedia.org/wiki/Kristallnacht
+195,e5,Hahn and Strassmann split the uranium atom,Dec 1938,https://en.wikipedia.org/wiki/Discovery_of_nuclear_fission
+196,e1,British troops capture Benin City,18 Feb 1897,https://en.wikipedia.org/wiki/Benin_Expedition_of_1897
+196,e2,Oscar Wilde is released from prison,19 May 1897,https://en.wikipedia.org/wiki/Oscar_Wilde
+196,e3,Queen Victoria celebrates her Diamond Jubilee,22 Jun 1897,https://en.wikipedia.org/wiki/Diamond_Jubilee_of_Queen_Victoria
+196,e4,Andrée’s balloon sets off for the North Pole,11 Jul 1897,https://en.wikipedia.org/wiki/S._A._Andrée%27s_Arctic_balloon_expedition_of_1897
+196,e5,The First Zionist Congress meets in Basel,29 Aug 1897,https://en.wikipedia.org/wiki/First_Zionist_Congress
+197,e1,Winston Churchill is born at Blenheim Palace,30 Nov 1874,https://en.wikipedia.org/wiki/Winston_Churchill
+197,e2,Princess Elizabeth becomes queen,6 Feb 1952,https://en.wikipedia.org/wiki/Accession_of_Elizabeth_II
+197,e3,Winston Churchill wins the Nobel Prize in Literature,1953,https://en.wikipedia.org/wiki/1953_Nobel_Prize_in_Literature
+197,e4,Liz Truss becomes prime minister,6 Sep 2022,https://en.wikipedia.org/wiki/Premiership_of_Liz_Truss
+197,e5,Queen Elizabeth II dies,8 Sep 2022,https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Elizabeth_II
+198,e1,John Adams moves into the White House,1 Nov 1800,https://en.wikipedia.org/wiki/White_House
+198,e2,Pride and Prejudice is published,28 Jan 1813,https://en.wikipedia.org/wiki/Pride_and_Prejudice
+198,e3,Napoleon arrives in exile on Elba,4 May 1814,https://en.wikipedia.org/wiki/Napoleon
+198,e4,British troops burn the White House,24 Aug 1814,https://en.wikipedia.org/wiki/Burning_of_Washington
+198,e5,"Francis Scott Key writes ""The Star-Spangled Banner""",14 Sep 1814,https://en.wikipedia.org/wiki/The_Star-Spangled_Banner
+199,e1,The first YouTube video is uploaded,23 Apr 2005,https://en.wikipedia.org/wiki/Me_at_the_zoo
+199,e2,New Horizons launches toward Pluto,19 Jan 2006,https://en.wikipedia.org/wiki/New_Horizons
+199,e3,Twitter launches to the public,15 Jul 2006,https://en.wikipedia.org/wiki/Twitter
+199,e4,Pluto is reclassified as a dwarf planet,24 Aug 2006,https://en.wikipedia.org/wiki/IAU_definition_of_planet
+199,e5,New Horizons flies past Pluto,14 Jul 2015,https://en.wikipedia.org/wiki/New_Horizons
+200,e1,Edward Lloyd's coffee house is open in London,by 1686,https://en.wikipedia.org/wiki/Lloyd%27s_of_London
+200,e2,Thomas Twining opens his tea shop in London,1706,https://en.wikipedia.org/wiki/Twinings
+200,e3,England and Scotland unite as Great Britain,1 May 1707,https://en.wikipedia.org/wiki/Acts_of_Union_1707
+200,e4,The Boston Tea Party,16 Dec 1773,https://en.wikipedia.org/wiki/Boston_Tea_Party
+200,e5,The tea clipper Cutty Sark is launched,22 Nov 1869,https://en.wikipedia.org/wiki/Cutty_Sark
+201,e1,Volvo builds its first car,14 Apr 1927,https://en.wikipedia.org/wiki/Volvo_ÖV_4
+201,e2,Philo Farnsworth transmits an electronic TV image,7 Sep 1927,https://en.wikipedia.org/wiki/Philo_Farnsworth
+201,e3,Carving begins on Mount Rushmore,4 Oct 1927,https://en.wikipedia.org/wiki/Mount_Rushmore
+201,e4,The Jazz Singer premieres,6 Oct 1927,https://en.wikipedia.org/wiki/The_Jazz_Singer
+201,e5,Thomas Edison dies,18 Oct 1931,https://en.wikipedia.org/wiki/Thomas_Edison
+202,e1,Norse settlers begin to settle Iceland,c. 874,https://en.wikipedia.org/wiki/Settlement_of_Iceland
+202,e2,Iceland's Althing assembly first meets,930,https://en.wikipedia.org/wiki/Althing
+202,e3,Iceland adopts Christianity at the Althing,1000,https://en.wikipedia.org/wiki/Christianization_of_Iceland
+202,e4,Simon de Montfort's parliament meets,20 Jan 1265,https://en.wikipedia.org/wiki/Simon_de_Montfort's_Parliament
+202,e5,Iceland becomes an independent republic,17 Jun 1944,https://en.wikipedia.org/wiki/Iceland
+203,e1,Monks carve the great painted caves of Ajanta,c. 480,https://en.wikipedia.org/wiki/Ajanta_Caves
+203,e2,Stamford Raffles founds modern Singapore,6 Feb 1819,https://en.wikipedia.org/wiki/Founding_of_modern_Singapore
+203,e3,A tiger hunter stumbles on India's Ajanta Caves,28 Apr 1819,https://en.wikipedia.org/wiki/Ajanta_Caves
+203,e4,Future Queen Victoria is born,24 May 1819,https://en.wikipedia.org/wiki/Queen_Victoria
+203,e5,Ajanta Caves become a World Heritage Site,1983,https://en.wikipedia.org/wiki/Ajanta_Caves
+204,e1,England's warship Mary Rose sinks off Portsmouth,19 Jul 1545,https://en.wikipedia.org/wiki/Mary_Rose
+204,e2,Sweden's warship Vasa sinks on its maiden voyage,10 Aug 1628,https://en.wikipedia.org/wiki/Vasa_(ship)
+204,e3,Dutch tulip bulb prices collapse,Feb 1637,https://en.wikipedia.org/wiki/Tulip_mania
+204,e4,The wreck of the Vasa is lifted from Stockholm harbour,24 Apr 1961,https://en.wikipedia.org/wiki/Vasa_(ship)
+204,e5,The Mary Rose is raised from the Solent,11 Oct 1982,https://en.wikipedia.org/wiki/Mary_Rose
+205,e1,An earthquake and tsunami destroy Lisbon,1 Nov 1755,https://en.wikipedia.org/wiki/1755_Lisbon_earthquake
+205,e2,Marie Antoinette is born in Vienna,2 Nov 1755,https://en.wikipedia.org/wiki/Marie_Antoinette
+205,e3,Wolfgang Amadeus Mozart is born,27 Jan 1756,https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart
+205,e4,Louis XVI is guillotined,21 Jan 1793,https://en.wikipedia.org/wiki/Execution_of_Louis_XVI
+205,e5,Marie Antoinette is guillotined,16 Oct 1793,https://en.wikipedia.org/wiki/Marie_Antoinette
+206,e1,Custer is killed at the Little Bighorn,25 Jun 1876,https://en.wikipedia.org/wiki/Battle_of_the_Little_Bighorn
+206,e2,Victoria is proclaimed Empress of India,1 Jan 1877,https://en.wikipedia.org/wiki/Delhi_Durbar
+206,e3,Swan Lake premieres in Moscow,4 Mar 1877,https://en.wikipedia.org/wiki/Swan_Lake
+206,e4,Samurai rebels make a last stand at Shiroyama,24 Sep 1877,https://en.wikipedia.org/wiki/Battle_of_Shiroyama
+206,e5,Edison is granted a patent for the phonograph,19 Feb 1878,https://en.wikipedia.org/wiki/Phonograph
+207,e1,Peter the Great founds St Petersburg,27 May 1703,https://en.wikipedia.org/wiki/Saint_Petersburg
+207,e2,Marlborough wins the Battle of Blenheim,13 Aug 1704,https://en.wikipedia.org/wiki/Battle_of_Blenheim
+207,e3,Castaway Alexander Selkirk is rescued,2 Feb 1709,https://en.wikipedia.org/wiki/Alexander_Selkirk
+207,e4,Defoe's Robinson Crusoe is published,25 Apr 1719,https://en.wikipedia.org/wiki/Robinson_Crusoe
+207,e5,Swift's Gulliver's Travels is published,28 Oct 1726,https://en.wikipedia.org/wiki/Gulliver's_Travels
+208,e1,Fritz Haber makes ammonia from the air,1909,https://en.wikipedia.org/wiki/Haber_process
+208,e2,German troops release chlorine gas at Ypres,22 Apr 1915,https://en.wikipedia.org/wiki/Second_Battle_of_Ypres
+208,e3,Allied troops land at Gallipoli,25 Apr 1915,https://en.wikipedia.org/wiki/Landing_at_Anzac_Cove
+208,e4,A U-boat sinks the Lusitania,7 May 1915,https://en.wikipedia.org/wiki/Sinking_of_the_RMS_Lusitania
+208,e5,Fritz Haber wins the Nobel Prize in Chemistry,1918,https://en.wikipedia.org/wiki/Fritz_Haber
+209,e1,Vitus Bering's crew discovers Steller's sea cow,1741,https://en.wikipedia.org/wiki/Steller%27s_sea_cow
+209,e2,Jacobites are crushed at the Battle of Culloden,16 Apr 1746,https://en.wikipedia.org/wiki/Battle_of_Culloden
+209,e3,Catherine the Great seizes the Russian throne,9 Jul 1762,https://en.wikipedia.org/wiki/Catherine_the_Great
+209,e4,Steller's sea cow is hunted to extinction,by 1768,https://en.wikipedia.org/wiki/Steller%27s_sea_cow
+209,e5,Captain Cook's Endeavour sails from Plymouth,26 Aug 1768,https://en.wikipedia.org/wiki/First_voyage_of_James_Cook
+210,e1,Brunei becomes a British protectorate,17 Sep 1888,https://en.wikipedia.org/wiki/Brunei
+210,e2,Oil is struck at Seria in Brunei,1929,https://en.wikipedia.org/wiki/Seria
+210,e3,Brunei becomes independent,1 Jan 1984,https://en.wikipedia.org/wiki/Brunei
+210,e4,Apple launches the Macintosh,24 Jan 1984,https://en.wikipedia.org/wiki/Macintosh_128K
+210,e5,Britain hands Hong Kong back to China,1 Jul 1997,https://en.wikipedia.org/wiki/Handover_of_Hong_Kong
+211,e1,The Tunguska explosion flattens a Siberian forest,30 Jun 1908,https://en.wikipedia.org/wiki/Tunguska_event
+211,e2,The Chicago Cubs win the World Series,14 Oct 1908,https://en.wikipedia.org/wiki/Solly_Hofman
+211,e3,Wrigley Field hosts its first game,23 Apr 1914,https://en.wikipedia.org/wiki/Wrigley_Field
+211,e4,The Cubs finally win the World Series again,2 Nov 2016,https://en.wikipedia.org/wiki/2016_World_Series
+211,e5,Donald Trump is elected US president,8 Nov 2016,https://en.wikipedia.org/wiki/2016_United_States_presidential_election
+212,e1,Sir John Harington describes his flush toilet,1596,https://en.wikipedia.org/wiki/John_Harington_(writer)
+212,e2,The Great Exhibition opens in London,1 May 1851,https://en.wikipedia.org/wiki/The_Great_Exhibition
+212,e3,Joseph Gayetty sells packaged toilet paper,1857,https://en.wikipedia.org/wiki/Toilet_paper
+212,e4,The 'Great Stink' engulfs London,Jul 1858,https://en.wikipedia.org/wiki/Great_Stink
+212,e5,The iPhone goes on sale,29 Jun 2007,https://en.wikipedia.org/wiki/IPhone_(1st_generation)
+213,e1,The Dome of the Rock is completed in Jerusalem,c. 691,https://en.wikipedia.org/wiki/Dome_of_the_Rock
+213,e2,The Franks defeat an Arab army near Tours,10 Oct 732,https://en.wikipedia.org/wiki/Battle_of_Tours
+213,e3,Abbasid and Tang armies clash at Talas,Jul 751,https://en.wikipedia.org/wiki/Battle_of_Talas
+213,e4,The city of Baghdad is founded,30 Jul 762,https://en.wikipedia.org/wiki/Baghdad
+213,e5,Work begins on the Great Mosque of Córdoba,785,https://en.wikipedia.org/wiki/Mosque–Cathedral_of_Córdoba
+214,e1,Borobudur is brought to the world's attention,1814,https://en.wikipedia.org/wiki/Borobudur
+214,e2,Ho Chi Minh is born,19 May 1890,https://en.wikipedia.org/wiki/Ho_Chi_Minh
+214,e3,Sukarno proclaims Indonesia's independence,17 Aug 1945,https://en.wikipedia.org/wiki/Proclamation_of_Indonesian_Independence
+214,e4,Ho Chi Minh declares Vietnam's independence,2 Sep 1945,https://en.wikipedia.org/wiki/Proclamation_of_Independence_of_the_Democratic_Republic_of_Vietnam
+214,e5,The French garrison at Dien Bien Phu falls,7 May 1954,https://en.wikipedia.org/wiki/Battle_of_Dien_Bien_Phu
+215,e1,Rio de Janeiro becomes the capital of Brazil,27 Jan 1763,https://en.wikipedia.org/wiki/Rio_de_Janeiro
+215,e2,Christ the Redeemer statue is inaugurated,12 Oct 1931,https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)
+215,e3,Brazil wins its first World Cup,29 Jun 1958,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final
+215,e4,Jack Kilby demonstrates the integrated circuit,12 Sep 1958,https://en.wikipedia.org/wiki/Invention_of_the_integrated_circuit
+215,e5,Brasília is inaugurated as Brazil's capital,21 Apr 1960,https://en.wikipedia.org/wiki/Bras%C3%ADlia
+216,e1,Neil Armstrong is born,5 Aug 1930,https://en.wikipedia.org/wiki/Neil_Armstrong
+216,e2,London's Shard skyscraper is inaugurated,5 Jul 2012,https://en.wikipedia.org/wiki/The_Shard
+216,e3,London opens its third Summer Olympics,27 Jul 2012,https://en.wikipedia.org/wiki/2012_Summer_Olympics
+216,e4,NASA's Curiosity rover lands on Mars,6 Aug 2012,https://en.wikipedia.org/wiki/Curiosity_(rover)
+216,e5,Neil Armstrong dies,25 Aug 2012,https://en.wikipedia.org/wiki/Neil_Armstrong
+217,e1,English fleet defeats the Armada at Gravelines,8 Aug 1588,https://en.wikipedia.org/wiki/Battle_of_Gravelines_(1588)
+217,e2,Giordano Bruno is burned at the stake in Rome,17 Feb 1600,https://en.wikipedia.org/wiki/Giordano_Bruno
+217,e3,English pilot William Adams reaches Japan,19 Apr 1600,https://en.wikipedia.org/wiki/William_Adams_(pilot)
+217,e4,Tokugawa Ieyasu wins the Battle of Sekigahara,21 Oct 1600,https://en.wikipedia.org/wiki/Battle_of_Sekigahara
+217,e5,Twelfth Night is performed at Middle Temple Hall,2 Feb 1602,https://en.wikipedia.org/wiki/Twelfth_Night
+218,e1,Sherlock Holmes appears in A Study in Scarlet,1887,https://en.wikipedia.org/wiki/A_Study_in_Scarlet
+218,e2,Bram Stoker's Dracula is published,26 May 1897,https://en.wikipedia.org/wiki/Dracula
+218,e3,London celebrates a queen's Diamond Jubilee,22 Jun 1897,https://en.wikipedia.org/wiki/Diamond_Jubilee_of_Queen_Victoria
+218,e4,A ship lands a 'ton of gold' in Seattle,17 Jul 1897,https://en.wikipedia.org/wiki/Klondike_Gold_Rush
+218,e5,Bram Stoker dies in London,20 Apr 1912,https://en.wikipedia.org/wiki/Bram_Stoker
+219,e1,Einstein presents his field equations of gravity,Nov 1915,https://en.wikipedia.org/wiki/General_relativity
+219,e2,Eddington photographs a total solar eclipse,29 May 1919,https://en.wikipedia.org/wiki/Eddington_experiment
+219,e3,Alcock and Brown land after a nonstop Atlantic flight,15 Jun 1919,https://en.wikipedia.org/wiki/Transatlantic_flight_of_Alcock_and_Brown
+219,e4,The Treaty of Versailles is signed,28 Jun 1919,https://en.wikipedia.org/wiki/Treaty_of_Versailles
+219,e5,Eclipse results backing relativity are announced,6 Nov 1919,https://en.wikipedia.org/wiki/Eddington_experiment
+220,e1,The Maya calendar's current era begins,3114 BC,https://en.wikipedia.org/wiki/Mesoamerican_Long_Count_calendar
+220,e2,The oldest known Long Count date is carved,36 BC,https://en.wikipedia.org/wiki/Mesoamerican_Long_Count_calendar
+220,e3,Bishop Landa burns Maya books at Maní,12 Jul 1562,https://en.wikipedia.org/wiki/Diego_de_Landa
+220,e4,Psy releases 'Gangnam Style',15 Jul 2012,https://en.wikipedia.org/wiki/Gangnam_Style
+220,e5,A Maya calendar cycle ends — and the world doesn't,21 Dec 2012,https://en.wikipedia.org/wiki/2012_phenomenon
+221,e1,Greek ships defeat Persia's navy at Salamis,480 BC,https://en.wikipedia.org/wiki/Battle_of_Salamis
+221,e2,Aeschylus's play The Persians is first staged,472 BC,https://en.wikipedia.org/wiki/The_Persians
+221,e3,A deadly plague breaks out in besieged Athens,430 BC,https://en.wikipedia.org/wiki/Plague_of_Athens
+221,e4,Greece launches its war of independence,1821,https://en.wikipedia.org/wiki/Greek_War_of_Independence
+221,e5,Michael Ventris deciphers the Linear B script,1952,https://en.wikipedia.org/wiki/Linear_B
+222,e1,Jeanne Calment is born in Arles,21 Feb 1875,https://en.wikipedia.org/wiki/Jeanne_Calment
+222,e2,Van Gogh cuts off his ear in Arles,23 Dec 1888,https://en.wikipedia.org/wiki/Vincent_van_Gogh
+222,e3,Dolly the sheep is born,5 Jul 1996,https://en.wikipedia.org/wiki/Dolly_(sheep)
+222,e4,Tony Blair becomes prime minister,2 May 1997,https://en.wikipedia.org/wiki/Tony_Blair
+222,e5,Jeanne Calment dies,4 Aug 1997,https://en.wikipedia.org/wiki/Jeanne_Calment
+223,e1,Opium War's opening clash erupts off Kowloon,4 Sep 1839,https://en.wikipedia.org/wiki/Battle_of_Kowloon
+223,e2,The Treaty of Waitangi is signed,6 Feb 1840,https://en.wikipedia.org/wiki/Treaty_of_Waitangi
+223,e3,Queen Victoria marries Prince Albert,10 Feb 1840,https://en.wikipedia.org/wiki/Wedding_of_Queen_Victoria_and_Prince_Albert
+223,e4,Claude Monet is born in Paris,14 Nov 1840,https://en.wikipedia.org/wiki/Claude_Monet
+223,e5,British forces occupy Hong Kong Island,26 Jan 1841,https://en.wikipedia.org/wiki/British_Hong_Kong
+224,e1,Igor Stravinsky is born,17 Jun 1882,https://en.wikipedia.org/wiki/Igor_Stravinsky
+224,e2,The Rite of Spring causes uproar in Paris,29 May 1913,https://en.wikipedia.org/wiki/The_Rite_of_Spring
+224,e3,Suffragette Emily Davison is struck at the Derby,4 Jun 1913,https://en.wikipedia.org/wiki/Emily_Davison
+224,e4,Niels Bohr publishes his model of the atom,Jul 1913,https://en.wikipedia.org/wiki/Bohr_model
+224,e5,The US Federal Reserve is created,23 Dec 1913,https://en.wikipedia.org/wiki/Federal_Reserve_Act
+225,e1,Semmelweis orders doctors to wash their hands,May 1847,https://en.wikipedia.org/wiki/Ignaz_Semmelweis
+225,e2,Mendel presents his pea-plant experiments,8 Feb 1865,https://en.wikipedia.org/wiki/Gregor_Mendel
+225,e3,Edward Whymper's party conquers the Matterhorn,14 Jul 1865,https://en.wikipedia.org/wiki/First_ascent_of_the_Matterhorn
+225,e4,Joseph Lister treats a wound with carbolic acid,12 Aug 1865,https://en.wikipedia.org/wiki/Joseph_Lister
+225,e5,Ignaz Semmelweis dies in an asylum,13 Aug 1865,https://en.wikipedia.org/wiki/Ignaz_Semmelweis
+226,e1,Scribes in Uruk begin writing on clay tablets,c. 3300 BC,https://en.wikipedia.org/wiki/Cuneiform
+226,e2,Sargon of Akkad builds an empire,c. 2334 BC,https://en.wikipedia.org/wiki/Sargon_of_Akkad
+226,e3,The Behistun Inscription is carved on a cliff,c. 500 BC,https://en.wikipedia.org/wiki/Behistun_Inscription
+226,e4,The last known cuneiform tablet is written,c. 75,https://en.wikipedia.org/wiki/Cuneiform
+226,e5,Four scholars prove cuneiform can be read,1857,https://en.wikipedia.org/wiki/Cuneiform
+227,e1,Christiaan Huygens discovers Saturn's moon Titan,25 Mar 1655,https://en.wikipedia.org/wiki/Titan_(moon)
+227,e2,Rembrandt dies in Amsterdam,4 Oct 1669,https://en.wikipedia.org/wiki/Rembrandt
+227,e3,Holst's The Planets is first performed,29 Sep 1918,https://en.wikipedia.org/wiki/The_Planets
+227,e4,A huge tsunami strikes around the Indian Ocean,26 Dec 2004,https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami
+227,e5,The Huygens probe lands on Saturn's moon Titan,14 Jan 2005,https://en.wikipedia.org/wiki/Huygens_(spacecraft)
+228,e1,The Empire State Building opens,1 May 1931,https://en.wikipedia.org/wiki/Empire_State_Building
+228,e2,Bonnie and Clyde are killed in an ambush,23 May 1934,https://en.wikipedia.org/wiki/Bonnie_and_Clyde
+228,e3,John Dillinger is shot outside a Chicago cinema,22 Jul 1934,https://en.wikipedia.org/wiki/John_Dillinger
+228,e4,Alcatraz receives its first federal inmates,11 Aug 1934,https://en.wikipedia.org/wiki/Alcatraz_Federal_Penitentiary
+228,e5,"The ""Black Sunday"" dust storm sweeps the Plains",14 Apr 1935,https://en.wikipedia.org/wiki/Black_Sunday_(storm)
+229,e1,Fidel Castro is born,13 Aug 1926,https://en.wikipedia.org/wiki/Fidel_Castro
+229,e2,Batista flees as Castro's revolution wins,1 Jan 1959,https://en.wikipedia.org/wiki/Cuban_Revolution
+229,e3,Alaska becomes a US state,3 Jan 1959,https://en.wikipedia.org/wiki/Alaska
+229,e4,Buddy Holly dies in a plane crash,3 Feb 1959,https://en.wikipedia.org/wiki/The_Day_the_Music_Died
+229,e5,Hawaii becomes a US state,21 Aug 1959,https://en.wikipedia.org/wiki/Hawaii
+230,e1,The Paris Exposition Universelle opens,14 Apr 1900,https://en.wikipedia.org/wiki/Exposition_Universelle_(1900)
+230,e2,The Siege of the International Legations begins,20 Jun 1900,https://en.wikipedia.org/wiki/Siege_of_the_International_Legations
+230,e3,The Zeppelin airship makes its maiden flight,2 Jul 1900,https://en.wikipedia.org/wiki/Zeppelin_LZ_1
+230,e4,Charlotte Cooper wins Olympic tennis gold,11 Jul 1900,https://en.wikipedia.org/wiki/Charlotte_Cooper_(tennis)
+230,e5,The Paris Métro opens,19 Jul 1900,https://en.wikipedia.org/wiki/Paris_M%C3%A9tro
+231,e1,The Pony Express begins carrying mail,3 Apr 1860,https://en.wikipedia.org/wiki/Pony_Express
+231,e2,Édouard-Léon Scott records 'Au clair de la lune',9 Apr 1860,https://en.wikipedia.org/wiki/Phonautograph
+231,e3,Abraham Lincoln is elected president,6 Nov 1860,https://en.wikipedia.org/wiki/1860_United_States_presidential_election
+231,e4,Edison patents the phonograph,19 Feb 1878,https://en.wikipedia.org/wiki/Phonograph
+231,e5,Emile Berliner patents the gramophone,8 Nov 1887,https://en.wikipedia.org/wiki/Emile_Berliner
+232,e1,Kublai Khan proclaims the Yuan dynasty,1271,https://en.wikipedia.org/wiki/Yuan_dynasty
+232,e2,Marco Polo reaches Kublai Khan's court,by 1275,https://en.wikipedia.org/wiki/Marco_Polo
+232,e3,A typhoon wrecks the Mongol fleet off Japan,Aug 1281,https://en.wikipedia.org/wiki/Mongol_invasions_of_Japan
+232,e4,Marco Polo returns home to Venice,1295,https://en.wikipedia.org/wiki/Marco_Polo
+232,e5,Japan flies its first kamikaze attacks,25 Oct 1944,https://en.wikipedia.org/wiki/Kamikaze
+233,e1,Haile Selassie is crowned emperor of Ethiopia,2 Nov 1930,https://en.wikipedia.org/wiki/Haile_Selassie
+233,e2,Italian troops march into Addis Ababa,5 May 1936,https://en.wikipedia.org/wiki/March_of_the_Iron_Will
+233,e3,Abebe Bikila wins the Olympic marathon barefoot,10 Sep 1960,https://en.wikipedia.org/wiki/Abebe_Bikila
+233,e4,Haile Selassie is deposed by the army,12 Sep 1974,https://en.wikipedia.org/wiki/Haile_Selassie
+233,e5,Live Aid raises money for Ethiopia's famine,13 Jul 1985,https://en.wikipedia.org/wiki/Live_Aid
+234,e1,The Boeing jumbo jet enters service,22 Jan 1970,https://en.wikipedia.org/wiki/Boeing_747
+234,e2,Walt Disney World opens in Florida,1 Oct 1971,https://en.wikipedia.org/wiki/Walt_Disney_World
+234,e3,Intel launches its first microprocessor,15 Nov 1971,https://en.wikipedia.org/wiki/Intel_4004
+234,e4,D. B. Cooper parachutes from a hijacked jet,24 Nov 1971,https://en.wikipedia.org/wiki/D._B._Cooper
+234,e5,Burglars break into the Watergate building,17 Jun 1972,https://en.wikipedia.org/wiki/Watergate_scandal
+235,e1,Obninsk power plant joins the grid,27 Jun 1954,https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant
+235,e2,The China Syndrome opens in cinemas,16 Mar 1979,https://en.wikipedia.org/wiki/The_China_Syndrome
+235,e3,Three Mile Island nuclear accident,28 Mar 1979,https://en.wikipedia.org/wiki/Three_Mile_Island_accident
+235,e4,John Wayne dies,11 Jun 1979,https://en.wikipedia.org/wiki/John_Wayne
+235,e5,Sony's Walkman goes on sale,1 Jul 1979,https://en.wikipedia.org/wiki/Walkman
+236,e1,The Great Fire of Rome breaks out,19 Jul 64,https://en.wikipedia.org/wiki/Great_Fire_of_Rome
+236,e2,Nero competes at the Olympic Games,67,https://en.wikipedia.org/wiki/Nero
+236,e3,Nero dies by suicide,9 Jun 68,https://en.wikipedia.org/wiki/Nero
+236,e4,Roman troops destroy the Temple in Jerusalem,70,https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(70_CE)
+236,e5,The Colosseum is inaugurated in Rome,80,https://en.wikipedia.org/wiki/Colosseum
+237,e1,The US Constitution is signed,17 Sep 1787,https://en.wikipedia.org/wiki/Constitution_of_the_United_States
+237,e2,Stanley meets Livingstone,10 Nov 1871,https://en.wikipedia.org/wiki/Henry_Morton_Stanley
+237,e3,The Sholes and Glidden typewriter goes on sale,1874,https://en.wikipedia.org/wiki/Sholes_and_Glidden_typewriter
+237,e4,"A dam bursts above Johnstown, Pennsylvania",31 May 1889,https://en.wikipedia.org/wiki/Johnstown_Flood
+237,e5,The first text message is sent,3 Dec 1992,https://en.wikipedia.org/wiki/SMS
+238,e1,Sundiata defeats the Sosso at Kirina,c. 1235,https://en.wikipedia.org/wiki/Battle_of_Kirina
+238,e2,Ibn Battuta sets out from Tangier,14 Jun 1325,https://en.wikipedia.org/wiki/Ibn_Battuta
+238,e3,Djinguereber Mosque is built in Timbuktu,1327,https://en.wikipedia.org/wiki/Djinguereber_Mosque
+238,e4,Ibn Battuta returns home to Morocco,1349,https://en.wikipedia.org/wiki/Ibn_Battuta
+238,e5,Timbuktu is named a World Heritage Site,1988,https://en.wikipedia.org/wiki/Timbuktu
+239,e1,Santos-Dumont flies his 14-bis plane in Paris,23 Oct 1906,https://en.wikipedia.org/wiki/Santos-Dumont_14-bis
+239,e2,Uruguay stuns Brazil in the Maracanã World Cup decider,16 Jul 1950,https://en.wikipedia.org/wiki/Maracanazo
+239,e3,Apollo 12 is struck by lightning as it launches,14 Nov 1969,https://en.wikipedia.org/wiki/Apollo_12
+239,e4,Pelé scores his thousandth goal,19 Nov 1969,https://en.wikipedia.org/wiki/Pel%C3%A9
+239,e5,Ayrton Senna is killed at Imola,1 May 1994,https://en.wikipedia.org/wiki/Death_of_Ayrton_Senna
+240,e1,Molière collapses on stage and dies,17 Feb 1673,https://en.wikipedia.org/wiki/Molière
+240,e2,Ole Rømer shows that light has a finite speed,1676,https://en.wikipedia.org/wiki/Ole_Rømer
+240,e3,Pueblo peoples rise up against Spanish rule,10 Aug 1680,https://en.wikipedia.org/wiki/Pueblo_Revolt
+240,e4,Thomas Savery patents a steam-powered pump,2 Jul 1698,https://en.wikipedia.org/wiki/Thomas_Savery
+240,e5,Thomas Newcomen's steam engine goes to work,1712,https://en.wikipedia.org/wiki/Newcomen_atmospheric_engine
+241,e1,Mormon pioneers reach the Salt Lake Valley,24 Jul 1847,https://en.wikipedia.org/wiki/Pioneer_Day_(Utah)
+241,e2,The Communist Manifesto is published,Feb 1848,https://en.wikipedia.org/wiki/The_Communist_Manifesto
+241,e3,Walter Hunt patents the safety pin,10 Apr 1849,https://en.wikipedia.org/wiki/Safety_pin
+241,e4,Edgar Allan Poe dies in Baltimore,7 Oct 1849,https://en.wikipedia.org/wiki/Death_of_Edgar_Allan_Poe
+241,e5,Frédéric Chopin dies in Paris,17 Oct 1849,https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin
+242,e1,Brazil abolishes slavery with the Golden Law,13 May 1888,https://en.wikipedia.org/wiki/Lei_Áurea
+242,e2,Van Gogh cuts off part of his ear,23 Dec 1888,https://en.wikipedia.org/wiki/Vincent_van_Gogh
+242,e3,Nellie Bly sets off to circle the globe,14 Nov 1889,https://en.wikipedia.org/wiki/Nellie_Bly
+242,e4,Brazil's emperor is overthrown,15 Nov 1889,https://en.wikipedia.org/wiki/Proclamation_of_the_Republic_(Brazil)
+242,e5,Nellie Bly arrives home after circling the globe,25 Jan 1890,https://en.wikipedia.org/wiki/Nellie_Bly
+243,e1,Ian Fleming's Casino Royale is published,13 Apr 1953,https://en.wikipedia.org/wiki/Casino_Royale_(novel)
+243,e2,Marilyn Monroe dies,4 Aug 1962,https://en.wikipedia.org/wiki/Death_of_Marilyn_Monroe
+243,e3,Dr. No premieres in London,5 Oct 1962,https://en.wikipedia.org/wiki/Dr._No_(film)
+243,e4,The Cuban Missile Crisis begins,16 Oct 1962,https://en.wikipedia.org/wiki/Cuban_Missile_Crisis
+243,e5,The Beatles release Please Please Me,22 Mar 1963,https://en.wikipedia.org/wiki/Please_Please_Me
+244,e1,The foundation stone of Notre-Dame de Paris is laid,1163,https://en.wikipedia.org/wiki/Notre-Dame_de_Paris
+244,e2,Fibonacci publishes Liber Abaci,1202,https://en.wikipedia.org/wiki/Liber_Abaci
+244,e3,Crusaders sack Constantinople,Apr 1204,https://en.wikipedia.org/wiki/Sack_of_Constantinople
+244,e4,Temüjin is proclaimed Genghis Khan,1206,https://en.wikipedia.org/wiki/Genghis_Khan
+244,e5,The University of Cambridge is founded,1209,https://en.wikipedia.org/wiki/University_of_Cambridge
+245,e1,Philip II of Macedon is assassinated,336 BC,https://en.wikipedia.org/wiki/Philip_II_of_Macedon
+245,e2,Alexander founds Alexandria in Egypt,331 BC,https://en.wikipedia.org/wiki/Alexandria
+245,e3,Alexander defeats King Porus at the Hydaspes,326 BC,https://en.wikipedia.org/wiki/Battle_of_the_Hydaspes
+245,e4,Alexander the Great dies in Babylon,323 BC,https://en.wikipedia.org/wiki/Death_of_Alexander_the_Great
+245,e5,Euclid writes the Elements,c. 300 BC,https://en.wikipedia.org/wiki/Euclid's_Elements
+246,e1,The Medici Bank is founded in Florence,1397,https://en.wikipedia.org/wiki/Medici_Bank
+246,e2,Gutenberg finishes printing his Bible,c. 1455,https://en.wikipedia.org/wiki/Gutenberg_Bible
+246,e3,Monte dei Paschi bank is founded in Siena,4 Mar 1472,https://en.wikipedia.org/wiki/Banca_Monte_dei_Paschi_di_Siena
+246,e4,Luca Pacioli publishes the rules of double-entry bookkeeping,1494,https://en.wikipedia.org/wiki/Summa_de_arithmetica
+246,e5,Savonarola's followers light the Bonfire of the Vanities,7 Feb 1497,https://en.wikipedia.org/wiki/Bonfire_of_the_vanities
+247,e1,The steamship Savannah sets out across the Atlantic,May 1819,https://en.wikipedia.org/wiki/SS_Savannah
+247,e2,Future Queen Victoria is born,24 May 1819,https://en.wikipedia.org/wiki/Queen_Victoria
+247,e3,Walt Whitman is born,31 May 1819,https://en.wikipedia.org/wiki/Walt_Whitman
+247,e4,Alabama becomes a US state,14 Dec 1819,https://en.wikipedia.org/wiki/Alabama
+247,e5,Queen Victoria dies,22 Jan 1901,https://en.wikipedia.org/wiki/Queen_Victoria
+248,e1,Gulliver's Travels is published,28 Oct 1726,https://en.wikipedia.org/wiki/Gulliver's_Travels
+248,e2,John Wesley feels his heart 'strangely warmed',24 May 1738,https://en.wikipedia.org/wiki/John_Wesley
+248,e3,Persian troops sack Delhi,22 Mar 1739,https://en.wikipedia.org/wiki/Nader_Shah's_invasion_of_the_Mughal_Empire
+248,e4,Dick Turpin is hanged in York,7 Apr 1739,https://en.wikipedia.org/wiki/Dick_Turpin
+248,e5,Vitus Bering dies on a remote island,19 Dec 1741,https://en.wikipedia.org/wiki/Vitus_Bering
+249,e1,The Exxon Valdez spills oil off Alaska,24 Mar 1989,https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill
+249,e2,The Berlin Wall falls,9 Nov 1989,https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall
+249,e3,The Simpsons premieres as a series,17 Dec 1989,https://en.wikipedia.org/wiki/The_Simpsons
+249,e4,Romania's Ceaușescu is executed after a show trial,25 Dec 1989,https://en.wikipedia.org/wiki/Execution_of_Nicolae_and_Elena_Ceau%C8%99escu
+249,e5,Nelson Mandela walks free from prison,11 Feb 1990,https://en.wikipedia.org/wiki/Nelson_Mandela
+250,e1,The Battle of Lepanto,7 Oct 1571,https://en.wikipedia.org/wiki/Battle_of_Lepanto
+250,e2,The St. Bartholomew's Day massacre begins,24 Aug 1572,https://en.wikipedia.org/wiki/St._Bartholomew's_Day_massacre
+250,e3,Tycho Brahe spots a 'new star' in Cassiopeia,11 Nov 1572,https://en.wikipedia.org/wiki/SN_1572
+250,e4,Kepler's supernova appears,9 Oct 1604,https://en.wikipedia.org/wiki/SN_1604
+250,e5,The Gunpowder Plot is foiled,5 Nov 1605,https://en.wikipedia.org/wiki/Gunpowder_Plot
+251,e1,Cheddar Man dies young in what is now Somerset,c. 8300 BC,https://en.wikipedia.org/wiki/Cheddar_Man
+251,e2,Rising seas cut Britain off from Europe,c. 6500 BC,https://en.wikipedia.org/wiki/Doggerland
+251,e3,Cheddar Man is found in Gough's Cave,Dec 1903,https://en.wikipedia.org/wiki/Cheddar_Man
+251,e4,The Channel Tunnel opens,6 May 1994,https://en.wikipedia.org/wiki/Channel_Tunnel
+251,e5,DNA shows Cheddar Man had dark skin,2018,https://en.wikipedia.org/wiki/Cheddar_Man
+252,e1,Lin Zexu destroys British opium at Humen,3 Jun 1839,https://en.wikipedia.org/wiki/Destruction_of_opium_at_Humen
+252,e2,Japan's navy destroys Russia's fleet at Tsushima,27 May 1905,https://en.wikipedia.org/wiki/Battle_of_Tsushima
+252,e3,China abolishes its imperial civil-service exams,2 Sep 1905,https://en.wikipedia.org/wiki/Imperial_examination
+252,e4,The Treaty of Portsmouth ends the Russo-Japanese War,5 Sep 1905,https://en.wikipedia.org/wiki/Treaty_of_Portsmouth
+252,e5,China's gaokao university exam is held again,1977,https://en.wikipedia.org/wiki/Gaokao
+253,e1,Dolly the sheep is born,5 Jul 1996,https://en.wikipedia.org/wiki/Dolly_(sheep)
+253,e2,The last Pyrenean ibex dies in Spain,6 Jan 2000,https://en.wikipedia.org/wiki/Pyrenean_ibex
+253,e3,Wikipedia goes online,15 Jan 2001,https://en.wikipedia.org/wiki/Wikipedia
+253,e4,A cloned Pyrenean ibex is born,30 Jul 2003,https://en.wikipedia.org/wiki/Pyrenean_ibex
+253,e5,Concorde makes its final commercial flight,24 Oct 2003,https://en.wikipedia.org/wiki/Concorde
+254,e1,Sally Ride is born,26 May 1951,https://en.wikipedia.org/wiki/Sally_Ride
+254,e2,Valentina Tereshkova flies into space,16 Jun 1963,https://en.wikipedia.org/wiki/Vostok_6
+254,e3,Return of the Jedi opens in cinemas,25 May 1983,https://en.wikipedia.org/wiki/Return_of_the_Jedi
+254,e4,Sally Ride flies on the Space Shuttle,18 Jun 1983,https://en.wikipedia.org/wiki/STS-7
+254,e5,Space Shuttle Challenger breaks apart,28 Jan 1986,https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster
+255,e1,Justinian's law code is first published,7 Apr 529,https://en.wikipedia.org/wiki/Corpus_Juris_Civilis
+255,e2,Chariot-racing fans start the Nika riots,Jan 532,https://en.wikipedia.org/wiki/Nika_riots
+255,e3,The domed Hagia Sophia is dedicated,27 Dec 537,https://en.wikipedia.org/wiki/Hagia_Sophia
+255,e4,The Plague of Justinian reaches Constantinople,542,https://en.wikipedia.org/wiki/Plague_of_Justinian
+255,e5,Emperor Justinian dies in Constantinople,14 Nov 565,https://en.wikipedia.org/wiki/Justinian_I
+256,e1,Diners Club launches its charge card,Feb 1950,https://en.wikipedia.org/wiki/Diners_Club_International
+256,e2,Israel launches the Six-Day War,5 Jun 1967,https://en.wikipedia.org/wiki/Six-Day_War
+256,e3,The Beatles sing on the Our World broadcast,25 Jun 1967,https://en.wikipedia.org/wiki/Our_World_(1967_TV_program)
+256,e4,The first ATM opens in London,27 Jun 1967,https://en.wikipedia.org/wiki/Automated_teller_machine
+256,e5,The first human heart transplant,3 Dec 1967,https://en.wikipedia.org/wiki/Christiaan_Barnard
+257,e1,The Knights Templar are founded in Jerusalem,c. 1119,https://en.wikipedia.org/wiki/Knights_Templar
+257,e2,"Acre falls, ending the crusader kingdom",18 May 1291,https://en.wikipedia.org/wiki/Siege_of_Acre_(1291)
+257,e3,France arrests the Knights Templar,13 Oct 1307,https://en.wikipedia.org/wiki/Knights_Templar
+257,e4,Jacques de Molay is burned at the stake,Mar 1314,https://en.wikipedia.org/wiki/Jacques_de_Molay
+257,e5,The Da Vinci Code is published,2003,https://en.wikipedia.org/wiki/The_Da_Vinci_Code
+258,e1,"Chang and Eng, the original 'Siamese twins', are born",11 May 1811,https://en.wikipedia.org/wiki/Chang_and_Eng_Bunker
+258,e2,A bloodless revolution ends absolute monarchy in Siam,24 Jun 1932,https://en.wikipedia.org/wiki/Siamese_revolution_of_1932
+258,e3,Siam officially renames itself Thailand,24 Jun 1939,https://en.wikipedia.org/wiki/Name_of_Thailand
+258,e4,The Burma 'Death Railway' is completed,17 Oct 1943,https://en.wikipedia.org/wiki/Burma_Railway
+258,e5,The King and I opens on Broadway,29 Mar 1951,https://en.wikipedia.org/wiki/The_King_and_I
+259,e1,Beebe and Barton dive half a mile in a bathysphere,15 Aug 1934,https://en.wikipedia.org/wiki/Bathysphere
+259,e2,Trieste reaches the bottom of the Challenger Deep,23 Jan 1960,https://en.wikipedia.org/wiki/Trieste_(bathyscaphe)
+259,e3,The wreck of the Titanic is found,1 Sep 1985,https://en.wikipedia.org/wiki/Wreck_of_the_Titanic
+259,e4,James Cameron dives solo to the Challenger Deep,26 Mar 2012,https://en.wikipedia.org/wiki/Deepsea_Challenger
+259,e5,Felix Baumgartner skydives from the stratosphere,14 Oct 2012,https://en.wikipedia.org/wiki/Red_Bull_Stratos
+260,e1,The Battle of Verdun begins,21 Feb 1916,https://en.wikipedia.org/wiki/Battle_of_Verdun
+260,e2,The Easter Rising begins in Dublin,24 Apr 1916,https://en.wikipedia.org/wiki/Easter_Rising
+260,e3,Germany puts its clocks forward,30 Apr 1916,https://en.wikipedia.org/wiki/Daylight_saving_time
+260,e4,Britain adopts British Summer Time,21 May 1916,https://en.wikipedia.org/wiki/British_Summer_Time
+260,e5,The Battle of the Somme begins,1 Jul 1916,https://en.wikipedia.org/wiki/Battle_of_the_Somme
+261,e1,Martin Luther King Jr. is assassinated,4 Apr 1968,https://en.wikipedia.org/wiki/Assassination_of_Martin_Luther_King_Jr.
+261,e2,Troops fire on protesters at Tlatelolco,2 Oct 1968,https://en.wikipedia.org/wiki/Tlatelolco_massacre
+261,e3,The Mexico City Olympics open,12 Oct 1968,https://en.wikipedia.org/wiki/1968_Summer_Olympics
+261,e4,Smith and Carlos give the Black Power salute,16 Oct 1968,https://en.wikipedia.org/wiki/1968_Olympics_Black_Power_salute
+261,e5,Bob Beamon long-jumps 8.90 metres,18 Oct 1968,https://en.wikipedia.org/wiki/Bob_Beamon
+262,e1,Kubrick's Space Odyssey film premieres,2 Apr 1968,https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)
+262,e2,Intel is founded,18 Jul 1968,https://en.wikipedia.org/wiki/Intel
+262,e3,Douglas Engelbart demos the computer mouse,9 Dec 1968,https://en.wikipedia.org/wiki/The_Mother_of_All_Demos
+262,e4,Apollo 8 launches toward the Moon,21 Dec 1968,https://en.wikipedia.org/wiki/Apollo_8
+262,e5,The first ARPANET message is sent,29 Oct 1969,https://en.wikipedia.org/wiki/ARPANET
+263,e1,Mongols sack the city of Kiev,6 Dec 1240,https://en.wikipedia.org/wiki/Siege_of_Kiev_(1240)
+263,e2,The head of the Russian Church moves to Moscow,1325,https://en.wikipedia.org/wiki/Peter_of_Moscow
+263,e3,Moscow defeats the Golden Horde at Kulikovo,8 Sep 1380,https://en.wikipedia.org/wiki/Battle_of_Kulikovo
+263,e4,Great Stand on the Ugra River,1480,https://en.wikipedia.org/wiki/Great_Stand_on_the_Ugra_River
+263,e5,Saint Basil's Cathedral is completed,1561,https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral
+264,e1,Zhang Heng builds an earthquake detector,132,https://en.wikipedia.org/wiki/Zhang_Heng
+264,e2,Earthquake and tsunami destroy Lisbon,1 Nov 1755,https://en.wikipedia.org/wiki/1755_Lisbon_earthquake
+264,e3,John Milne builds a modern seismograph,1880,https://en.wikipedia.org/wiki/Seismometer
+264,e4,Earthquake and fire devastate San Francisco,18 Apr 1906,https://en.wikipedia.org/wiki/1906_San_Francisco_earthquake
+264,e5,Charles Richter introduces his magnitude scale,1935,https://en.wikipedia.org/wiki/Richter_scale
+265,e1,A live rhinoceros arrives in Lisbon from India,20 May 1515,https://en.wikipedia.org/wiki/Dürer's_Rhinoceros
+265,e2,Bavaria passes its beer purity law,23 Apr 1516,https://en.wikipedia.org/wiki/Reinheitsgebot
+265,e3,The Ottomans crush the Hungarian army at Mohács,29 Aug 1526,https://en.wikipedia.org/wiki/Battle_of_Mohács
+265,e4,Niccolò Machiavelli dies,21 Jun 1527,https://en.wikipedia.org/wiki/Niccolò_Machiavelli
+265,e5,Machiavelli's The Prince is first printed,1532,https://en.wikipedia.org/wiki/The_Prince
+266,e1,Tsar Alexander II is assassinated,13 Mar 1881,https://en.wikipedia.org/wiki/Assassination_of_Alexander_II
+266,e2,President Garfield is shot,2 Jul 1881,https://en.wikipedia.org/wiki/Assassination_of_James_A._Garfield
+266,e3,Pat Garrett shoots Billy the Kid,14 Jul 1881,https://en.wikipedia.org/wiki/Billy_the_Kid
+266,e4,London's Savoy Theatre opens,10 Oct 1881,https://en.wikipedia.org/wiki/Savoy_Theatre
+266,e5,Edison's Pearl Street power station starts up,4 Sep 1882,https://en.wikipedia.org/wiki/Pearl_Street_Station
+267,e1,Louis-Napoléon seizes power in a coup,2 Dec 1851,https://en.wikipedia.org/wiki/French_coup_of_1851
+267,e2,Uncle Tom's Cabin is published as a book,20 Mar 1852,https://en.wikipedia.org/wiki/Uncle_Tom's_Cabin
+267,e3,The Charge of the Light Brigade,25 Oct 1854,https://en.wikipedia.org/wiki/Charge_of_the_Light_Brigade
+267,e4,Gold miners fight troops at the Eureka Stockade,3 Dec 1854,https://en.wikipedia.org/wiki/Eureka_Rebellion
+267,e5,Livingstone reaches Victoria Falls,16 Nov 1855,https://en.wikipedia.org/wiki/Victoria_Falls
+268,e1,The Dutch East India Company is founded,20 Mar 1602,https://en.wikipedia.org/wiki/Dutch_East_India_Company
+268,e2,Rembrandt completes The Night Watch,1642,https://en.wikipedia.org/wiki/The_Night_Watch
+268,e3,The English Civil War begins,22 Aug 1642,https://en.wikipedia.org/wiki/First_English_Civil_War
+268,e4,Abel Tasman sights Tasmania,24 Nov 1642,https://en.wikipedia.org/wiki/Abel_Tasman
+268,e5,Isaac Newton is born,25 Dec 1642,https://en.wikipedia.org/wiki/Isaac_Newton
+269,e1,Joseph Priestley isolates oxygen,1 Aug 1774,https://en.wikipedia.org/wiki/Oxygen
+269,e2,Marie Antoinette is guillotined,16 Oct 1793,https://en.wikipedia.org/wiki/Marie_Antoinette
+269,e3,Eli Whitney patents the cotton gin,14 Mar 1794,https://en.wikipedia.org/wiki/Cotton_gin
+269,e4,Chemist Antoine Lavoisier is guillotined,8 May 1794,https://en.wikipedia.org/wiki/Antoine_Lavoisier
+269,e5,Robespierre is guillotined,28 Jul 1794,https://en.wikipedia.org/wiki/Maximilien_Robespierre
+270,e1,Agrippa opens the Aqua Virgo aqueduct,19 BC,https://en.wikipedia.org/wiki/Aqua_Virgo
+270,e2,Emperor Augustus dies,19 Aug 14,https://en.wikipedia.org/wiki/Augustus
+270,e3,Rome's Trevi Fountain is completed,1762,https://en.wikipedia.org/wiki/Trevi_Fountain
+270,e4,La Dolce Vita opens in Italian cinemas,5 Feb 1960,https://en.wikipedia.org/wiki/La_Dolce_Vita
+270,e5,The Rome Summer Olympics open,25 Aug 1960,https://en.wikipedia.org/wiki/1960_Summer_Olympics
+271,e1,Vesalius publishes his great atlas of human anatomy,1543,https://en.wikipedia.org/wiki/De_humani_corporis_fabrica
+271,e2,The Ottomans lay siege to Malta,18 May 1565,https://en.wikipedia.org/wiki/Great_Siege_of_Malta
+271,e3,Spain founds St. Augustine in Florida,8 Sep 1565,"https://en.wikipedia.org/wiki/St._Augustine,_Florida"
+271,e4,Suleiman the Magnificent dies on campaign in Hungary,6 Sep 1566,https://en.wikipedia.org/wiki/Suleiman_the_Magnificent
+271,e5,Florida becomes a US state,3 Mar 1845,https://en.wikipedia.org/wiki/Florida
+272,e1,The Gunfight at the O.K. Corral,26 Oct 1881,https://en.wikipedia.org/wiki/Gunfight_at_the_O.K._Corral
+272,e2,The Jazz Singer premieres,6 Oct 1927,https://en.wikipedia.org/wiki/The_Jazz_Singer
+272,e3,Wyatt Earp dies in Los Angeles,13 Jan 1929,https://en.wikipedia.org/wiki/Wyatt_Earp
+272,e4,Trotsky is expelled from the Soviet Union,Feb 1929,https://en.wikipedia.org/wiki/Leon_Trotsky
+272,e5,The first Academy Awards are presented,16 May 1929,https://en.wikipedia.org/wiki/1st_Academy_Awards
+273,e1,Crimean Tatars burn Moscow,24 May 1571,https://en.wikipedia.org/wiki/Fire_of_Moscow_(1571)
+273,e2,Spain founds the city of Manila,24 Jun 1571,https://en.wikipedia.org/wiki/Manila
+273,e3,Holy League defeats the Ottomans at Lepanto,7 Oct 1571,https://en.wikipedia.org/wiki/Battle_of_Lepanto
+273,e4,St Bartholomew's Day massacre in Paris,24 Aug 1572,https://en.wikipedia.org/wiki/St._Bartholomew's_Day_massacre
+273,e5,Francis Drake completes his voyage around the world,26 Sep 1580,https://en.wikipedia.org/wiki/Francis_Drake's_circumnavigation
+274,e1,MTV goes on the air,1 Aug 1981,https://en.wikipedia.org/wiki/MTV
+274,e2,Argentina invades the Falkland Islands,2 Apr 1982,https://en.wikipedia.org/wiki/Falklands_War
+274,e3,Spielberg's E.T. opens in cinemas,11 Jun 1982,https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial
+274,e4,CD players go on sale in Japan,1 Oct 1982,https://en.wikipedia.org/wiki/Sony_CDP-101
+274,e5,Michael Jackson releases Thriller,29 Nov 1982,https://en.wikipedia.org/wiki/Thriller_(album)
+275,e1,The 'Spanish flu' pandemic begins,1918,https://en.wikipedia.org/wiki/Spanish_flu
+275,e2,WHO declares COVID-19 a pandemic,11 Mar 2020,https://en.wikipedia.org/wiki/COVID-19_pandemic
+275,e3,The Tokyo Olympics are postponed,24 Mar 2020,https://en.wikipedia.org/wiki/2020_Summer_Olympics
+275,e4,A 90-year-old gets the first approved COVID jab,8 Dec 2020,https://en.wikipedia.org/wiki/COVID-19_vaccination_in_the_United_Kingdom
+275,e5,Joe Biden is sworn in as president,20 Jan 2021,https://en.wikipedia.org/wiki/Inauguration_of_Joe_Biden
+276,e1,England defeats Scotland at the Battle of Flodden,9 Sep 1513,https://en.wikipedia.org/wiki/Battle_of_Flodden
+276,e2,Leonardo da Vinci dies in France,2 May 1519,https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+276,e3,Charles V is elected Holy Roman Emperor,28 Jun 1519,https://en.wikipedia.org/wiki/1519_imperial_election
+276,e4,Cortés meets Moctezuma in Tenochtitlan,8 Nov 1519,https://en.wikipedia.org/wiki/Hernán_Cortés
+276,e5,The Field of the Cloth of Gold summit,7 Jun 1520,https://en.wikipedia.org/wiki/Field_of_the_Cloth_of_Gold
+277,e1,The Great Kantō earthquake devastates Tokyo,1 Sep 1923,https://en.wikipedia.org/wiki/1923_Great_Kant%C5%8D_earthquake
+277,e2,Hachikō's owner dies suddenly at work,21 May 1925,https://en.wikipedia.org/wiki/Hachik%C5%8D
+277,e3,A bronze statue of Hachikō is unveiled,21 Apr 1934,https://en.wikipedia.org/wiki/Hachik%C5%8D
+277,e4,Hachikō the loyal dog dies in Shibuya,8 Mar 1935,https://en.wikipedia.org/wiki/Hachik%C5%8D
+277,e5,Hachi: A Dog's Tale premieres,13 Jun 2009,https://en.wikipedia.org/wiki/Hachi:_A_Dog's_Tale
+278,e1,The first hanging of the Salem witch trials,10 Jun 1692,https://en.wikipedia.org/wiki/Salem_witch_trials
+278,e2,Yale is founded in Connecticut,9 Oct 1701,https://en.wikipedia.org/wiki/Yale_University
+278,e3,Peter the Great founds St Petersburg,27 May 1703,https://en.wikipedia.org/wiki/Saint_Petersburg
+278,e4,The Great Storm batters southern England,26 Nov 1703,https://en.wikipedia.org/wiki/Great_storm_of_1703
+278,e5,England and Scotland unite as Great Britain,1 May 1707,https://en.wikipedia.org/wiki/Acts_of_Union_1707
+279,e1,Kurt Cobain dies in Seattle,5 Apr 1994,https://en.wikipedia.org/wiki/Kurt_Cobain
+279,e2,The Channel Tunnel opens,6 May 1994,https://en.wikipedia.org/wiki/Channel_Tunnel
+279,e3,Nelson Mandela is sworn in as president,10 May 1994,https://en.wikipedia.org/wiki/Nelson_Mandela
+279,e4,O. J. Simpson's slow-speed Bronco chase,17 Jun 1994,https://en.wikipedia.org/wiki/O._J._Simpson_murder_case
+279,e5,Forrest Gump opens in US cinemas,6 Jul 1994,https://en.wikipedia.org/wiki/Forrest_Gump
+280,e1,Bloody Sunday in Derry,30 Jan 1972,https://en.wikipedia.org/wiki/Bloody_Sunday_(1972)
+280,e2,Apollo 16 lands in the Moon's highlands,21 Apr 1972,https://en.wikipedia.org/wiki/Apollo_16
+280,e3,Bobby Fischer wins the world chess title,1 Sep 1972,https://en.wikipedia.org/wiki/World_Chess_Championship_1972
+280,e4,Hostages are seized at the Munich Olympics,5 Sep 1972,https://en.wikipedia.org/wiki/Munich_massacre
+280,e5,Atari releases the arcade game Pong,29 Nov 1972,https://en.wikipedia.org/wiki/Pong
+281,e1,The McDonald brothers open their first restaurant,15 May 1940,https://en.wikipedia.org/wiki/McDonald%27s
+281,e2,Ray Kroc opens his first McDonald's,15 Apr 1955,https://en.wikipedia.org/wiki/McDonald%27s
+281,e3,Albert Einstein dies,18 Apr 1955,https://en.wikipedia.org/wiki/Albert_Einstein
+281,e4,Disneyland opens in California,17 Jul 1955,https://en.wikipedia.org/wiki/Disneyland
+281,e5,Rosa Parks refuses to give up her bus seat,1 Dec 1955,https://en.wikipedia.org/wiki/Rosa_Parks
+282,e1,Japan's Kamakura shogunate is established,1192,https://en.wikipedia.org/wiki/Kamakura_shogunate
+282,e2,Work begins on Kamakura's bronze Great Buddha,c. 1252,https://en.wikipedia.org/wiki/Kōtoku-in
+282,e3,The Ōnin War breaks out in Kyoto,1467,https://en.wikipedia.org/wiki/Ōnin_War
+282,e4,A tsunami washes away the Great Buddha's hall,20 Sep 1498,https://en.wikipedia.org/wiki/1498_Meiō_Nankaidō_earthquake
+282,e5,Francis Xavier lands in Japan,15 Aug 1549,https://en.wikipedia.org/wiki/Francis_Xavier
+283,e1,Britain partitions Bengal,16 Oct 1905,https://en.wikipedia.org/wiki/Partition_of_Bengal_(1905)
+283,e2,The Bhola cyclone strikes East Pakistan,12 Nov 1970,https://en.wikipedia.org/wiki/1970_Bhola_cyclone
+283,e3,Bangladesh declares independence from Pakistan,26 Mar 1971,https://en.wikipedia.org/wiki/Bangladesh_Liberation_War
+283,e4,The Concert for Bangladesh is held in New York,1 Aug 1971,https://en.wikipedia.org/wiki/The_Concert_for_Bangladesh
+283,e5,Pakistan's army surrenders in Dhaka,16 Dec 1971,https://en.wikipedia.org/wiki/Instrument_of_Surrender_(1971)
+284,e1,Edvard Munch paints The Scream,1893,https://en.wikipedia.org/wiki/The_Scream
+284,e2,Thieves steal The Scream from Oslo's National Gallery,12 Feb 1994,https://en.wikipedia.org/wiki/The_Scream
+284,e3,The Guggenheim Museum Bilbao opens,18 Oct 1997,https://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao
+284,e4,The Athens Olympics open,13 Aug 2004,https://en.wikipedia.org/wiki/2004_Summer_Olympics
+284,e5,Armed robbers take The Scream from the Munch Museum,22 Aug 2004,https://en.wikipedia.org/wiki/The_Scream
+285,e1,Glenn Miller is born,1 Mar 1904,https://en.wikipedia.org/wiki/Glenn_Miller
+285,e2,D-Day landings in Normandy,6 Jun 1944,https://en.wikipedia.org/wiki/Normandy_landings
+285,e3,The Bretton Woods conference opens,1 Jul 1944,https://en.wikipedia.org/wiki/Bretton_Woods_Conference
+285,e4,Glenn Miller disappears over the Channel,15 Dec 1944,https://en.wikipedia.org/wiki/Glenn_Miller
+285,e5,The Battle of the Bulge begins,16 Dec 1944,https://en.wikipedia.org/wiki/Battle_of_the_Bulge
+286,e1,"Pizza Hut opens in Wichita, Kansas",31 May 1958,https://en.wikipedia.org/wiki/Pizza_Hut
+286,e2,John Glenn orbits the Earth,20 Feb 1962,https://en.wikipedia.org/wiki/Mercury-Atlas_6
+286,e3,Alexei Leonov makes the first spacewalk,18 Mar 1965,https://en.wikipedia.org/wiki/Voskhod_2
+286,e4,A corned beef sandwich is smuggled into orbit,23 Mar 1965,https://en.wikipedia.org/wiki/Gemini_3
+286,e5,Pizza Hut delivers a pizza to space,2001,https://en.wikipedia.org/wiki/Pizza_Hut
+287,e1,Frank Whittle patents the turbojet engine,Jan 1930,https://en.wikipedia.org/wiki/Frank_Whittle
+287,e2,The world's first jet aircraft flies,27 Aug 1939,https://en.wikipedia.org/wiki/Heinkel_He_178
+287,e3,Britain declares war on Germany,3 Sep 1939,https://en.wikipedia.org/wiki/British_declaration_of_war_on_Germany_(1939)
+287,e4,Sikorsky's helicopter makes its first lift-off,14 Sep 1939,https://en.wikipedia.org/wiki/Vought-Sikorsky_VS-300
+287,e5,Britain's first jet aircraft flies,15 May 1941,https://en.wikipedia.org/wiki/Gloster_E.28/39
+288,e1,Foundations are laid for Pisa's new bell tower,9 Aug 1173,https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa
+288,e2,The popes move their court to Avignon,9 Mar 1309,https://en.wikipedia.org/wiki/Avignon_Papacy
+288,e3,English longbowmen win the Battle of Crécy,26 Aug 1346,https://en.wikipedia.org/wiki/Battle_of_Crécy
+288,e4,Pisa's bell tower is finally completed,1372,https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa
+288,e5,The Leaning Tower of Pisa reopens after repairs,15 Dec 2001,https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa
+289,e1,Democritus is born in Abdera,c. 460 BC,https://en.wikipedia.org/wiki/Democritus
+289,e2,Lucretius writes 'On the Nature of Things',c. 55 BC,https://en.wikipedia.org/wiki/De_rerum_natura
+289,e3,Poggio Bracciolini finds a lost copy of Lucretius,1417,https://en.wikipedia.org/wiki/Poggio_Bracciolini
+289,e4,John Dalton publishes his atomic theory,1808,https://en.wikipedia.org/wiki/John_Dalton
+289,e5,Cockcroft and Walton split the atom,1932,https://en.wikipedia.org/wiki/Cockcroft–Walton_generator
+290,e1,The Defenestration of Prague sparks a European war,23 May 1618,https://en.wikipedia.org/wiki/Defenestration_of_Prague
+290,e2,Sir Walter Raleigh is beheaded in London,29 Oct 1618,https://en.wikipedia.org/wiki/Walter_Raleigh
+290,e3,Virginia's General Assembly meets for the first time,30 Jul 1619,https://en.wikipedia.org/wiki/House_of_Burgesses
+290,e4,"Enslaved Africans are landed at Point Comfort, Virginia",Aug 1619,https://en.wikipedia.org/wiki/First_Africans_in_Virginia
+290,e5,The New York Times Magazine launches a project on slavery,18 Aug 2019,https://en.wikipedia.org/wiki/The_1619_Project
+291,e1,Spanish settlers found Los Angeles,4 Sep 1781,https://en.wikipedia.org/wiki/History_of_Los_Angeles
+291,e2,Anna Göldi is executed for witchcraft,13 Jun 1782,https://en.wikipedia.org/wiki/Anna_G%C3%B6ldi
+291,e3,Mozart's The Abduction from the Seraglio premieres,16 Jul 1782,https://en.wikipedia.org/wiki/Die_Entführung_aus_dem_Serail
+291,e4,Two men fly over Paris in a hot-air balloon,21 Nov 1783,https://en.wikipedia.org/wiki/Montgolfier_brothers
+291,e5,Samuel Johnson dies,13 Dec 1784,https://en.wikipedia.org/wiki/Samuel_Johnson
+292,e1,The Louvre opens as a public museum,10 Aug 1793,https://en.wikipedia.org/wiki/Louvre
+292,e2,China's emperor receives Britain's envoy Macartney,14 Sep 1793,https://en.wikipedia.org/wiki/Macartney_Embassy
+292,e3,Marie Antoinette is guillotined,16 Oct 1793,https://en.wikipedia.org/wiki/Marie_Antoinette
+292,e4,Georges Danton is guillotined in Paris,5 Apr 1794,https://en.wikipedia.org/wiki/Georges_Danton
+292,e5,Robespierre is guillotined,28 Jul 1794,https://en.wikipedia.org/wiki/Maximilien_Robespierre
+293,e1,Microsoft is founded,4 Apr 1975,https://en.wikipedia.org/wiki/Microsoft
+293,e2,Saigon falls to North Vietnamese forces,30 Apr 1975,https://en.wikipedia.org/wiki/Fall_of_Saigon
+293,e3,Jaws opens in US cinemas,20 Jun 1975,https://en.wikipedia.org/wiki/Jaws_(film)
+293,e4,Queen releases Bohemian Rhapsody,31 Oct 1975,https://en.wikipedia.org/wiki/A_Night_at_the_Opera_(Queen_album)
+293,e5,General Franco dies in Madrid,20 Nov 1975,https://en.wikipedia.org/wiki/Francisco_Franco
+294,e1,Max Planck unveils the quantum,14 Dec 1900,https://en.wikipedia.org/wiki/Max_Planck
+294,e2,Queen Victoria dies,22 Jan 1901,https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Queen_Victoria
+294,e3,President McKinley dies after being shot,14 Sep 1901,https://en.wikipedia.org/wiki/Assassination_of_William_McKinley
+294,e4,The first Nobel Prizes are awarded,10 Dec 1901,https://en.wikipedia.org/wiki/Nobel_Prize
+294,e5,Marconi receives a radio signal across the Atlantic,12 Dec 1901,https://en.wikipedia.org/wiki/Guglielmo_Marconi
+295,e1,Nabataeans carve Petra's Treasury,c. 10,https://en.wikipedia.org/wiki/Al-Khazneh
+295,e2,Rome annexes the Nabataean kingdom,106,https://en.wikipedia.org/wiki/Nabataean_Kingdom
+295,e3,Burckhardt reaches Petra in disguise,22 Aug 1812,https://en.wikipedia.org/wiki/Johann_Ludwig_Burckhardt
+295,e4,Napoleon's army enters Moscow,14 Sep 1812,https://en.wikipedia.org/wiki/French_invasion_of_Russia
+295,e5,Indiana Jones and the Last Crusade opens,24 May 1989,https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade
+296,e1,Torricelli invents the mercury barometer,1643,https://en.wikipedia.org/wiki/Evangelista_Torricelli
+296,e2,Rebels take Beijing and China's last Ming emperor dies,25 Apr 1644,https://en.wikipedia.org/wiki/Chongzhen_Emperor
+296,e3,The Peace of Westphalia is signed,Oct 1648,https://en.wikipedia.org/wiki/Peace_of_Westphalia
+296,e4,King Charles I is beheaded in London,30 Jan 1649,https://en.wikipedia.org/wiki/Execution_of_Charles_I
+296,e5,England restores its monarchy,29 May 1660,https://en.wikipedia.org/wiki/Stuart_Restoration
+297,e1,Joseph Stalin is born in Georgia,18 Dec 1878,https://en.wikipedia.org/wiki/Joseph_Stalin
+297,e2,A Zulu army wins at Isandlwana,22 Jan 1879,https://en.wikipedia.org/wiki/Battle_of_Isandlwana
+297,e3,Albert Einstein is born in Ulm,14 Mar 1879,https://en.wikipedia.org/wiki/Albert_Einstein
+297,e4,Einstein warns the US president about atomic bombs,2 Aug 1939,https://en.wikipedia.org/wiki/Einstein%E2%80%93Szil%C3%A1rd_letter
+297,e5,Joseph Stalin dies,5 Mar 1953,https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Joseph_Stalin
+298,e1,Shakespeare's First Folio is published,1623,https://en.wikipedia.org/wiki/First_Folio
+298,e2,The Dutch buy Manhattan,1626,https://en.wikipedia.org/wiki/Peter_Minuit
+298,e3,St Peter's Basilica is consecrated,18 Nov 1626,https://en.wikipedia.org/wiki/St._Peter's_Basilica
+298,e4,"Mumtaz Mahal dies, inspiring the Taj Mahal",17 Jun 1631,https://en.wikipedia.org/wiki/Mumtaz_Mahal
+298,e5,Galileo is convicted by the Inquisition,22 Jun 1633,https://en.wikipedia.org/wiki/Galileo_affair
+299,e1,John Profumo resigns over lying to Parliament,5 Jun 1963,https://en.wikipedia.org/wiki/John_Profumo
+299,e2,The Great Train Robbery takes place,8 Aug 1963,https://en.wikipedia.org/wiki/Great_Train_Robbery_(1963)
+299,e3,Martin Luther King Jr. gives 'I Have a Dream',28 Aug 1963,https://en.wikipedia.org/wiki/I_Have_a_Dream
+299,e4,JFK is shot in Dallas,22 Nov 1963,https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy
+299,e5,Doctor Who airs for the first time,23 Nov 1963,https://en.wikipedia.org/wiki/An_Unearthly_Child
+300,e1,A scheduled airline begins flying across Tampa Bay,1 Jan 1914,https://en.wikipedia.org/wiki/St._Petersburg–Tampa_Airboat_Line
+300,e2,Ford announces the $5 working day,5 Jan 1914,https://en.wikipedia.org/wiki/Henry_Ford
+300,e3,Germany declares war on Russia,1 Aug 1914,https://en.wikipedia.org/wiki/July_Crisis
+300,e4,Alcock and Brown fly the Atlantic nonstop,14 Jun 1919,https://en.wikipedia.org/wiki/Transatlantic_flight_of_Alcock_and_Brown
+300,e5,"KLM, the oldest airline still flying, is founded",7 Oct 1919,https://en.wikipedia.org/wiki/KLM
+301,e1,Portuguese sailors round Cape Bojador,1434,https://en.wikipedia.org/wiki/Cape_Bojador
+301,e2,Bartolomeu Dias rounds the Cape of Good Hope,Feb 1488,https://en.wikipedia.org/wiki/Bartolomeu_Dias
+301,e3,Savonarola is burned in Florence,23 May 1498,https://en.wikipedia.org/wiki/Girolamo_Savonarola
+301,e4,Bartolomeu Dias is lost at sea,29 May 1500,https://en.wikipedia.org/wiki/Bartolomeu_Dias
+301,e5,The Dutch found Cape Town,6 Apr 1652,https://en.wikipedia.org/wiki/Jan_van_Riebeeck
+302,e1,Washington's army camps at Valley Forge,19 Dec 1777,https://en.wikipedia.org/wiki/Valley_Forge
+302,e2,Morocco's sultan opens his ports to American ships,20 Dec 1777,https://en.wikipedia.org/wiki/Morocco%E2%80%93United_States_relations
+302,e3,France signs an alliance with the American rebels,6 Feb 1778,https://en.wikipedia.org/wiki/Treaty_of_Alliance_(1778)
+302,e4,The US gets its legation building in Tangier,1821,https://en.wikipedia.org/wiki/Tangier_American_Legation
+302,e5,Morocco reaches a World Cup semi-final,Dec 2022,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+303,e1,The Herald of Free Enterprise capsizes,6 Mar 1987,https://en.wikipedia.org/wiki/MS_Herald_of_Free_Enterprise
+303,e2,The Simpsons debut as shorts on TV,19 Apr 1987,https://en.wikipedia.org/wiki/The_Simpsons_shorts
+303,e3,The Great Storm hits southern England,16 Oct 1987,https://en.wikipedia.org/wiki/Great_storm_of_1987
+303,e4,Black Monday crashes world stock markets,19 Oct 1987,https://en.wikipedia.org/wiki/Black_Monday_(1987)
+303,e5,A Pan Am jumbo jet is bombed over Lockerbie,21 Dec 1988,https://en.wikipedia.org/wiki/Pan_Am_Flight_103
+304,e1,New Zealand women win the right to vote,19 Sep 1893,https://en.wikipedia.org/wiki/Women's_suffrage_in_New_Zealand
+304,e2,Emily Davison is struck by the King's horse,4 Jun 1913,https://en.wikipedia.org/wiki/Emily_Davison
+304,e3,Alan Shepard hits golf balls on the Moon,6 Feb 1971,https://en.wikipedia.org/wiki/Apollo_14
+304,e4,Switzerland votes for women's suffrage,7 Feb 1971,https://en.wikipedia.org/wiki/1971_Swiss_women's_suffrage_referendum
+304,e5,Court forces Appenzell to let women vote,1990,https://en.wikipedia.org/wiki/Women's_suffrage_in_Switzerland
+305,e1,Pocahontas marries John Rolfe in Virginia,5 Apr 1614,https://en.wikipedia.org/wiki/Pocahontas
+305,e2,Peter Minuit buys Manhattan from the Lenape,1626,https://en.wikipedia.org/wiki/Peter_Minuit
+305,e3,The English seize New Amsterdam,1664,https://en.wikipedia.org/wiki/New_Amsterdam
+305,e4,The Great Plague sweeps London,1665,https://en.wikipedia.org/wiki/Great_Plague_of_London
+305,e5,The Treaty of Breda is signed,31 Jul 1667,https://en.wikipedia.org/wiki/Treaty_of_Breda_(1667)
+306,e1,Blondin crosses Niagara Falls on a tightrope,30 Jun 1859,https://en.wikipedia.org/wiki/Charles_Blondin
+306,e2,Big Ben first chimes at Westminster,11 Jul 1859,https://en.wikipedia.org/wiki/Big_Ben
+306,e3,Drake strikes oil in Titusville,27 Aug 1859,https://en.wikipedia.org/wiki/Drake_Well
+306,e4,John Brown raids Harpers Ferry,16 Oct 1859,https://en.wikipedia.org/wiki/John_Brown%27s_raid_on_Harpers_Ferry
+306,e5,Rockefeller founds Standard Oil,1870,https://en.wikipedia.org/wiki/Standard_Oil
+307,e1,An Anglo-Saxon king is buried in a ship at Sutton Hoo,c. 625,https://en.wikipedia.org/wiki/Sutton_Hoo
+307,e2,Bede completes his history of the English church,731,https://en.wikipedia.org/wiki/Ecclesiastical_History_of_the_English_People
+307,e3,Diggers uncover the Sutton Hoo ship burial,May 1939,https://en.wikipedia.org/wiki/Sutton_Hoo
+307,e4,Britain declares war on Germany,3 Sep 1939,https://en.wikipedia.org/wiki/World_War_II
+307,e5,A metal detectorist finds the Staffordshire Hoard,5 Jul 2009,https://en.wikipedia.org/wiki/Staffordshire_Hoard
+308,e1,Alexander's army burns Persepolis,330 BC,https://en.wikipedia.org/wiki/Persepolis
+308,e2,Persia asks the world to call it Iran,Mar 1935,https://en.wikipedia.org/wiki/Name_of_Iran
+308,e3,The Shah throws a party at Persepolis for the monarchy,12 Oct 1971,"https://en.wikipedia.org/wiki/2,500-year_celebration_of_the_Persian_Empire"
+308,e4,The Shah leaves Iran for exile,16 Jan 1979,https://en.wikipedia.org/wiki/Mohammad_Reza_Pahlavi
+308,e5,Ayatollah Khomeini returns to Tehran,1 Feb 1979,https://en.wikipedia.org/wiki/Ruhollah_Khomeini
+309,e1,Edwin Land demonstrates the instant camera,21 Feb 1947,https://en.wikipedia.org/wiki/Edwin_H._Land
+309,e2,The Kon-Tiki raft sets off from Peru,28 Apr 1947,https://en.wikipedia.org/wiki/Kon-Tiki_expedition
+309,e3,"The Roswell ""flying disc"" is announced",8 Jul 1947,https://en.wikipedia.org/wiki/Roswell_incident
+309,e4,Kon-Tiki crashes onto a Polynesian reef,7 Aug 1947,https://en.wikipedia.org/wiki/Kon-Tiki_expedition
+309,e5,Chuck Yeager breaks the sound barrier,14 Oct 1947,https://en.wikipedia.org/wiki/Bell_X-1
+310,e1,António Salazar becomes Portugal's leader,5 Jul 1932,https://en.wikipedia.org/wiki/António_de_Oliveira_Salazar
+310,e2,Portugal's Carnation Revolution,25 Apr 1974,https://en.wikipedia.org/wiki/Carnation_Revolution
+310,e3,Queen release 'Bohemian Rhapsody',31 Oct 1975,https://en.wikipedia.org/wiki/A_Night_at_the_Opera_(Queen_album)
+310,e4,Angola becomes independent,11 Nov 1975,https://en.wikipedia.org/wiki/Angola
+310,e5,Francisco Franco dies,20 Nov 1975,https://en.wikipedia.org/wiki/Francisco_Franco
+311,e1,Robert Burns is born in Ayrshire,25 Jan 1759,https://en.wikipedia.org/wiki/Robert_Burns
+311,e2,Britain wins the Battle of the Plains of Abraham,13 Sep 1759,https://en.wikipedia.org/wiki/Battle_of_the_Plains_of_Abraham
+311,e3,Arthur Guinness leases St James's Gate brewery,31 Dec 1759,https://en.wikipedia.org/wiki/Guinness_Brewery
+311,e4,The Guinness Book of Records is first published,27 Aug 1955,https://en.wikipedia.org/wiki/Guinness_World_Records
+311,e5,James Dean dies in a car crash,30 Sep 1955,https://en.wikipedia.org/wiki/James_Dean
+312,e1,Orwell's Animal Farm is published,17 Aug 1945,https://en.wikipedia.org/wiki/Animal_Farm
+312,e2,NATO is founded,4 Apr 1949,https://en.wikipedia.org/wiki/NATO
+312,e3,Nineteen Eighty-Four is published,8 Jun 1949,https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
+312,e4,The Soviet Union tests its first atomic bomb,29 Aug 1949,https://en.wikipedia.org/wiki/RDS-1
+312,e5,George Orwell dies,21 Jan 1950,https://en.wikipedia.org/wiki/George_Orwell
+313,e1,Alessandro Volta builds the electric battery,1800,https://en.wikipedia.org/wiki/Voltaic_pile
+313,e2,Nat Turner leads a slave rebellion in Virginia,21 Aug 1831,https://en.wikipedia.org/wiki/Nat_Turner's_Rebellion
+313,e3,Faraday discovers electromagnetic induction,29 Aug 1831,https://en.wikipedia.org/wiki/Electromagnetic_induction
+313,e4,Darwin sets sail on HMS Beagle,27 Dec 1831,https://en.wikipedia.org/wiki/Second_voyage_of_HMS_Beagle
+313,e5,Samuel Colt patents his revolver,25 Feb 1836,https://en.wikipedia.org/wiki/Samuel_Colt
+314,e1,The city of Troy II is built,c. 2550 BC,https://en.wikipedia.org/wiki/Troy
+314,e2,"The Trojan War ends, by Greek reckoning",c. 1184 BC,https://en.wikipedia.org/wiki/Trojan_War
+314,e3,Schliemann uncovers 'Priam's Treasure',1873,https://en.wikipedia.org/wiki/Priam's_Treasure
+314,e4,Heinrich Schliemann dies in Naples,26 Dec 1890,https://en.wikipedia.org/wiki/Heinrich_Schliemann
+314,e5,Moscow admits it holds Priam's Treasure,1994,https://en.wikipedia.org/wiki/Priam's_Treasure
+315,e1,Germanic tribes wipe out three Roman legions,Sep 9,https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest
+315,e2,Rome's rebuilt Pantheon is completed,c. 126,"https://en.wikipedia.org/wiki/Pantheon,_Rome"
+315,e3,Emperor Marcus Aurelius dies,17 Mar 180,https://en.wikipedia.org/wiki/Marcus_Aurelius
+315,e4,The Hermannsdenkmal statue is unveiled in Germany,16 Aug 1875,https://en.wikipedia.org/wiki/Hermannsdenkmal
+315,e5,A British officer finds Roman coins at Kalkriese,1987,https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest
+316,e1,The Clotilda smuggles captive Africans into Alabama,Jul 1860,https://en.wikipedia.org/wiki/Clotilda_(slave_ship)
+316,e2,Abraham Lincoln is elected president,6 Nov 1860,https://en.wikipedia.org/wiki/1860_United_States_presidential_election
+316,e3,Gone with the Wind premieres in Atlanta,15 Dec 1939,https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)
+316,e4,The last known Clotilda survivor dies,13 Jan 1940,https://en.wikipedia.org/wiki/Matilda_McCrear
+316,e5,Germany invades Denmark and Norway,9 Apr 1940,https://en.wikipedia.org/wiki/Operation_Weser%C3%BCbung
+317,e1,Burmese armies sack Ayutthaya,7 Apr 1767,https://en.wikipedia.org/wiki/Fall_of_Ayutthaya
+317,e2,Goethe publishes The Sorrows of Young Werther,1774,https://en.wikipedia.org/wiki/The_Sorrows_of_Young_Werther
+317,e3,Bangkok becomes the capital of Siam,21 Apr 1782,https://en.wikipedia.org/wiki/Bangkok
+317,e4,The Treaty of Paris ends the American Revolution,3 Sep 1783,https://en.wikipedia.org/wiki/Treaty_of_Paris_(1783)
+317,e5,Humans fly in a hot-air balloon,21 Nov 1783,https://en.wikipedia.org/wiki/Montgolfier_brothers
+318,e1,Jules Verne's From the Earth to the Moon is published,1865,https://en.wikipedia.org/wiki/From_the_Earth_to_the_Moon
+318,e2,Robert Goddard launches a liquid-fuelled rocket,16 Mar 1926,https://en.wikipedia.org/wiki/Robert_H._Goddard
+318,e3,JFK says 'We choose to go to the Moon',12 Sep 1962,https://en.wikipedia.org/wiki/We_choose_to_go_to_the_Moon
+318,e4,Star Trek first airs on US television,8 Sep 1966,https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series
+318,e5,Apollo 8 launches for the Moon,21 Dec 1968,https://en.wikipedia.org/wiki/Apollo_8
+319,e1,Einstein predicts gravitational waves,1916,https://en.wikipedia.org/wiki/Gravitational_wave
+319,e2,Scientists announce they have detected gravitational waves,11 Feb 2016,https://en.wikipedia.org/wiki/First_observation_of_gravitational_waves
+319,e3,The first image of a black hole is released,10 Apr 2019,https://en.wikipedia.org/wiki/Event_Horizon_Telescope
+319,e4,Notre-Dame de Paris catches fire,15 Apr 2019,https://en.wikipedia.org/wiki/Notre-Dame_de_Paris_fire
+319,e5,Game of Thrones airs its final episode,19 May 2019,https://en.wikipedia.org/wiki/The_Iron_Throne_(Game_of_Thrones)
+320,e1,Eratosthenes measures the Earth's circumference,c. 240 BC,https://en.wikipedia.org/wiki/Earth's_circumference
+320,e2,Magellan sets sail from Spain,20 Sep 1519,https://en.wikipedia.org/wiki/Ferdinand_Magellan
+320,e3,Magellan is killed on Mactan,27 Apr 1521,https://en.wikipedia.org/wiki/Battle_of_Mactan
+320,e4,The Victoria returns to Spain after circling the globe,6 Sep 1522,https://en.wikipedia.org/wiki/Magellan_expedition
+320,e5,Apollo 8 photographs 'Earthrise',24 Dec 1968,https://en.wikipedia.org/wiki/Earthrise
+321,e1,Leonardo paints Christ as Salvator Mundi,c. 1500,https://en.wikipedia.org/wiki/Salvator_Mundi_(Leonardo)
+321,e2,Explorer Amerigo Vespucci dies in Seville,22 Feb 1512,https://en.wikipedia.org/wiki/Amerigo_Vespucci
+321,e3,The Louvre Abu Dhabi opens,8 Nov 2017,https://en.wikipedia.org/wiki/Louvre_Abu_Dhabi
+321,e4,A Leonardo painting sells for a world-record price,15 Nov 2017,https://en.wikipedia.org/wiki/Salvator_Mundi_(Leonardo)
+321,e5,Robert Mugabe resigns as Zimbabwe's president,21 Nov 2017,https://en.wikipedia.org/wiki/Robert_Mugabe
+322,e1,Thomas More publishes Utopia,1516,https://en.wikipedia.org/wiki/Utopia_(book)
+322,e2,Cortés meets Moctezuma in Tenochtitlan,8 Nov 1519,https://en.wikipedia.org/wiki/Fall_of_Tenochtitlan
+322,e3,Henry VIII meets Francis I at the Cloth of Gold,7 Jun 1520,https://en.wikipedia.org/wiki/Field_of_the_Cloth_of_Gold
+322,e4,Moctezuma dies,29 Jun 1520,https://en.wikipedia.org/wiki/Moctezuma_II
+322,e5,Suleiman the Magnificent becomes sultan,30 Sep 1520,https://en.wikipedia.org/wiki/Suleiman_the_Magnificent
+323,e1,The Ottoman sultan destroys the Janissaries,15 Jun 1826,https://en.wikipedia.org/wiki/Auspicious_Incident
+323,e2,Thomas Jefferson dies at Monticello,4 Jul 1826,https://en.wikipedia.org/wiki/Thomas_Jefferson
+323,e3,Beethoven dies in Vienna,26 Mar 1827,https://en.wikipedia.org/wiki/Ludwig_van_Beethoven
+323,e4,Allied fleet destroys an Ottoman navy at Navarino,20 Oct 1827,https://en.wikipedia.org/wiki/Battle_of_Navarino
+323,e5,Shaka Zulu is assassinated,24 Sep 1828,https://en.wikipedia.org/wiki/Shaka
+324,e1,Concorde starts passenger service,21 Jan 1976,https://en.wikipedia.org/wiki/Concorde
+324,e2,Apple Computer is founded,1 Apr 1976,https://en.wikipedia.org/wiki/Apple_Inc.
+324,e3,Californian wines beat French ones in Paris,24 May 1976,https://en.wikipedia.org/wiki/Judgment_of_Paris_(wine)
+324,e4,Nadia Comăneci scores a perfect 10,18 Jul 1976,https://en.wikipedia.org/wiki/Nadia_Com%C4%83neci
+324,e5,Viking 1 lands on Mars,20 Jul 1976,https://en.wikipedia.org/wiki/Viking_1
+325,e1,The US buys Louisiana from France,30 Apr 1803,https://en.wikipedia.org/wiki/Louisiana_Purchase
+325,e2,Peugeot is founded as a family business,1810,https://en.wikipedia.org/wiki/Peugeot
+325,e3,Napoleon's army enters Moscow,14 Sep 1812,https://en.wikipedia.org/wiki/French_invasion_of_Russia
+325,e4,The Brothers Grimm publish their fairy tales,20 Dec 1812,https://en.wikipedia.org/wiki/Grimms%27_Fairy_Tales
+325,e5,Peugeot applies for its lion trademark,20 Nov 1858,https://en.wikipedia.org/wiki/Peugeot
+326,e1,Wu Zetian becomes China's empress regnant,16 Oct 690,https://en.wikipedia.org/wiki/Wu_Zetian
+326,e2,Japan's Kojiki chronicle is completed,c. 712,https://en.wikipedia.org/wiki/Kojiki
+326,e3,The An Lushan rebellion begins in China,16 Dec 755,https://en.wikipedia.org/wiki/An_Lushan_rebellion
+326,e4,Irene becomes sole ruler of Byzantium,797,https://en.wikipedia.org/wiki/Irene_of_Athens
+326,e5,Vikings sack Paris,Mar 845,https://en.wikipedia.org/wiki/Siege_of_Paris_(845)
+327,e1,Balboa sights the Pacific from Panama,25 Sep 1513,https://en.wikipedia.org/wiki/Vasco_N%C3%BA%C3%B1ez_de_Balboa
+327,e2,Portuguese traders settle at Macau,1557,https://en.wikipedia.org/wiki/Macau
+327,e3,France begins digging a Panama canal,1 Jan 1881,https://en.wikipedia.org/wiki/History_of_the_Panama_Canal
+327,e4,Portugal hands Macau back to China,20 Dec 1999,https://en.wikipedia.org/wiki/Transfer_of_sovereignty_over_Macau
+327,e5,The US hands the Panama Canal to Panama,31 Dec 1999,https://en.wikipedia.org/wiki/Torrijos%E2%80%93Carter_Treaties
+328,e1,"Cavalry charge a crowd at Peterloo, Manchester",16 Aug 1819,https://en.wikipedia.org/wiki/Peterloo_Massacre
+328,e2,A Russian expedition first sights Antarctica,27 Jan 1820,https://en.wikipedia.org/wiki/Fabian_Gottlieb_von_Bellingshausen
+328,e3,The Venus de Milo is unearthed,8 Apr 1820,https://en.wikipedia.org/wiki/Venus_de_Milo
+328,e4,John Keats dies in Rome,23 Feb 1821,https://en.wikipedia.org/wiki/John_Keats
+328,e5,Brazil declares independence from Portugal,7 Sep 1822,https://en.wikipedia.org/wiki/Independence_of_Brazil
+329,e1,Iraq invades Kuwait,2 Aug 1990,https://en.wikipedia.org/wiki/Iraqi_invasion_of_Kuwait
+329,e2,Germany is reunified,3 Oct 1990,https://en.wikipedia.org/wiki/German_reunification
+329,e3,Home Alone opens in US cinemas,16 Nov 1990,https://en.wikipedia.org/wiki/Home_Alone
+329,e4,Margaret Thatcher leaves office,28 Nov 1990,https://en.wikipedia.org/wiki/Margaret_Thatcher
+329,e5,The first website goes live at CERN,20 Dec 1990,https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web
+330,e1,Matthew Webb swims the English Channel,25 Aug 1875,https://en.wikipedia.org/wiki/Matthew_Webb
+330,e2,Gertrude Ederle swims the English Channel,6 Aug 1926,https://en.wikipedia.org/wiki/Gertrude_Ederle
+330,e3,Rudolph Valentino dies,23 Aug 1926,https://en.wikipedia.org/wiki/Rudolph_Valentino
+330,e4,Harry Houdini dies,31 Oct 1926,https://en.wikipedia.org/wiki/Harry_Houdini
+330,e5,The Channel Tunnel opens,6 May 1994,https://en.wikipedia.org/wiki/Channel_Tunnel
+331,e1,Nintendo launches Game & Watch,1980,https://en.wikipedia.org/wiki/Game_%26_Watch
+331,e2,Iran issues a fatwa against Salman Rushdie,14 Feb 1989,https://en.wikipedia.org/wiki/The_Satanic_Verses_controversy
+331,e3,Tim Berners-Lee proposes the World Wide Web,Mar 1989,https://en.wikipedia.org/wiki/Tim_Berners-Lee
+331,e4,The Game Boy goes on sale in Japan,21 Apr 1989,https://en.wikipedia.org/wiki/Game_Boy
+331,e5,China crushes the Tiananmen Square protests,4 Jun 1989,https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre
+332,e1,Saladin retakes Jerusalem from the crusaders,2 Oct 1187,https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1187)
+332,e2,Crusaders sack the Christian city of Zara,Nov 1202,https://en.wikipedia.org/wiki/Siege_of_Zara
+332,e3,Crusaders sack Constantinople,Apr 1204,https://en.wikipedia.org/wiki/Sack_of_Constantinople
+332,e4,French troops carry Venice's bronze horses to Paris,1797,https://en.wikipedia.org/wiki/Horses_of_Saint_Mark
+332,e5,Venice's bronze horses are returned from Paris,1815,https://en.wikipedia.org/wiki/Horses_of_Saint_Mark
+333,e1,Ceylon becomes independent from Britain,4 Feb 1948,https://en.wikipedia.org/wiki/Dominion_of_Ceylon
+333,e2,The US says it will approve the birth-control pill,May 1960,https://en.wikipedia.org/wiki/Combined_oral_contraceptive_pill
+333,e3,Sirimavo Bandaranaike becomes Ceylon's prime minister,21 Jul 1960,https://en.wikipedia.org/wiki/Sirimavo_Bandaranaike
+333,e4,Indira Gandhi becomes India's prime minister,Jan 1966,https://en.wikipedia.org/wiki/Indira_Gandhi
+333,e5,Sri Lanka wins the Cricket World Cup,17 Mar 1996,https://en.wikipedia.org/wiki/1996_Cricket_World_Cup_final
+334,e1,Elizabeth I dies at Richmond Palace,24 Mar 1603,https://en.wikipedia.org/wiki/Elizabeth_I
+334,e2,Don Quixote is published,16 Jan 1605,https://en.wikipedia.org/wiki/Don_Quixote
+334,e3,Guy Fawkes is caught under Parliament,5 Nov 1605,https://en.wikipedia.org/wiki/Gunpowder_Plot
+334,e4,Willem Janszoon lands in Australia,26 Feb 1606,https://en.wikipedia.org/wiki/Willem_Janszoon
+334,e5,Henry Hudson sails into New York Bay,11 Sep 1609,https://en.wikipedia.org/wiki/Henry_Hudson
+335,e1,Lehman Brothers files for bankruptcy,15 Sep 2008,https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers
+335,e2,Bitcoin's first block is mined,3 Jan 2009,https://en.wikipedia.org/wiki/Bitcoin
+335,e3,A plane lands on the Hudson River,15 Jan 2009,https://en.wikipedia.org/wiki/US_Airways_Flight_1549
+335,e4,Barack Obama is inaugurated,20 Jan 2009,https://en.wikipedia.org/wiki/First_inauguration_of_Barack_Obama
+335,e5,Michael Jackson dies,25 Jun 2009,https://en.wikipedia.org/wiki/Death_of_Michael_Jackson
+336,e1,"Mary, Queen of Scots is born",8 Dec 1542,"https://en.wikipedia.org/wiki/Mary,_Queen_of_Scots"
+336,e2,The Council of Trent opens,13 Dec 1545,https://en.wikipedia.org/wiki/Council_of_Trent
+336,e3,Ivan the Terrible is crowned tsar,16 Jan 1547,https://en.wikipedia.org/wiki/Ivan_the_Terrible
+336,e4,King Henry VIII dies,28 Jan 1547,https://en.wikipedia.org/wiki/Henry_VIII
+336,e5,England's Queen Mary marries Philip of Spain,25 Jul 1554,https://en.wikipedia.org/wiki/Mary_I_of_England
+337,e1,Richard Wagner is born in Leipzig,22 May 1813,https://en.wikipedia.org/wiki/Richard_Wagner
+337,e2,The Battle of the Nations begins at Leipzig,16 Oct 1813,https://en.wikipedia.org/wiki/Battle_of_Leipzig
+337,e3,Custer's Last Stand at Little Bighorn,25 Jun 1876,https://en.wikipedia.org/wiki/Battle_of_the_Little_Bighorn
+337,e4,Wild Bill Hickok is shot during a poker game,2 Aug 1876,https://en.wikipedia.org/wiki/Wild_Bill_Hickok
+337,e5,The first Bayreuth Festival opens,13 Aug 1876,https://en.wikipedia.org/wiki/Bayreuth_Festival
+338,e1,Fred Hoyle coins the term 'Big Bang',28 Mar 1949,https://en.wikipedia.org/wiki/Fred_Hoyle
+338,e2,NATO is founded in Washington,4 Apr 1949,https://en.wikipedia.org/wiki/NATO
+338,e3,George Orwell publishes Nineteen Eighty-Four,8 Jun 1949,https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
+338,e4,Mao proclaims the People's Republic of China,1 Oct 1949,https://en.wikipedia.org/wiki/Proclamation_of_the_People's_Republic_of_China
+338,e5,Penzias and Wilson detect the Big Bang's afterglow,1964,https://en.wikipedia.org/wiki/Discovery_of_cosmic_microwave_background_radiation
+339,e1,People in Peru pop corn,c. 4700 BC,https://en.wikipedia.org/wiki/Popcorn
+339,e2,Charles Cretors builds a steam popcorn machine,1885,https://en.wikipedia.org/wiki/Charles_Cretors
+339,e3,Percy Spencer pops corn with microwaves,1945,https://en.wikipedia.org/wiki/Microwave_oven
+339,e4,Orville Redenbacher's popcorn goes national,1970,https://en.wikipedia.org/wiki/Orville_Redenbacher
+339,e5,Microwave popcorn bags hit the market,1981,https://en.wikipedia.org/wiki/Microwave_popcorn
+340,e1,Petrarch climbs Mont Ventoux just to see the view,26 Apr 1336,https://en.wikipedia.org/wiki/Petrarch
+340,e2,The Ming dynasty is founded in China,23 Jan 1368,https://en.wikipedia.org/wiki/Hongwu_Emperor
+340,e3,The Peasants' Revolt reaches London,Jun 1381,https://en.wikipedia.org/wiki/Peasants'_Revolt
+340,e4,Climbers reach the summit of Mont Blanc,8 Aug 1786,https://en.wikipedia.org/wiki/Mont_Blanc
+340,e5,Frederick the Great dies at Sanssouci,17 Aug 1786,https://en.wikipedia.org/wiki/Frederick_the_Great
+341,e1,Mao Zedong is born,26 Dec 1893,https://en.wikipedia.org/wiki/Mao_Zedong
+341,e2,Nixon meets Mao in Beijing,21 Feb 1972,https://en.wikipedia.org/wiki/1972_visit_by_Richard_Nixon_to_China
+341,e3,Burglars are caught inside the Watergate building,17 Jun 1972,https://en.wikipedia.org/wiki/Watergate_scandal
+341,e4,Fischer and Spassky begin their chess title match,11 Jul 1972,https://en.wikipedia.org/wiki/World_Chess_Championship_1972
+341,e5,Mao Zedong dies,9 Sep 1976,https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Mao_Zedong
+342,e1,Samuel Colt patents his revolver,25 Feb 1836,https://en.wikipedia.org/wiki/Samuel_Colt
+342,e2,Texas declares independence from Mexico,2 Mar 1836,https://en.wikipedia.org/wiki/Texas_Declaration_of_Independence
+342,e3,The Alamo falls to Mexican troops,6 Mar 1836,https://en.wikipedia.org/wiki/Battle_of_the_Alamo
+342,e4,Darwin returns home on HMS Beagle,2 Oct 1836,https://en.wikipedia.org/wiki/Second_voyage_of_HMS_Beagle
+342,e5,Victoria becomes Queen of the United Kingdom,20 Jun 1837,https://en.wikipedia.org/wiki/Queen_Victoria
+343,e1,Charlemagne is crowned emperor in Rome,25 Dec 800,https://en.wikipedia.org/wiki/Charlemagne
+343,e2,Murasaki Shikibu's Tale of Genji is being read,by 1008,https://en.wikipedia.org/wiki/The_Tale_of_Genji
+343,e3,Macbeth kills Duncan and takes Scotland's throne,14 Aug 1040,https://en.wikipedia.org/wiki/Duncan_I_of_Scotland
+343,e4,Macbeth is killed at Lumphanan,15 Aug 1057,"https://en.wikipedia.org/wiki/Macbeth,_King_of_Scotland"
+343,e5,An astrologer records seeing Macbeth at the Globe,c. 1610,https://en.wikipedia.org/wiki/Macbeth
+344,e1,Mary Anning's family finds an ichthyosaur,1811,https://en.wikipedia.org/wiki/Mary_Anning
+344,e2,Megalosaurus is formally described,20 Feb 1824,https://en.wikipedia.org/wiki/Megalosaurus
+344,e3,The Penny Black stamp is issued,1 May 1840,https://en.wikipedia.org/wiki/Penny_Black
+344,e4,Richard Owen coins the word 'dinosaur',1842,https://en.wikipedia.org/wiki/Dinosaur
+344,e5,Life-size dinosaur statues are unveiled in London,1854,https://en.wikipedia.org/wiki/Crystal_Palace_Dinosaurs
+345,e1,Hatshepsut becomes pharaoh of Egypt,c. 1479 BC,https://en.wikipedia.org/wiki/Hatshepsut
+345,e2,Gunmen kill tourists at Hatshepsut's temple,17 Nov 1997,https://en.wikipedia.org/wiki/Luxor_massacre
+345,e3,A tooth identifies Hatshepsut's mummy,Jun 2007,https://en.wikipedia.org/wiki/Zahi_Hawass
+345,e4,Apple's iPhone goes on sale,29 Jun 2007,https://en.wikipedia.org/wiki/IPhone_(1st_generation)
+345,e5,The last Harry Potter book is published,21 Jul 2007,https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows
+346,e1,Izumo no Okuni starts performing kabuki in Kyoto,1603,https://en.wikipedia.org/wiki/Izumo_no_Okuni
+346,e2,Japan's shogunate bans women from the kabuki stage,1629,https://en.wikipedia.org/wiki/Kabuki
+346,e3,The Shimabara Rebellion breaks out in Japan,17 Dec 1637,https://en.wikipedia.org/wiki/Shimabara_Rebellion
+346,e4,Japan expels Portuguese traders and closes its ports,1639,https://en.wikipedia.org/wiki/Sakoku
+346,e5,Bashō sets out on his Narrow Road to the Deep North,16 May 1689,https://en.wikipedia.org/wiki/Matsuo_Bashō
+347,e1,László Bíró files a patent for his ballpoint pen,15 Jun 1938,https://en.wikipedia.org/wiki/Ballpoint_pen
+347,e2,Ray Tomlinson sends email between computers,1971,https://en.wikipedia.org/wiki/Ray_Tomlinson
+347,e3,Ali beats Foreman in the Rumble in the Jungle,30 Oct 1974,https://en.wikipedia.org/wiki/The_Rumble_in_the_Jungle
+347,e4,Space Invaders arrives in Japanese arcades,Jul 1978,https://en.wikipedia.org/wiki/Space_Invaders
+347,e5,Post-it Notes go on sale across the US,1980,https://en.wikipedia.org/wiki/Post-it_Note
+348,e1,Muhammad Ali is born,17 Jan 1942,https://en.wikipedia.org/wiki/Muhammad_Ali
+348,e2,US bombers strike Tokyo in the Doolittle Raid,18 Apr 1942,https://en.wikipedia.org/wiki/Doolittle_Raid
+348,e3,Paul McCartney is born,18 Jun 1942,https://en.wikipedia.org/wiki/Paul_McCartney
+348,e4,Casablanca premieres in New York,26 Nov 1942,https://en.wikipedia.org/wiki/Casablanca_(film)
+348,e5,Jimi Hendrix is born,27 Nov 1942,https://en.wikipedia.org/wiki/Jimi_Hendrix
+349,e1,Superman debuts in Action Comics,18 Apr 1938,https://en.wikipedia.org/wiki/Action_Comics_1
+349,e2,The Munich Agreement is signed,30 Sep 1938,https://en.wikipedia.org/wiki/Munich_Agreement
+349,e3,Orson Welles broadcasts The War of the Worlds,30 Oct 1938,https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1938_radio_drama)
+349,e4,Seabiscuit beats War Admiral in a match race,1 Nov 1938,https://en.wikipedia.org/wiki/Seabiscuit
+349,e5,A living coelacanth is caught off South Africa,22 Dec 1938,https://en.wikipedia.org/wiki/Coelacanth
+350,e1,The barcode is patented,7 Oct 1952,https://en.wikipedia.org/wiki/Barcode
+350,e2,The Terracotta Army is discovered,29 Mar 1974,https://en.wikipedia.org/wiki/Terracotta_Army
+350,e3,ABBA win Eurovision with 'Waterloo',6 Apr 1974,https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1974
+350,e4,A barcode is scanned at a till,26 Jun 1974,https://en.wikipedia.org/wiki/Universal_Product_Code
+350,e5,Richard Nixon resigns,9 Aug 1974,https://en.wikipedia.org/wiki/Richard_Nixon
+351,e1,Timur dies on campaign to invade China,Feb 1405,https://en.wikipedia.org/wiki/Timur
+351,e2,A giraffe is presented at the Ming court,1414,https://en.wikipedia.org/wiki/Qilin
+351,e3,Jan Hus is burned at the stake in Konstanz,6 Jul 1415,https://en.wikipedia.org/wiki/Jan_Hus
+351,e4,Portugal captures Ceuta in North Africa,21 Aug 1415,https://en.wikipedia.org/wiki/Conquest_of_Ceuta
+351,e5,English archers win the Battle of Agincourt,25 Oct 1415,https://en.wikipedia.org/wiki/Battle_of_Agincourt
+352,e1,Japan's Emperor Kōkaku abdicates,1817,https://en.wikipedia.org/wiki/Emperor_K%C5%8Dkaku
+352,e2,Japan's emperor renounces his divinity,1 Jan 1946,https://en.wikipedia.org/wiki/Humanity_Declaration
+352,e3,"Crown Prince Akihito marries a commoner, Michiko",10 Apr 1959,https://en.wikipedia.org/wiki/Empress_Michiko
+352,e4,Emperor Hirohito dies,7 Jan 1989,https://en.wikipedia.org/wiki/Hirohito
+352,e5,Japan's Emperor Akihito abdicates,30 Apr 2019,https://en.wikipedia.org/wiki/Akihito
+353,e1,England seizes Scotland's Stone of Scone,1296,https://en.wikipedia.org/wiki/Stone_of_Scone
+353,e2,Robert the Bruce wins at Bannockburn,24 Jun 1314,https://en.wikipedia.org/wiki/Battle_of_Bannockburn
+353,e3,Students steal the Stone of Scone,25 Dec 1950,https://en.wikipedia.org/wiki/Removal_of_the_Stone_of_Scone_in_1950
+353,e4,Braveheart is released,24 May 1995,https://en.wikipedia.org/wiki/Braveheart
+353,e5,The Stone of Scone returns to Scotland,30 Nov 1996,https://en.wikipedia.org/wiki/Stone_of_Scone
+354,e1,Tintin makes his debut,10 Jan 1929,https://en.wikipedia.org/wiki/Tintin_in_the_Land_of_the_Soviets
+354,e2,Popeye makes his debut,17 Jan 1929,https://en.wikipedia.org/wiki/Popeye
+354,e3,The Lateran Treaty creates Vatican City,11 Feb 1929,https://en.wikipedia.org/wiki/Lateran_Treaty
+354,e4,The St. Valentine's Day Massacre,14 Feb 1929,https://en.wikipedia.org/wiki/Saint_Valentine's_Day_Massacre
+354,e5,The first Academy Awards are presented,16 May 1929,https://en.wikipedia.org/wiki/1st_Academy_Awards
+355,e1,Don Bradman is born,27 Aug 1908,https://en.wikipedia.org/wiki/Don_Bradman
+355,e2,"Cricket's ""Timeless Test"" is abandoned as a draw",14 Mar 1939,https://en.wikipedia.org/wiki/Timeless_Test
+355,e3,German troops occupy Prague,15 Mar 1939,https://en.wikipedia.org/wiki/German_occupation_of_Czechoslovakia
+355,e4,"Lou Gehrig gives his ""luckiest man"" speech",4 Jul 1939,https://en.wikipedia.org/wiki/Lou_Gehrig
+355,e5,Einstein signs a letter to Roosevelt about the atomic bomb,2 Aug 1939,https://en.wikipedia.org/wiki/Einstein%E2%80%93Szil%C3%A1rd_letter
+356,e1,Sony is founded in Tokyo,7 May 1946,https://en.wikipedia.org/wiki/Sony
+356,e2,Margaret Thatcher becomes prime minister,4 May 1979,https://en.wikipedia.org/wiki/Margaret_Thatcher
+356,e3,The Sony Walkman goes on sale,1 Jul 1979,https://en.wikipedia.org/wiki/Walkman
+356,e4,Skylab falls back to Earth,11 Jul 1979,https://en.wikipedia.org/wiki/Skylab
+356,e5,The Iran hostage crisis begins,4 Nov 1979,https://en.wikipedia.org/wiki/Iran_hostage_crisis
+357,e1,Normans capture Palermo,Jan 1072,https://en.wikipedia.org/wiki/Norman_conquest_of_southern_Italy
+357,e2,Roger II is crowned King of Sicily,25 Dec 1130,https://en.wikipedia.org/wiki/Roger_II_of_Sicily
+357,e3,Al-Idrisi completes his world map,1154,https://en.wikipedia.org/wiki/Tabula_Rogeriana
+357,e4,The Sicilian Vespers revolt erupts,30 Mar 1282,https://en.wikipedia.org/wiki/Sicilian_Vespers
+357,e5,Mercator publishes his world map projection,1569,https://en.wikipedia.org/wiki/Mercator_1569_world_map
+358,e1,The Kangxi Dictionary is completed,1716,https://en.wikipedia.org/wiki/Kangxi_Dictionary
+358,e2,China's Kangxi Emperor dies after 61 years,20 Dec 1722,https://en.wikipedia.org/wiki/Kangxi_Emperor
+358,e3,China limits Western trade to Canton,1757,https://en.wikipedia.org/wiki/Canton_system
+358,e4,China's Qianlong Emperor abdicates,Feb 1796,https://en.wikipedia.org/wiki/Jiaqing_Emperor
+358,e5,Napoleon marries Joséphine de Beauharnais,9 Mar 1796,https://en.wikipedia.org/wiki/Jos%C3%A9phine_de_Beauharnais
+359,e1,"Gold is found at Sutter's Mill, California",24 Jan 1848,https://en.wikipedia.org/wiki/Sutter%27s_Mill
+359,e2,The Treaty of Guadalupe Hidalgo is signed,2 Feb 1848,https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo
+359,e3,Revolution in Paris forces the French king to abdicate,24 Feb 1848,https://en.wikipedia.org/wiki/Louis_Philippe_I
+359,e4,The Seneca Falls women's rights convention opens,19 Jul 1848,https://en.wikipedia.org/wiki/Seneca_Falls_Convention
+359,e5,Gold is struck in the Klondike,16 Aug 1896,https://en.wikipedia.org/wiki/Klondike_Gold_Rush
+360,e1,Pride and Prejudice is published,28 Jan 1813,https://en.wikipedia.org/wiki/Pride_and_Prejudice
+360,e2,Richard Wagner is born in Leipzig,22 May 1813,https://en.wikipedia.org/wiki/Richard_Wagner
+360,e3,Giuseppe Verdi is born,Oct 1813,https://en.wikipedia.org/wiki/Giuseppe_Verdi
+360,e4,Richard Wagner dies in Venice,13 Feb 1883,https://en.wikipedia.org/wiki/Richard_Wagner
+360,e5,Giuseppe Verdi dies in Milan,27 Jan 1901,https://en.wikipedia.org/wiki/Giuseppe_Verdi
+361,e1,Britain and the US sign the Treaty of Ghent,24 Dec 1814,https://en.wikipedia.org/wiki/Treaty_of_Ghent
+361,e2,Andrew Jackson wins the Battle of New Orleans,8 Jan 1815,https://en.wikipedia.org/wiki/Battle_of_New_Orleans
+361,e3,Napoleon escapes from exile on Elba,26 Feb 1815,https://en.wikipedia.org/wiki/Hundred_Days
+361,e4,The Kingdom of Kandy is ceded to Britain,2 Mar 1815,https://en.wikipedia.org/wiki/Kandyan_Convention
+361,e5,Jane Austen's Emma is published,Dec 1815,https://en.wikipedia.org/wiki/Emma_(novel)
+362,e1,Nintendo's Game Boy goes on sale in Japan,21 Apr 1989,https://en.wikipedia.org/wiki/Game_Boy
+362,e2,Toy Story opens in US cinemas,22 Nov 1995,https://en.wikipedia.org/wiki/Toy_Story
+362,e3,Pokémon Red and Green are released,27 Feb 1996,https://en.wikipedia.org/wiki/Pokémon_Red_and_Blue
+362,e4,Dolly the sheep is born,5 Jul 1996,https://en.wikipedia.org/wiki/Dolly_(sheep)
+362,e5,Google is incorporated,4 Sep 1998,https://en.wikipedia.org/wiki/History_of_Google
+363,e1,Construction of the Taj Mahal begins,1632,https://en.wikipedia.org/wiki/Taj_Mahal
+363,e2,Galileo is convicted by the Inquisition,22 Jun 1633,https://en.wikipedia.org/wiki/Galileo_affair
+363,e3,The Maastricht Treaty is signed,7 Feb 1992,https://en.wikipedia.org/wiki/Maastricht_Treaty
+363,e4,The Pope admits the Church erred over Galileo,31 Oct 1992,https://en.wikipedia.org/wiki/Galileo_Galilei
+363,e5,Bill Clinton is elected US president,3 Nov 1992,https://en.wikipedia.org/wiki/1992_United_States_presidential_election
+364,e1,Gauls sack Rome,c. 390 BC,https://en.wikipedia.org/wiki/Battle_of_the_Allia
+364,e2,Work begins on Rome's Aurelian Walls,271,https://en.wikipedia.org/wiki/Aurelian_Walls
+364,e3,Visigoths sack Rome,24 Aug 410,https://en.wikipedia.org/wiki/Sack_of_Rome_(410)
+364,e4,A Christian mob murders Hypatia in Alexandria,Mar 415,https://en.wikipedia.org/wiki/Hypatia
+364,e5,Italian troops capture Rome from the Pope,20 Sep 1870,https://en.wikipedia.org/wiki/Capture_of_Rome
+365,e1,Egypt's first pyramid is built for King Djoser,c. 2670 BC,https://en.wikipedia.org/wiki/Pyramid_of_Djoser
+365,e2,Work begins on Ramesses II's temples at Abu Simbel,c. 1264 BC,https://en.wikipedia.org/wiki/Abu_Simbel
+365,e3,Burckhardt spots the buried temple of Abu Simbel,Mar 1813,https://en.wikipedia.org/wiki/Abu_Simbel
+365,e4,Belzoni digs his way into the Great Temple of Abu Simbel,1 Aug 1817,https://en.wikipedia.org/wiki/Abu_Simbel
+365,e5,The Grand Egyptian Museum officially opens near Giza,1 Nov 2025,https://en.wikipedia.org/wiki/Grand_Egyptian_Museum
