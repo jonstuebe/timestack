@@ -16,7 +16,7 @@ test('first visit shows How to Play once', async ({ page }) => {
 test('shows the puzzle number, date, and the seeded starting order without years', async ({ page }) => {
   const { number, puzzle } = todaysPuzzle();
   await openGame(page);
-  await expect(page.locator('.puzzle-meta')).toContainText(`#${number}`);
+  await expect(page.locator('.puzzle-meta')).toContainText(`No. ${number}`);
   await expect(cards(page)).toHaveCount(5);
   expect(await currentOrder(page)).toEqual(initialOrder(puzzle, number));
   for (const e of puzzle.events) {
@@ -42,7 +42,7 @@ test('play with keyboard only, submit, and see results', async ({ page }) => {
   await expect(page.locator('.fact-card')).toContainText(puzzle.fact);
   for (const e of puzzle.events) await expect(page.locator('.answer-list')).toContainText(e.display);
   await expect(page.locator('.countdown')).toHaveText(/Next Timestack in 1[34]:\d\d:\d\d/);
-  await expect(page.locator('.card-slot.flipped')).toHaveCount(5);
+  await expect(page.locator('.reveal-card.revealed')).toHaveCount(5);
   await expect(page.locator('.result-correct').first()).toBeVisible();
   expect(number).toBeGreaterThan(0);
 });
@@ -80,7 +80,7 @@ test('returning after finishing skips to results and cannot submit again', async
   await page.reload();
   await expect(page.locator('.results-score')).toHaveText(score!);
   await expect(page.getByRole('button', { name: 'Lock it in' })).toHaveCount(0);
-  await expect(page.locator('.card-slot.flipped')).toHaveCount(5);
+  await expect(page.locator('.reveal-card.revealed')).toHaveCount(5);
 
   const stored = await page.evaluate(() => JSON.parse(localStorage.getItem('timestack:v1')!));
   expect(stored.stats.played).toBe(1);
@@ -100,7 +100,7 @@ test('share on desktop copies the exact text and shows a toast', async ({ page, 
   await page.getByRole('button', { name: 'Share' }).click();
   await expect(page.getByRole('status')).toContainText('Copied results to clipboard');
   const text = await page.evaluate(() => navigator.clipboard.readText());
-  expect(text).toBe(`Timestack #${number} 5/5\n\n🟩🟩🟩🟩🟩\n\ntimestack.app`);
+  expect(text).toBe(`Timestack No. ${number} · 5/5\n\n●─●─●─●─●\n\ntimestack.app`);
   for (const e of puzzle.events) {
     expect(text).not.toContain(e.title);
     expect(text).not.toContain(String(Math.abs(e.year)));
@@ -121,7 +121,7 @@ test('share on mobile opens the native share sheet @mobile', async ({ page }) =>
   await page.getByRole('button', { name: 'Share' }).click();
   const shared = await page.evaluate(() => (window as unknown as { shared: { text: string }[] }).shared);
   expect(shared).toHaveLength(1);
-  expect(shared[0].text).toMatch(new RegExp(`^Timestack #${number} [0-5]/5\\n\\n[🟩🟨⬜]{5}\\n\\ntimestack\\.app$`, 'u'));
+  expect(shared[0].text).toMatch(new RegExp(`^Timestack No\\. ${number} · [0-5]/5\\n\\n[●◐○](─[●◐○]){4}\\n\\ntimestack\\.app$`, 'u'));
 });
 
 test('the puzzle rolls over at local midnight', async ({ page }) => {
@@ -132,7 +132,7 @@ test('the puzzle rolls over at local midnight', async ({ page }) => {
   await finishReveal(page);
   await expect(page.locator('.countdown-time')).toHaveText(/^00:00:0\d$/);
   await page.clock.runFor(10_000);
-  await expect(page.locator('.puzzle-meta')).toContainText(`#${today.number + 1}`);
+  await expect(page.locator('.puzzle-meta')).toContainText(`No. ${today.number + 1}`);
   await expect(page.getByRole('button', { name: 'Lock it in' })).toBeVisible();
 });
 

@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import type { Puzzle, SlotResult } from '../lib/types';
 import { headline } from '../lib/scoring';
-import { buildShareText, shareResults } from '../lib/share';
+import { buildShareText, resultLine, shareResults } from '../lib/share';
 import { Countdown } from './Countdown';
 import { ShareIcon } from './Icons';
 
@@ -12,13 +12,12 @@ interface ResultsProps {
   submitted: string[];
   results: SlotResult[];
   score: number;
-  highContrast: boolean;
   focusOnMount: boolean;
   onToast: (message: string) => void;
   onNextPuzzle: () => void;
 }
 
-export function Results({ puzzle, puzzleNumber, correct, submitted, results, score, highContrast, focusOnMount, onToast, onNextPuzzle }: ResultsProps) {
+export function Results({ puzzle, puzzleNumber, correct, submitted, results, score, focusOnMount, onToast, onNextPuzzle }: ResultsProps) {
   const headingRef = useRef<HTMLHeadingElement>(null);
   const [manualText, setManualText] = useState<string | null>(null);
   const byId = Object.fromEntries(puzzle.events.map((e) => [e.id, e]));
@@ -28,7 +27,7 @@ export function Results({ puzzle, puzzleNumber, correct, submitted, results, sco
   }, [focusOnMount]);
 
   const onShare = async () => {
-    const text = buildShareText(puzzleNumber, score, results, highContrast);
+    const text = buildShareText(puzzleNumber, score, results);
     const outcome = await shareResults(text);
     if (outcome === 'copied') onToast('Copied results to clipboard');
     if (outcome === 'failed') setManualText(text);
@@ -41,7 +40,11 @@ export function Results({ puzzle, puzzleNumber, correct, submitted, results, sco
       </h2>
       <p className="results-score">
         <span className="visually-hidden">Score: </span>
-        {score}/5
+        <span className="score-number">{score}/5</span>
+        <span className="score-label">in place</span>
+        <span className="score-marks" aria-hidden="true">
+          {resultLine(results)}
+        </span>
       </p>
 
       <h3 className="section-label">Correct order</h3>
@@ -64,13 +67,13 @@ export function Results({ puzzle, puzzleNumber, correct, submitted, results, sco
         })}
       </ol>
 
-      <aside className="fact-card" aria-label="Did you know?">
-        <p className="fact-label">🤯 Did you know?</p>
+      <aside className="fact-card" aria-label="Curator's note">
+        <p className="fact-label">Curator's note</p>
         <p className="fact-text">{puzzle.fact}</p>
       </aside>
 
       <button type="button" className="share-button" onClick={onShare}>
-        Share <ShareIcon />
+        <ShareIcon /> Share result
       </button>
       {manualText && (
         <div className="manual-share">

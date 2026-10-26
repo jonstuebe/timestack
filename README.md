@@ -1,6 +1,6 @@
 # Timestack
 
-A daily history puzzle. Drag five events into chronological order, lock it in, watch the cards flip, and share a spoiler-free emoji result, just like Wordle.
+A daily history puzzle. Drag five events into chronological order, lock it in, watch each card get stamped with its date, and share a spoiler-free result line like `●─◐─○─●─●`.
 
 - One puzzle per day, the same for everyone, chosen from the player's **local** date.
 - A small Cloudflare Worker serves only today's puzzle, so future puzzles can't be read from the page source (see [ADR 0001](docs/adr/0001-puzzles-served-by-worker.md)).

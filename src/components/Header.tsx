@@ -1,4 +1,4 @@
-import { HelpIcon, SettingsIcon, StatsIcon } from './Icons';
+import { HelpIcon, LogoMark, SettingsIcon, StatsIcon } from './Icons';
 
 interface HeaderProps {
   onHelp: () => void;
@@ -9,13 +9,14 @@ interface HeaderProps {
 export function Header({ onHelp, onStats, onSettings }: HeaderProps) {
   return (
     <header className="header">
+      <h1 className="title">
+        <LogoMark />
+        Timestack
+      </h1>
       <div className="header-side">
         <button type="button" className="icon-button" onClick={onHelp} aria-label="How to play">
           <HelpIcon />
         </button>
-      </div>
-      <h1 className="title">Timestack</h1>
-      <div className="header-side header-right">
         <button type="button" className="icon-button" onClick={onStats} aria-label="Statistics">
           <StatsIcon />
         </button>

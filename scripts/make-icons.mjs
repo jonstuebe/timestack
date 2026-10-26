@@ -12,7 +12,7 @@ const favicon = await readFile(new URL('favicon.svg', root), 'utf8');
 // keep the artwork inside the central 80% safe zone.
 const fullBleed = favicon.replace('rx="96" ', '');
 const maskable = fullBleed.replace(
-  /<rect x="96"[\s\S]*<\/svg>/,
+  /<g id="art">[\s\S]*<\/svg>/,
   (inner) => `<g transform="translate(256 256) scale(0.78) translate(-256 -256)">${inner.replace('</svg>', '')}</g></svg>`,
 );
 

@@ -82,7 +82,6 @@ export function Game({ puzzle, puzzleNumber, state, setState, reducedMotion, ann
           submitted={submitted}
           results={results}
           score={result.score}
-          highContrast={state.settings.highContrast}
           focusOnMount={playedThisSession.current}
           onToast={onToast}
           onNextPuzzle={onNextPuzzle}

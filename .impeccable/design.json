@@ -1,0 +1,525 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-26T18:38:10.746853+00:00",
+  "title": "Design System: Timestack",
+  "extensions": {
+    "colorMeta": {
+      "prussian-ink": {
+        "role": "primary",
+        "displayName": "Prussian Ink",
+        "canonical": "oklch(0.25 0.05 258)",
+        "tonalRamp": [
+          "oklch(0.15 0.05 258)",
+          "oklch(0.27 0.05 258)",
+          "oklch(0.39 0.05 258)",
+          "oklch(0.51 0.05 258)",
+          "oklch(0.63 0.05 258)",
+          "oklch(0.75 0.05 258)",
+          "oklch(0.86 0.05 258)",
+          "oklch(0.95 0.05 258)"
+        ]
+      },
+      "ink-fill": {
+        "role": "primary",
+        "displayName": "Ink Fill",
+        "canonical": "oklch(0.33 0.08 258)",
+        "tonalRamp": [
+          "oklch(0.15 0.08 258)",
+          "oklch(0.27 0.08 258)",
+          "oklch(0.39 0.08 258)",
+          "oklch(0.51 0.08 258)",
+          "oklch(0.63 0.08 258)",
+          "oklch(0.75 0.08 258)",
+          "oklch(0.86 0.08 258)",
+          "oklch(0.95 0.08 258)"
+        ]
+      },
+      "button-ink": {
+        "role": "primary",
+        "displayName": "Button Ink",
+        "canonical": "oklch(0.3 0.07 258)",
+        "tonalRamp": [
+          "oklch(0.15 0.07 258)",
+          "oklch(0.27 0.07 258)",
+          "oklch(0.39 0.07 258)",
+          "oklch(0.51 0.07 258)",
+          "oklch(0.63 0.07 258)",
+          "oklch(0.75 0.07 258)",
+          "oklch(0.86 0.07 258)",
+          "oklch(0.95 0.07 258)"
+        ]
+      },
+      "cinnabar-stamp": {
+        "role": "secondary",
+        "displayName": "Cinnabar Stamp",
+        "canonical": "oklch(0.53 0.17 33)",
+        "tonalRamp": [
+          "oklch(0.15 0.17 33)",
+          "oklch(0.27 0.17 33)",
+          "oklch(0.39 0.17 33)",
+          "oklch(0.51 0.17 33)",
+          "oklch(0.63 0.17 33)",
+          "oklch(0.75 0.17 33)",
+          "oklch(0.86 0.17 33)",
+          "oklch(0.95 0.17 33)"
+        ]
+      },
+      "cinnabar-on-card": {
+        "role": "secondary",
+        "displayName": "Cinnabar On Card",
+        "canonical": "oklch(0.5 0.17 33)",
+        "tonalRamp": [
+          "oklch(0.15 0.17 33)",
+          "oklch(0.27 0.17 33)",
+          "oklch(0.39 0.17 33)",
+          "oklch(0.51 0.17 33)",
+          "oklch(0.63 0.17 33)",
+          "oklch(0.75 0.17 33)",
+          "oklch(0.86 0.17 33)",
+          "oklch(0.95 0.17 33)"
+        ]
+      },
+      "manila": {
+        "role": "neutral",
+        "displayName": "Manila",
+        "canonical": "oklch(0.945 0.035 88)",
+        "tonalRamp": [
+          "oklch(0.15 0.035 88)",
+          "oklch(0.27 0.035 88)",
+          "oklch(0.39 0.035 88)",
+          "oklch(0.51 0.035 88)",
+          "oklch(0.63 0.035 88)",
+          "oklch(0.75 0.035 88)",
+          "oklch(0.86 0.035 88)",
+          "oklch(0.95 0.035 88)"
+        ]
+      },
+      "manila-edge": {
+        "role": "neutral",
+        "displayName": "Manila Edge",
+        "canonical": "oklch(0.79 0.045 82)",
+        "tonalRamp": [
+          "oklch(0.15 0.045 82)",
+          "oklch(0.27 0.045 82)",
+          "oklch(0.39 0.045 82)",
+          "oklch(0.51 0.045 82)",
+          "oklch(0.63 0.045 82)",
+          "oklch(0.75 0.045 82)",
+          "oklch(0.86 0.045 82)",
+          "oklch(0.95 0.045 82)"
+        ]
+      },
+      "manila-white": {
+        "role": "neutral",
+        "displayName": "Manila White",
+        "canonical": "oklch(0.97 0.02 88)",
+        "tonalRamp": [
+          "oklch(0.15 0.02 88)",
+          "oklch(0.27 0.02 88)",
+          "oklch(0.39 0.02 88)",
+          "oklch(0.51 0.02 88)",
+          "oklch(0.63 0.02 88)",
+          "oklch(0.75 0.02 88)",
+          "oklch(0.86 0.02 88)",
+          "oklch(0.95 0.02 88)"
+        ]
+      },
+      "pale-vermilion": {
+        "role": "secondary",
+        "displayName": "Pale Vermilion",
+        "canonical": "oklch(0.87 0.07 42)",
+        "tonalRamp": [
+          "oklch(0.15 0.07 42)",
+          "oklch(0.27 0.07 42)",
+          "oklch(0.39 0.07 42)",
+          "oklch(0.51 0.07 42)",
+          "oklch(0.63 0.07 42)",
+          "oklch(0.75 0.07 42)",
+          "oklch(0.86 0.07 42)",
+          "oklch(0.95 0.07 42)"
+        ]
+      },
+      "vermilion-edge": {
+        "role": "secondary",
+        "displayName": "Vermilion Edge",
+        "canonical": "oklch(0.55 0.16 35)",
+        "tonalRamp": [
+          "oklch(0.15 0.16 35)",
+          "oklch(0.27 0.16 35)",
+          "oklch(0.39 0.16 35)",
+          "oklch(0.51 0.16 35)",
+          "oklch(0.63 0.16 35)",
+          "oklch(0.75 0.16 35)",
+          "oklch(0.86 0.16 35)",
+          "oklch(0.95 0.16 35)"
+        ]
+      },
+      "drawer-white": {
+        "role": "neutral",
+        "displayName": "Drawer White",
+        "canonical": "oklch(0.968 0.006 250)",
+        "tonalRamp": [
+          "oklch(0.15 0.006 250)",
+          "oklch(0.27 0.006 250)",
+          "oklch(0.39 0.006 250)",
+          "oklch(0.51 0.006 250)",
+          "oklch(0.63 0.006 250)",
+          "oklch(0.75 0.006 250)",
+          "oklch(0.86 0.006 250)",
+          "oklch(0.95 0.006 250)"
+        ]
+      },
+      "raised-white": {
+        "role": "neutral",
+        "displayName": "Raised White",
+        "canonical": "oklch(0.993 0.003 250)",
+        "tonalRamp": [
+          "oklch(0.15 0.003 250)",
+          "oklch(0.27 0.003 250)",
+          "oklch(0.39 0.003 250)",
+          "oklch(0.51 0.003 250)",
+          "oklch(0.63 0.003 250)",
+          "oklch(0.75 0.003 250)",
+          "oklch(0.86 0.003 250)",
+          "oklch(0.95 0.003 250)"
+        ]
+      },
+      "drawer-surface": {
+        "role": "neutral",
+        "displayName": "Drawer Surface",
+        "canonical": "oklch(0.925 0.012 250)",
+        "tonalRamp": [
+          "oklch(0.15 0.012 250)",
+          "oklch(0.27 0.012 250)",
+          "oklch(0.39 0.012 250)",
+          "oklch(0.51 0.012 250)",
+          "oklch(0.63 0.012 250)",
+          "oklch(0.75 0.012 250)",
+          "oklch(0.86 0.012 250)",
+          "oklch(0.95 0.012 250)"
+        ]
+      },
+      "slate-muted": {
+        "role": "neutral",
+        "displayName": "Slate Muted",
+        "canonical": "oklch(0.46 0.035 258)",
+        "tonalRamp": [
+          "oklch(0.15 0.035 258)",
+          "oklch(0.27 0.035 258)",
+          "oklch(0.39 0.035 258)",
+          "oklch(0.51 0.035 258)",
+          "oklch(0.63 0.035 258)",
+          "oklch(0.75 0.035 258)",
+          "oklch(0.86 0.035 258)",
+          "oklch(0.95 0.035 258)"
+        ]
+      },
+      "rule-gray": {
+        "role": "neutral",
+        "displayName": "Rule Gray",
+        "canonical": "oklch(0.86 0.014 250)",
+        "tonalRamp": [
+          "oklch(0.15 0.014 250)",
+          "oklch(0.27 0.014 250)",
+          "oklch(0.39 0.014 250)",
+          "oklch(0.51 0.014 250)",
+          "oklch(0.63 0.014 250)",
+          "oklch(0.75 0.014 250)",
+          "oklch(0.86 0.014 250)",
+          "oklch(0.95 0.014 250)"
+        ]
+      },
+      "rod-gray": {
+        "role": "neutral",
+        "displayName": "Rod Gray",
+        "canonical": "oklch(0.6 0.03 258)",
+        "tonalRamp": [
+          "oklch(0.15 0.03 258)",
+          "oklch(0.27 0.03 258)",
+          "oklch(0.39 0.03 258)",
+          "oklch(0.51 0.03 258)",
+          "oklch(0.63 0.03 258)",
+          "oklch(0.75 0.03 258)",
+          "oklch(0.86 0.03 258)",
+          "oklch(0.95 0.03 258)"
+        ]
+      },
+      "gallery-navy": {
+        "role": "neutral",
+        "displayName": "Gallery Navy",
+        "canonical": "oklch(0.2 0.035 258)",
+        "tonalRamp": [
+          "oklch(0.15 0.035 258)",
+          "oklch(0.27 0.035 258)",
+          "oklch(0.39 0.035 258)",
+          "oklch(0.51 0.035 258)",
+          "oklch(0.63 0.035 258)",
+          "oklch(0.75 0.035 258)",
+          "oklch(0.86 0.035 258)",
+          "oklch(0.95 0.035 258)"
+        ]
+      },
+      "gallery-navy-raised": {
+        "role": "neutral",
+        "displayName": "Gallery Navy Raised",
+        "canonical": "oklch(0.25 0.04 258)",
+        "tonalRamp": [
+          "oklch(0.15 0.04 258)",
+          "oklch(0.27 0.04 258)",
+          "oklch(0.39 0.04 258)",
+          "oklch(0.51 0.04 258)",
+          "oklch(0.63 0.04 258)",
+          "oklch(0.75 0.04 258)",
+          "oklch(0.86 0.04 258)",
+          "oklch(0.95 0.04 258)"
+        ]
+      },
+      "lit-manila": {
+        "role": "neutral",
+        "displayName": "Lit Manila",
+        "canonical": "oklch(0.86 0.045 85)",
+        "tonalRamp": [
+          "oklch(0.15 0.045 85)",
+          "oklch(0.27 0.045 85)",
+          "oklch(0.39 0.045 85)",
+          "oklch(0.51 0.045 85)",
+          "oklch(0.63 0.045 85)",
+          "oklch(0.75 0.045 85)",
+          "oklch(0.86 0.045 85)",
+          "oklch(0.95 0.045 85)"
+        ]
+      },
+      "cerulean-fill": {
+        "role": "primary",
+        "displayName": "Cerulean Fill",
+        "canonical": "oklch(0.74 0.09 240)",
+        "tonalRamp": [
+          "oklch(0.15 0.09 240)",
+          "oklch(0.27 0.09 240)",
+          "oklch(0.39 0.09 240)",
+          "oklch(0.51 0.09 240)",
+          "oklch(0.63 0.09 240)",
+          "oklch(0.75 0.09 240)",
+          "oklch(0.86 0.09 240)",
+          "oklch(0.95 0.09 240)"
+        ]
+      },
+      "dark-stamp": {
+        "role": "secondary",
+        "displayName": "Dark Stamp",
+        "canonical": "oklch(0.74 0.14 40)",
+        "tonalRamp": [
+          "oklch(0.15 0.14 40)",
+          "oklch(0.27 0.14 40)",
+          "oklch(0.39 0.14 40)",
+          "oklch(0.51 0.14 40)",
+          "oklch(0.63 0.14 40)",
+          "oklch(0.75 0.14 40)",
+          "oklch(0.86 0.14 40)",
+          "oklch(0.95 0.14 40)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "wordmark": {
+        "displayName": "Wordmark",
+        "purpose": "The Timestack name in the header."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Results headline, dialog titles, status headings."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Event titles on catalogue cards."
+      },
+      "date-stamp": {
+        "displayName": "Date Stamp",
+        "purpose": "Dates on revealed cards and in the correct-order ledger."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Interface text, help copy, settings."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Axis labels, stamped labels, setting names. Sentence case."
+      }
+    },
+    "shadows": [
+      {
+        "name": "paper-edge",
+        "value": "0 1px 0 oklch(0.79 0.045 82 / 0.6)",
+        "purpose": "Resting cards (dark mode: 0 2px 0 oklch(0.12 0.03 258 / 0.6))."
+      },
+      {
+        "name": "lifted-card",
+        "value": "0 10px 24px oklch(0.15 0.04 258 / 0.28)",
+        "purpose": "A card while it is being dragged."
+      },
+      {
+        "name": "dialog",
+        "value": "0 16px 48px oklch(0.15 0.04 258 / 0.3)",
+        "purpose": "Native dialog modals."
+      },
+      {
+        "name": "punched-hole",
+        "value": "inset 0 1px 2px oklch(0.15 0.04 258 / 0.25)",
+        "purpose": "The unplayed card hole."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out",
+        "value": "cubic-bezier(0.22, 1, 0.36, 1)",
+        "purpose": "All transitions and the reveal stamp."
+      },
+      {
+        "name": "state-change",
+        "value": "150ms",
+        "purpose": "Hover and press on buttons and icons."
+      },
+      {
+        "name": "result-fill",
+        "value": "250ms",
+        "purpose": "Card background, border and hole fill on reveal."
+      },
+      {
+        "name": "stamp",
+        "value": "450ms, 300ms stagger",
+        "purpose": "The date stamp landing on each card in turn."
+      },
+      {
+        "name": "dialog-in",
+        "value": "220ms",
+        "purpose": "Dialog slide-and-scale (no opacity), backdrop fade."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "column",
+        "value": "520px max content width"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Lock it in, Share result: the one primary action per screen.",
+      "html": "<button class=\"ds-btn-primary\">Lock it in</button>",
+      "css": ":host{--ink:oklch(0.25 0.05 258);--ink-fill:oklch(0.33 0.08 258);--btn:oklch(0.3 0.07 258);--manila:oklch(0.945 0.035 88);--manila-edge:oklch(0.79 0.045 82);--manila-white:oklch(0.97 0.02 88);--stamp:oklch(0.53 0.17 33);--stamp-card:oklch(0.5 0.17 33);--close:oklch(0.87 0.07 42);--close-edge:oklch(0.55 0.16 35);--bg:oklch(0.968 0.006 250);--surface:oklch(0.925 0.012 250);--muted:oklch(0.46 0.035 258);--rule:oklch(0.86 0.014 250);--rod:oklch(0.6 0.03 258);--ease:cubic-bezier(0.22,1,0.36,1);--serif:'Alegreya Variable',Georgia,serif;--sans:'Alegreya Sans',system-ui,sans-serif}.ds-btn-primary{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:50px;padding:0 22px;border:0;border-radius:6px;background:var(--btn);color:var(--manila-white);font-family:var(--sans);font-weight:700;font-size:1.0625rem;cursor:pointer;transition:background 150ms var(--ease),transform 150ms var(--ease)}.ds-btn-primary:hover{background:color-mix(in oklch,var(--btn),var(--stamp) 22%)}.ds-btn-primary:active{transform:translateY(1px)}.ds-btn-primary:focus-visible{outline:3px solid var(--stamp);outline-offset:2px}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "The quieter choice in a confirmation, e.g. Keep arranging.",
+      "html": "<button class=\"ds-btn-secondary\">Keep arranging</button>",
+      "css": ":host{--ink:oklch(0.25 0.05 258);--ink-fill:oklch(0.33 0.08 258);--btn:oklch(0.3 0.07 258);--manila:oklch(0.945 0.035 88);--manila-edge:oklch(0.79 0.045 82);--manila-white:oklch(0.97 0.02 88);--stamp:oklch(0.53 0.17 33);--stamp-card:oklch(0.5 0.17 33);--close:oklch(0.87 0.07 42);--close-edge:oklch(0.55 0.16 35);--bg:oklch(0.968 0.006 250);--surface:oklch(0.925 0.012 250);--muted:oklch(0.46 0.035 258);--rule:oklch(0.86 0.014 250);--rod:oklch(0.6 0.03 258);--ease:cubic-bezier(0.22,1,0.36,1);--serif:'Alegreya Variable',Georgia,serif;--sans:'Alegreya Sans',system-ui,sans-serif}.ds-btn-secondary{display:inline-flex;align-items:center;justify-content:center;min-height:50px;padding:0 22px;border:2px solid var(--rule);border-radius:6px;background:transparent;color:var(--ink);font-family:var(--sans);font-weight:700;font-size:1.0625rem;cursor:pointer;transition:background 150ms var(--ease)}.ds-btn-secondary:hover{background:var(--surface)}.ds-btn-secondary:focus-visible{outline:3px solid var(--stamp);outline-offset:2px}"
+    },
+    {
+      "name": "Icon Button (help)",
+      "kind": "button",
+      "refersTo": "icon-button",
+      "description": "Header actions in the catalogue stroke icon set.",
+      "html": "<button class=\"ds-icon-btn\" aria-label=\"How to play\"><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3.5\" y=\"4.5\" width=\"17\" height=\"15\" rx=\"2\"/><path d=\"M9.6 10a2.4 2.4 0 1 1 3.4 2.2c-.6.3-1 .8-1 1.5v.3\"/><path d=\"M12 16.9h.01\" stroke-width=\"2.4\"/></svg></button>",
+      "css": ":host{--ink:oklch(0.25 0.05 258);--ink-fill:oklch(0.33 0.08 258);--btn:oklch(0.3 0.07 258);--manila:oklch(0.945 0.035 88);--manila-edge:oklch(0.79 0.045 82);--manila-white:oklch(0.97 0.02 88);--stamp:oklch(0.53 0.17 33);--stamp-card:oklch(0.5 0.17 33);--close:oklch(0.87 0.07 42);--close-edge:oklch(0.55 0.16 35);--bg:oklch(0.968 0.006 250);--surface:oklch(0.925 0.012 250);--muted:oklch(0.46 0.035 258);--rule:oklch(0.86 0.014 250);--rod:oklch(0.6 0.03 258);--ease:cubic-bezier(0.22,1,0.36,1);--serif:'Alegreya Variable',Georgia,serif;--sans:'Alegreya Sans',system-ui,sans-serif}.ds-icon-btn{display:inline-grid;place-items:center;width:44px;height:44px;padding:0;border:0;border-radius:6px;background:transparent;color:var(--muted);cursor:pointer;transition:background 150ms var(--ease),color 150ms var(--ease)}.ds-icon-btn:hover{background:var(--surface);color:var(--ink)}.ds-icon-btn:focus-visible{outline:3px solid var(--stamp);outline-offset:2px}"
+    },
+    {
+      "name": "Catalogue Card",
+      "kind": "card",
+      "refersTo": "catalogue-card",
+      "description": "An Event threaded on the timeline rod, before the reveal.",
+      "html": "<div class=\"ds-card\" tabindex=\"0\"><span class=\"ds-hole\"></span><span>🍞</span><span class=\"ds-title\">Pre-sliced bread is sold for the first time</span></div>",
+      "css": ":host{--ink:oklch(0.25 0.05 258);--ink-fill:oklch(0.33 0.08 258);--btn:oklch(0.3 0.07 258);--manila:oklch(0.945 0.035 88);--manila-edge:oklch(0.79 0.045 82);--manila-white:oklch(0.97 0.02 88);--stamp:oklch(0.53 0.17 33);--stamp-card:oklch(0.5 0.17 33);--close:oklch(0.87 0.07 42);--close-edge:oklch(0.55 0.16 35);--bg:oklch(0.968 0.006 250);--surface:oklch(0.925 0.012 250);--muted:oklch(0.46 0.035 258);--rule:oklch(0.86 0.014 250);--rod:oklch(0.6 0.03 258);--ease:cubic-bezier(0.22,1,0.36,1);--serif:'Alegreya Variable',Georgia,serif;--sans:'Alegreya Sans',system-ui,sans-serif}.ds-card{position:relative;display:flex;align-items:center;gap:10px;min-height:66px;padding:8px 14px 8px 38px;border:2px solid var(--manila-edge);border-radius:6px;background:var(--manila);color:var(--ink);box-shadow:0 1px 0 oklch(0.79 0.045 82 / 0.6);font-family:var(--serif);font-size:1.125rem;font-weight:600;line-height:1.25;transition:background 250ms var(--ease),border-color 250ms var(--ease)}.ds-card:hover{border-color:var(--rod)}.ds-card:focus-visible{outline:3px solid var(--stamp);outline-offset:2px}.ds-hole{position:absolute;top:50%;left:13px;width:14px;height:14px;margin-top:-7px;border:1.5px solid var(--manila-edge);border-radius:50%;background:var(--bg);box-shadow:inset 0 1px 2px oklch(0.15 0.04 258 / 0.25)}.ds-title{flex:1}.ds-year{font-weight:800;font-size:1.15rem;font-variant-numeric:oldstyle-nums}"
+    },
+    {
+      "name": "Revealed Cards",
+      "kind": "custom",
+      "refersTo": "catalogue-card-correct",
+      "description": "The three result states: filled (correct), half (close), hollow (far).",
+      "html": "<div class=\"ds-stack\"><div class=\"ds-card ds-correct\"><span class=\"ds-hole\"></span><span class=\"ds-title\">Nintendo is founded in Kyoto</span><span class=\"ds-year\">23 Sep 1889</span></div><div class=\"ds-card ds-close\"><span class=\"ds-hole\"></span><span class=\"ds-title\">Marilyn Monroe is born</span><span class=\"ds-year\">1 Jun 1926</span></div><div class=\"ds-card ds-far\"><span class=\"ds-hole\"></span><span class=\"ds-title\">Jack the Ripper murders begin</span><span class=\"ds-year\">31 Aug 1888</span></div></div>",
+      "css": ":host{--ink:oklch(0.25 0.05 258);--ink-fill:oklch(0.33 0.08 258);--btn:oklch(0.3 0.07 258);--manila:oklch(0.945 0.035 88);--manila-edge:oklch(0.79 0.045 82);--manila-white:oklch(0.97 0.02 88);--stamp:oklch(0.53 0.17 33);--stamp-card:oklch(0.5 0.17 33);--close:oklch(0.87 0.07 42);--close-edge:oklch(0.55 0.16 35);--bg:oklch(0.968 0.006 250);--surface:oklch(0.925 0.012 250);--muted:oklch(0.46 0.035 258);--rule:oklch(0.86 0.014 250);--rod:oklch(0.6 0.03 258);--ease:cubic-bezier(0.22,1,0.36,1);--serif:'Alegreya Variable',Georgia,serif;--sans:'Alegreya Sans',system-ui,sans-serif}.ds-card{position:relative;display:flex;align-items:center;gap:10px;min-height:66px;padding:8px 14px 8px 38px;border:2px solid var(--manila-edge);border-radius:6px;background:var(--manila);color:var(--ink);box-shadow:0 1px 0 oklch(0.79 0.045 82 / 0.6);font-family:var(--serif);font-size:1.125rem;font-weight:600;line-height:1.25;transition:background 250ms var(--ease),border-color 250ms var(--ease)}.ds-card:hover{border-color:var(--rod)}.ds-card:focus-visible{outline:3px solid var(--stamp);outline-offset:2px}.ds-hole{position:absolute;top:50%;left:13px;width:14px;height:14px;margin-top:-7px;border:1.5px solid var(--manila-edge);border-radius:50%;background:var(--bg);box-shadow:inset 0 1px 2px oklch(0.15 0.04 258 / 0.25)}.ds-title{flex:1}.ds-year{font-weight:800;font-size:1.15rem;font-variant-numeric:oldstyle-nums}.ds-stack{display:flex;flex-direction:column;gap:10px}.ds-correct{background:var(--ink-fill);border-color:var(--ink-fill);color:var(--manila-white)}.ds-correct .ds-hole{background:var(--manila-white);border-color:var(--manila-white);box-shadow:none}.ds-close{background:var(--close);border-color:var(--close-edge)}.ds-close .ds-hole{border-color:var(--ink);background:linear-gradient(90deg,var(--ink) 50%,var(--close) 50%);box-shadow:none}.ds-far{background:transparent;border-style:dashed;border-color:var(--rod);box-shadow:none}.ds-far .ds-hole{border-color:currentColor;box-shadow:none}"
+    },
+    {
+      "name": "Curator's Note",
+      "kind": "card",
+      "refersTo": "stamp-label",
+      "description": "The daily Fact, filed on a manila card under an ink stamp.",
+      "html": "<aside class=\"ds-note\"><p class=\"ds-stamp\">Curator's note</p><p class=\"ds-fact\">Queen Elizabeth II and Marilyn Monroe were born less than six weeks apart, in 1926.</p></aside>",
+      "css": ":host{--ink:oklch(0.25 0.05 258);--ink-fill:oklch(0.33 0.08 258);--btn:oklch(0.3 0.07 258);--manila:oklch(0.945 0.035 88);--manila-edge:oklch(0.79 0.045 82);--manila-white:oklch(0.97 0.02 88);--stamp:oklch(0.53 0.17 33);--stamp-card:oklch(0.5 0.17 33);--close:oklch(0.87 0.07 42);--close-edge:oklch(0.55 0.16 35);--bg:oklch(0.968 0.006 250);--surface:oklch(0.925 0.012 250);--muted:oklch(0.46 0.035 258);--rule:oklch(0.86 0.014 250);--rod:oklch(0.6 0.03 258);--ease:cubic-bezier(0.22,1,0.36,1);--serif:'Alegreya Variable',Georgia,serif;--sans:'Alegreya Sans',system-ui,sans-serif}.ds-note{padding:16px 18px 18px;border:2px solid var(--manila-edge);border-radius:6px;background:var(--manila);color:var(--ink);box-shadow:0 1px 0 oklch(0.79 0.045 82 / 0.6)}.ds-stamp{display:inline-block;margin:0 0 8px;padding:0 8px;border:1.5px solid var(--stamp-card);border-radius:3px;font-family:var(--sans);font-size:0.9rem;font-weight:700;color:var(--stamp-card);transform:rotate(-2deg)}.ds-fact{margin:0;max-width:60ch;font-family:var(--serif);font-size:1.2rem;font-weight:500;line-height:1.4}"
+    },
+    {
+      "name": "Drawer Label",
+      "kind": "nav",
+      "refersTo": "",
+      "description": "Puzzle number and date between hairlines, under the header.",
+      "html": "<p class=\"ds-meta\"><span class=\"ds-no\">No. 1</span><span>Monday, October 26, 2026</span></p>",
+      "css": ":host{--ink:oklch(0.25 0.05 258);--ink-fill:oklch(0.33 0.08 258);--btn:oklch(0.3 0.07 258);--manila:oklch(0.945 0.035 88);--manila-edge:oklch(0.79 0.045 82);--manila-white:oklch(0.97 0.02 88);--stamp:oklch(0.53 0.17 33);--stamp-card:oklch(0.5 0.17 33);--close:oklch(0.87 0.07 42);--close-edge:oklch(0.55 0.16 35);--bg:oklch(0.968 0.006 250);--surface:oklch(0.925 0.012 250);--muted:oklch(0.46 0.035 258);--rule:oklch(0.86 0.014 250);--rod:oklch(0.6 0.03 258);--ease:cubic-bezier(0.22,1,0.36,1);--serif:'Alegreya Variable',Georgia,serif;--sans:'Alegreya Sans',system-ui,sans-serif}.ds-meta{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 10px;margin:0;padding:10px 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);color:var(--muted);font-family:var(--sans)}.ds-no{font-family:var(--serif);font-size:1.15rem;font-weight:700;color:var(--stamp)}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Card Catalogue",
+    "overview": "Timestack is a drawer from a museum's card catalogue. Each Event is a manila index card, punched and threaded on a rod that runs from Earliest to Latest; the player slides cards along the rod, locks the drawer, and each card is stamped with its date. Everything else on screen (the drawer label with its puzzle number, the ledger of the correct order, the curator's note) belongs to the same collection. PRODUCT.md calls the personality \"archival, curious, quietly playful\": scholarly in its materials, never stuffy in its voice.\n\nThe system is quiet and catalogued. Surfaces are orderly, cool and flat; type does the expressive work, and colour is held back for meaning. The only theatre is the reveal: the date stamp lands and the card's hole fills. Every other transition is quick and functional, in service of a two-minute daily ritual on a phone.\n\nIt explicitly rejects Wordle and its clones (the green, yellow and gray tile palette, `#121213` near-black, a bold centred wordmark between icon buttons, 🟩🟨⬜ share squares, the pill share button, the flip-tile reveal); costume archive (fake parchment, coffee stains, typewriter fonts everywhere, sepia filters); and generic editorial-magazine styling (italic display serif plus tracked mono labels plus ruled columns).",
+    "keyCharacteristics": [
+      "Manila catalogue cards on a cool, never-cream background.",
+      "A vertical rod (the timeline) that threads every card through a punched hole.",
+      "Results told by fill (filled, half, hollow) first, colour second: in the cards, the help legend and the share text (`●─◐─○`).",
+      "Alegreya serif for content and numbers, Alegreya Sans for interface.",
+      "Flat surfaces; depth comes from a paper edge, not a float."
+    ],
+    "rules": [
+      {
+        "name": "The No-Cream Rule",
+        "body": "Manila belongs to cards only. The page background is a cool, near-neutral white (light) or a deep navy wall (dark), never a warm parchment. If the background reads as paper, the cards stop reading as objects.",
+        "section": "colors"
+      },
+      {
+        "name": "The Fill-Before-Hue Rule",
+        "body": "A result state must be legible in grayscale: correct is a solid fill, close is a half-tone fill with a strong edge, far is hollow with a dashed edge. Hue only reinforces it.",
+        "section": "colors"
+      },
+      {
+        "name": "The No-Green, No-Yellow Rule",
+        "body": "Green and yellow are forbidden anywhere in the game. They are Wordle's, not ours.",
+        "section": "colors"
+      },
+      {
+        "name": "The Lining-Numbers-for-Data Rule",
+        "body": "Old-style figures are for dates in prose and on cards. Counters, stats, the countdown and the distribution bars use `lining-nums tabular-nums`, or a 0 reads as an \"o\".",
+        "section": "typography"
+      },
+      {
+        "name": "The No-Eyebrow Rule",
+        "body": "Labels are sentence case and untracked. No tiny uppercase tracked kickers.",
+        "section": "typography"
+      },
+      {
+        "name": "The Paper-Edge Rule",
+        "body": "If a shadow at rest is blurred, it is too much. Resting cards get a hard 1–2px edge; blur is reserved for things the player is actively holding.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** treat every new screen as part of the card catalogue: drawer labels, catalogue cards, ledgers, stamps. Ask whether it would live in the drawer.",
+      "**Do** encode results by fill (filled ●, half ◐, hollow ○) everywhere results appear, including the share text.",
+      "**Do** keep manila on cards and the curator's note only, on a cool drawer-white or gallery-navy background.",
+      "**Do** set content (Event titles, dates, headlines, the Fact) in Alegreya serif and interface in Alegreya Sans.",
+      "**Do** use lining tabular numerals for stats, counters and the countdown.",
+      "**Do** save motion for the reveal stamp; keep other transitions at 150–250ms with `cubic-bezier(0.22, 1, 0.36, 1)`, and make every animation instant under `prefers-reduced-motion`.",
+      "**Do** verify 4.5:1 for text in light, dark and high-contrast modes (the e2e axe suite checks all three)."
+    ],
+    "donts": [
+      "**Don't** echo Wordle and its clones: no green/yellow/gray tile palette, no `#121213` near-black, no bold centred wordmark between icon buttons, no 🟩🟨⬜ share squares, no pill share button, no flip-tile reveal.",
+      "**Don't** dress up as a costume archive: no fake parchment textures, coffee stains, typewriter fonts everywhere or sepia filters.",
+      "**Don't** drift into generic editorial-magazine styling (italic display serif plus tracked mono labels plus ruled columns).",
+      "**Don't** use a cream, sand or parchment page background. Warmth comes from the manila cards and the cinnabar stamp.",
+      "**Don't** let colour carry a result alone.",
+      "**Don't** use tiny uppercase tracked eyebrow labels, side-stripe borders, gradient text or glassmorphism.",
+      "**Don't** add blurred shadows to resting surfaces; a resting card gets a paper edge only.",
+      "**Don't** fade dialog or toast text in through low opacity; it fails contrast checks mid-animation."
+    ]
+  }
+}
