@@ -1,0 +1,3007 @@
+[
+  {
+    "id": 1,
+    "fact": "Queen Elizabeth II and Marilyn Monroe were born less than six weeks apart, in 1926.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Jack the Ripper murders begin in London",
+        "year": 1888,
+        "month": 8,
+        "day": 31,
+        "display": "31 Aug 1888",
+        "category": "crime",
+        "note": "The first canonical victim was killed in Whitechapel."
+      },
+      {
+        "id": "e2",
+        "title": "Nintendo is founded in Kyoto",
+        "year": 1889,
+        "month": 9,
+        "day": 23,
+        "display": "23 Sep 1889",
+        "category": "business",
+        "note": "It began by making hanafuda playing cards."
+      },
+      {
+        "id": "e3",
+        "title": "Future Queen Elizabeth II is born",
+        "year": 1926,
+        "month": 4,
+        "day": 21,
+        "display": "21 Apr 1926",
+        "category": "birthday",
+        "note": "Born in Mayfair, London; she went on to reign for 70 years."
+      },
+      {
+        "id": "e4",
+        "title": "Marilyn Monroe is born",
+        "year": 1926,
+        "month": 6,
+        "day": 1,
+        "display": "1 Jun 1926",
+        "category": "birthday",
+        "note": "Born Norma Jeane Mortenson in Los Angeles."
+      },
+      {
+        "id": "e5",
+        "title": "Pre-sliced bread is sold for the first time",
+        "year": 1928,
+        "month": 7,
+        "day": 7,
+        "display": "7 Jul 1928",
+        "category": "food",
+        "note": "Chillicothe Baking Co. in Missouri used Otto Rohwedder's slicer."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "fact": "Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Great Pyramid of Giza is completed",
+        "year": -2560,
+        "display": "c. 2560 BC",
+        "category": "architecture",
+        "note": "Built for Pharaoh Khufu; the tallest human-made structure for millennia."
+      },
+      {
+        "id": "e2",
+        "title": "Julius Caesar is assassinated",
+        "year": -44,
+        "month": 3,
+        "day": 15,
+        "display": "15 Mar 44 BC",
+        "category": "politics",
+        "note": "Stabbed by senators in Rome on the Ides of March."
+      },
+      {
+        "id": "e3",
+        "title": "Cleopatra dies in Alexandria",
+        "year": -30,
+        "display": "30 BC",
+        "category": "death",
+        "note": "The last active ruler of the Ptolemaic Kingdom of Egypt."
+      },
+      {
+        "id": "e4",
+        "title": "Concorde makes its first flight",
+        "year": 1969,
+        "month": 3,
+        "day": 2,
+        "display": "2 Mar 1969",
+        "category": "invention",
+        "note": "The French prototype took off from Toulouse."
+      },
+      {
+        "id": "e5",
+        "title": "Apollo 11 lands on the Moon",
+        "year": 1969,
+        "month": 7,
+        "day": 20,
+        "display": "20 Jul 1969",
+        "category": "space",
+        "note": "Armstrong and Aldrin touched down in the Sea of Tranquility."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "fact": "Teaching was under way at Oxford by 1096 — more than 200 years before the Aztecs founded Tenochtitlan.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Last Western Roman emperor is deposed",
+        "year": 476,
+        "display": "476",
+        "category": "politics",
+        "note": "Odoacer removed the teenage emperor Romulus Augustulus."
+      },
+      {
+        "id": "e2",
+        "title": "Teaching is taking place at Oxford",
+        "year": 1096,
+        "display": "by 1096",
+        "category": "culture",
+        "note": "Oxford has no founding date, but teaching existed there in some form by 1096."
+      },
+      {
+        "id": "e3",
+        "title": "Crusaders capture Jerusalem",
+        "year": 1099,
+        "display": "1099",
+        "category": "war",
+        "note": "The climax of the First Crusade."
+      },
+      {
+        "id": "e4",
+        "title": "The Mexica found Tenochtitlan",
+        "year": 1325,
+        "display": "1325",
+        "category": "politics",
+        "note": "The traditional founding date of the Aztec capital, on an island in Lake Texcoco."
+      },
+      {
+        "id": "e5",
+        "title": "Cortés and his allies capture Tenochtitlan",
+        "year": 1521,
+        "display": "1521",
+        "category": "war",
+        "note": "The city fell after a siege lasting nearly three months."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "fact": "Woolly mammoths were still alive on Wrangel Island when the Great Pyramid of Giza was built.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Great Pyramid of Giza is completed",
+        "year": -2560,
+        "display": "c. 2560 BC",
+        "category": "architecture",
+        "note": "Built for Pharaoh Khufu; the tallest human-made structure for millennia."
+      },
+      {
+        "id": "e2",
+        "title": "Last woolly mammoths die out on Wrangel Island",
+        "year": -2000,
+        "display": "c. 2000 BC",
+        "category": "nature",
+        "note": "This isolated Arctic population outlived mainland mammoths by millennia."
+      },
+      {
+        "id": "e3",
+        "title": "Tutankhamun dies",
+        "year": -1323,
+        "display": "c. 1323 BC",
+        "category": "death",
+        "note": "The boy pharaoh died aged about 19."
+      },
+      {
+        "id": "e4",
+        "title": "Howard Carter finds Tutankhamun's tomb",
+        "year": 1922,
+        "month": 11,
+        "day": 4,
+        "display": "4 Nov 1922",
+        "category": "exploration",
+        "note": "Found in the Valley of the Kings, largely intact."
+      },
+      {
+        "id": "e5",
+        "title": "The BBC makes its first radio broadcast",
+        "year": 1922,
+        "month": 11,
+        "day": 14,
+        "display": "14 Nov 1922",
+        "category": "culture",
+        "note": "The British Broadcasting Company's 2LO station went on air in London."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "fact": "Betty White was born more than six years before sliced bread went on sale.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Magna Carta is sealed",
+        "year": 1215,
+        "display": "15 Jun 1215",
+        "category": "politics",
+        "note": "King John agreed to it at Runnymede."
+      },
+      {
+        "id": "e2",
+        "title": "Insulin is first given to a diabetic patient",
+        "year": 1922,
+        "month": 1,
+        "day": 11,
+        "display": "11 Jan 1922",
+        "category": "science",
+        "note": "Fourteen-year-old Leonard Thompson was treated in Toronto."
+      },
+      {
+        "id": "e3",
+        "title": "Betty White is born",
+        "year": 1922,
+        "month": 1,
+        "day": 17,
+        "display": "17 Jan 1922",
+        "category": "birthday",
+        "note": "Born in Oak Park, Illinois; her TV career spanned over 80 years."
+      },
+      {
+        "id": "e4",
+        "title": "Pre-sliced bread is sold for the first time",
+        "year": 1928,
+        "month": 7,
+        "day": 7,
+        "display": "7 Jul 1928",
+        "category": "food",
+        "note": "Chillicothe Baking Co. in Missouri used Otto Rohwedder's slicer."
+      },
+      {
+        "id": "e5",
+        "title": "Alexander Fleming discovers penicillin",
+        "year": 1928,
+        "month": 9,
+        "display": "Sep 1928",
+        "category": "science",
+        "note": "Mould had contaminated a culture plate in his London lab."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "fact": "The fax machine was patented in 1843 — a year before Morse sent his famous telegraph message, and 18 years before the US Civil War.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Polybius describes a torch-signalling alphabet",
+        "year": -150,
+        "display": "c. 150 BC",
+        "category": "invention",
+        "note": "The Greek historian's letter grid is now called the Polybius square."
+      },
+      {
+        "id": "e2",
+        "title": "Alexander Bain patents a fax-type machine",
+        "year": 1843,
+        "month": 5,
+        "day": 27,
+        "display": "27 May 1843",
+        "category": "invention",
+        "note": "His design scanned images with a pendulum-driven stylus."
+      },
+      {
+        "id": "e3",
+        "title": "Morse sends \"What hath God wrought\"",
+        "year": 1844,
+        "month": 5,
+        "day": 24,
+        "display": "24 May 1844",
+        "category": "invention",
+        "note": "Sent by telegraph from Washington, DC, to Baltimore."
+      },
+      {
+        "id": "e4",
+        "title": "Confederates fire on Fort Sumter",
+        "year": 1861,
+        "month": 4,
+        "day": 12,
+        "display": "12 Apr 1861",
+        "category": "war",
+        "note": "The opening shots of the American Civil War."
+      },
+      {
+        "id": "e5",
+        "title": "Alexander Graham Bell patents the telephone",
+        "year": 1876,
+        "month": 3,
+        "day": 7,
+        "display": "7 Mar 1876",
+        "category": "invention",
+        "note": "US patent 174,465 was granted three days before his first call."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "fact": "Charles Darwin was born on 12 February 1809 — the very same day as Abraham Lincoln.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Aristotle dies",
+        "year": -322,
+        "display": "322 BC",
+        "category": "death",
+        "note": "Often called the father of biology."
+      },
+      {
+        "id": "e2",
+        "title": "Edgar Allan Poe is born",
+        "year": 1809,
+        "month": 1,
+        "day": 19,
+        "display": "19 Jan 1809",
+        "category": "birthday",
+        "note": "Born in Boston, Massachusetts."
+      },
+      {
+        "id": "e3",
+        "title": "Charles Darwin is born",
+        "year": 1809,
+        "month": 2,
+        "day": 12,
+        "display": "12 Feb 1809",
+        "category": "birthday",
+        "note": "Born in Shrewsbury, England."
+      },
+      {
+        "id": "e4",
+        "title": "On the Origin of Species is published",
+        "year": 1859,
+        "month": 11,
+        "day": 24,
+        "display": "24 Nov 1859",
+        "category": "science",
+        "note": "Darwin's book set out evolution by natural selection."
+      },
+      {
+        "id": "e5",
+        "title": "Abraham Lincoln is assassinated",
+        "year": 1865,
+        "month": 4,
+        "day": 14,
+        "display": "14 Apr 1865",
+        "category": "crime",
+        "note": "Shot at Ford's Theatre; he died the next morning."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "fact": "Anne Frank and Martin Luther King Jr. were born in the same year: 1929.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Edict of Milan grants tolerance to Christians",
+        "year": 313,
+        "display": "313",
+        "category": "religion",
+        "note": "Agreed by the emperors Constantine and Licinius."
+      },
+      {
+        "id": "e2",
+        "title": "Martin Luther posts his Ninety-five Theses",
+        "year": 1517,
+        "display": "31 Oct 1517",
+        "category": "religion",
+        "note": "The spark of the Protestant Reformation."
+      },
+      {
+        "id": "e3",
+        "title": "Martin Luther King Jr. is born",
+        "year": 1929,
+        "month": 1,
+        "day": 15,
+        "display": "15 Jan 1929",
+        "category": "birthday",
+        "note": "Born Michael King in Atlanta; his name was changed when he was a boy."
+      },
+      {
+        "id": "e4",
+        "title": "Anne Frank is born",
+        "year": 1929,
+        "month": 6,
+        "day": 12,
+        "display": "12 Jun 1929",
+        "category": "birthday",
+        "note": "Born in Frankfurt; her family later fled to Amsterdam."
+      },
+      {
+        "id": "e5",
+        "title": "Black Tuesday stock crash hits Wall Street",
+        "year": 1929,
+        "month": 10,
+        "day": 29,
+        "display": "29 Oct 1929",
+        "category": "business",
+        "note": "The crash heralded the Great Depression."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "fact": "The lighter came before the match: Döbereiner's lamp (1823) predates the first friction matches sold (1827).",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Chinese military manual records a gunpowder formula",
+        "year": 1044,
+        "display": "1044",
+        "category": "science",
+        "note": "The Wujing Zongyao holds the earliest known written formula."
+      },
+      {
+        "id": "e2",
+        "title": "Döbereiner invents his hydrogen lighter",
+        "year": 1823,
+        "display": "1823",
+        "category": "invention",
+        "note": "A platinum sponge ignited a jet of hydrogen gas."
+      },
+      {
+        "id": "e3",
+        "title": "John Walker sells the first friction matches",
+        "year": 1827,
+        "display": "7 Apr 1827",
+        "category": "invention",
+        "note": "The chemist sold them from his shop in Stockton-on-Tees, England."
+      },
+      {
+        "id": "e4",
+        "title": "Gustaf Pasch patents the safety match",
+        "year": 1844,
+        "display": "1844",
+        "category": "invention",
+        "note": "The Swedish chemist moved the red phosphorus onto the striking surface."
+      },
+      {
+        "id": "e5",
+        "title": "The first Zippo lighter is made",
+        "year": 1933,
+        "display": "1933",
+        "category": "invention",
+        "note": "Made by George G. Blaisdell in Bradford, Pennsylvania."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "fact": "France's last guillotine execution took place in September 1977 — months after Star Wars opened in cinemas.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Joan of Arc is burned at the stake",
+        "year": 1431,
+        "display": "30 May 1431",
+        "category": "death",
+        "note": "Executed in Rouen aged about 19."
+      },
+      {
+        "id": "e2",
+        "title": "Star Wars opens in US cinemas",
+        "year": 1977,
+        "month": 5,
+        "day": 25,
+        "display": "25 May 1977",
+        "category": "film",
+        "note": "It became the highest-grossing film released up to that time."
+      },
+      {
+        "id": "e3",
+        "title": "Elvis Presley dies",
+        "year": 1977,
+        "month": 8,
+        "day": 16,
+        "display": "16 Aug 1977",
+        "category": "death",
+        "note": "He died at Graceland, his Memphis home, aged 42."
+      },
+      {
+        "id": "e4",
+        "title": "Voyager 1 is launched",
+        "year": 1977,
+        "month": 9,
+        "day": 5,
+        "display": "5 Sep 1977",
+        "category": "space",
+        "note": "It is now the most distant human-made object."
+      },
+      {
+        "id": "e5",
+        "title": "France's last guillotine execution",
+        "year": 1977,
+        "month": 9,
+        "day": 10,
+        "display": "10 Sep 1977",
+        "category": "crime",
+        "note": "Hamida Djandoubi was executed in Marseille."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "fact": "Harvard is older than calculus: it was founded in 1636, nearly 50 years before Leibniz and Newton published.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Archimedes is killed at Syracuse",
+        "year": -212,
+        "display": "212 BC",
+        "category": "death",
+        "note": "Killed by a Roman soldier during the city's capture."
+      },
+      {
+        "id": "e2",
+        "title": "Harvard College is founded",
+        "year": 1636,
+        "display": "1636",
+        "category": "culture",
+        "note": "The oldest institution of higher learning in the United States."
+      },
+      {
+        "id": "e3",
+        "title": "Galileo dies",
+        "year": 1642,
+        "display": "8 Jan 1642",
+        "category": "death",
+        "note": "He died under house arrest near Florence."
+      },
+      {
+        "id": "e4",
+        "title": "Leibniz publishes his calculus",
+        "year": 1684,
+        "display": "Oct 1684",
+        "category": "science",
+        "note": "His paper 'Nova Methodus' appeared in Acta Eruditorum."
+      },
+      {
+        "id": "e5",
+        "title": "Newton publishes the Principia",
+        "year": 1687,
+        "display": "5 Jul 1687",
+        "category": "science",
+        "note": "It set out the laws of motion and universal gravitation."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "fact": "The Ottoman Empire still existed when the first Oreo cookies were sold in 1912.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Constantine dedicates Constantinople",
+        "year": 330,
+        "display": "11 May 330",
+        "category": "politics",
+        "note": "The emperor refounded Byzantium as his new capital."
+      },
+      {
+        "id": "e2",
+        "title": "Ottoman forces capture Constantinople",
+        "year": 1453,
+        "display": "29 May 1453",
+        "category": "war",
+        "note": "Sultan Mehmed II ended the Byzantine Empire."
+      },
+      {
+        "id": "e3",
+        "title": "The first Oreo cookies are sold",
+        "year": 1912,
+        "month": 3,
+        "day": 6,
+        "display": "6 Mar 1912",
+        "category": "food",
+        "note": "Nabisco sold the first batch to a grocer in Hoboken, New Jersey."
+      },
+      {
+        "id": "e4",
+        "title": "Titanic sinks in the North Atlantic",
+        "year": 1912,
+        "month": 4,
+        "day": 15,
+        "display": "15 Apr 1912",
+        "category": "disaster",
+        "note": "More than 1,500 people died after the liner struck an iceberg."
+      },
+      {
+        "id": "e5",
+        "title": "The Ottoman sultanate is abolished",
+        "year": 1922,
+        "month": 11,
+        "day": 1,
+        "display": "1 Nov 1922",
+        "category": "politics",
+        "note": "The Grand National Assembly in Ankara ended over six centuries of sultans."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "fact": "Charlie Chaplin and Adolf Hitler were born just four days apart — Chaplin later mocked him in The Great Dictator.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Construction of the Tower of Pisa begins",
+        "year": 1173,
+        "display": "1173",
+        "category": "architecture",
+        "note": "It began to lean while it was still being built."
+      },
+      {
+        "id": "e2",
+        "title": "The Eiffel Tower is inaugurated",
+        "year": 1889,
+        "month": 3,
+        "day": 31,
+        "display": "31 Mar 1889",
+        "category": "architecture",
+        "note": "Built as the entrance arch to the Exposition Universelle in Paris."
+      },
+      {
+        "id": "e3",
+        "title": "Charlie Chaplin is born",
+        "year": 1889,
+        "month": 4,
+        "day": 16,
+        "display": "16 Apr 1889",
+        "category": "birthday",
+        "note": "Born in London."
+      },
+      {
+        "id": "e4",
+        "title": "Adolf Hitler is born",
+        "year": 1889,
+        "month": 4,
+        "day": 20,
+        "display": "20 Apr 1889",
+        "category": "birthday",
+        "note": "Born in Braunau am Inn, Austria-Hungary."
+      },
+      {
+        "id": "e5",
+        "title": "The Great Dictator premieres",
+        "year": 1940,
+        "month": 10,
+        "day": 15,
+        "display": "15 Oct 1940",
+        "category": "film",
+        "note": "Chaplin's satire of Hitler was his first true talking picture."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "fact": "Fenway Park opened just five days after the Titanic sank.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Pytheas reports a far-northern land called Thule",
+        "year": -325,
+        "display": "c. 325 BC",
+        "category": "exploration",
+        "note": "The Greek explorer sailed around Britain."
+      },
+      {
+        "id": "e2",
+        "title": "Amundsen reaches the South Pole",
+        "year": 1911,
+        "month": 12,
+        "day": 14,
+        "display": "14 Dec 1911",
+        "category": "exploration",
+        "note": "His Norwegian team got there first."
+      },
+      {
+        "id": "e3",
+        "title": "Scott's team reaches the South Pole",
+        "year": 1912,
+        "month": 1,
+        "day": 17,
+        "display": "17 Jan 1912",
+        "category": "exploration",
+        "note": "They found Amundsen's tent; all five died on the way back."
+      },
+      {
+        "id": "e4",
+        "title": "Titanic sinks in the North Atlantic",
+        "year": 1912,
+        "month": 4,
+        "day": 15,
+        "display": "15 Apr 1912",
+        "category": "disaster",
+        "note": "More than 1,500 people died after the liner struck an iceberg."
+      },
+      {
+        "id": "e5",
+        "title": "Fenway Park hosts its first official game",
+        "year": 1912,
+        "month": 4,
+        "day": 20,
+        "display": "20 Apr 1912",
+        "category": "sport",
+        "note": "The Red Sox beat the New York Highlanders."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "fact": "Ford built its last Model T just five days after Lindbergh landed in Paris.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "The oldest surviving wooden wheel is made",
+        "year": -3150,
+        "display": "c. 3150 BC",
+        "category": "invention",
+        "note": "Found in Slovenia's Ljubljana Marshes in 2002."
+      },
+      {
+        "id": "e2",
+        "title": "Karl Benz patents his motor car",
+        "year": 1886,
+        "display": "29 Jan 1886",
+        "category": "invention",
+        "note": "His patent is often called the birth certificate of the car."
+      },
+      {
+        "id": "e3",
+        "title": "Ford's Model T goes on sale",
+        "year": 1908,
+        "display": "1 Oct 1908",
+        "category": "invention",
+        "note": "Cheap enough to put ordinary Americans on wheels."
+      },
+      {
+        "id": "e4",
+        "title": "Lindbergh lands in Paris after a solo flight",
+        "year": 1927,
+        "month": 5,
+        "day": 21,
+        "display": "21 May 1927",
+        "category": "exploration",
+        "note": "The first solo nonstop flight across the Atlantic took 33.5 hours."
+      },
+      {
+        "id": "e5",
+        "title": "Ford ends Model T production",
+        "year": 1927,
+        "month": 5,
+        "day": 26,
+        "display": "26 May 1927",
+        "category": "business",
+        "note": "The 15 millionth Model T rolled off the line."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "fact": "Twinkies were invented just seven weeks after Pluto was discovered.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "The oldest known bread is baked",
+        "year": -12400,
+        "display": "c. 12,400 BC",
+        "category": "food",
+        "note": "Charred flatbread was found at Shubayqa 1, a hunter-gatherer site in Jordan."
+      },
+      {
+        "id": "e2",
+        "title": "Pluto is discovered",
+        "year": 1930,
+        "month": 2,
+        "day": 18,
+        "display": "18 Feb 1930",
+        "category": "space",
+        "note": "Spotted by Clyde Tombaugh at Lowell Observatory, Arizona."
+      },
+      {
+        "id": "e3",
+        "title": "Gandhi begins the Salt March",
+        "year": 1930,
+        "month": 3,
+        "day": 12,
+        "display": "12 Mar 1930",
+        "category": "politics",
+        "note": "A 24-day walk to protest Britain's salt tax."
+      },
+      {
+        "id": "e4",
+        "title": "Twinkies are invented",
+        "year": 1930,
+        "month": 4,
+        "day": 6,
+        "display": "6 Apr 1930",
+        "category": "food",
+        "note": "They were originally filled with banana cream."
+      },
+      {
+        "id": "e5",
+        "title": "The first FIFA World Cup kicks off",
+        "year": 1930,
+        "month": 7,
+        "day": 13,
+        "display": "13 Jul 1930",
+        "category": "sport",
+        "note": "Hosted and won by Uruguay."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "fact": "Tetris is a Soviet invention, created in Moscow years before the USSR dissolved.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Moscow is first mentioned in the chronicles",
+        "year": 1147,
+        "display": "1147",
+        "category": "politics",
+        "note": "Prince Yuri Dolgorukiy invited an ally to a feast there."
+      },
+      {
+        "id": "e2",
+        "title": "Alexey Pajitnov creates Tetris",
+        "year": 1984,
+        "display": "1984",
+        "category": "invention",
+        "note": "Programmed at an Academy of Sciences computing centre in Moscow."
+      },
+      {
+        "id": "e3",
+        "title": "Chernobyl reactor explodes",
+        "year": 1986,
+        "display": "26 Apr 1986",
+        "category": "disaster",
+        "note": "Reactor No. 4 exploded in Soviet Ukraine."
+      },
+      {
+        "id": "e4",
+        "title": "The Berlin Wall falls",
+        "year": 1989,
+        "display": "9 Nov 1989",
+        "category": "politics",
+        "note": "Border crossings opened after a botched announcement."
+      },
+      {
+        "id": "e5",
+        "title": "The Soviet Union is dissolved",
+        "year": 1991,
+        "display": "26 Dec 1991",
+        "category": "politics",
+        "note": "Gorbachev had resigned the day before."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "fact": "Work at Stonehenge began centuries before the Great Pyramid — and in 1915 the monument was sold at auction for £6,600.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "The first circular ditch is dug at Stonehenge",
+        "year": -3000,
+        "display": "c. 3000 BC",
+        "category": "architecture",
+        "note": "The giant sarsen stones came centuries later."
+      },
+      {
+        "id": "e2",
+        "title": "Great Pyramid of Giza is completed",
+        "year": -2560,
+        "display": "c. 2560 BC",
+        "category": "architecture",
+        "note": "Built for Pharaoh Khufu; the tallest human-made structure for millennia."
+      },
+      {
+        "id": "e3",
+        "title": "Romans invade Britain under Claudius",
+        "year": 43,
+        "display": "AD 43",
+        "category": "war",
+        "note": "Began nearly four centuries of Roman rule in Britain."
+      },
+      {
+        "id": "e4",
+        "title": "Stonehenge is sold at auction",
+        "year": 1915,
+        "display": "21 Sep 1915",
+        "category": "business",
+        "note": "Local barrister Cecil Chubb bought it for £6,600."
+      },
+      {
+        "id": "e5",
+        "title": "Stonehenge is given to the nation",
+        "year": 1918,
+        "display": "26 Oct 1918",
+        "category": "culture",
+        "note": "Chubb donated the monument to the British state."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "fact": "Ringo Starr is older than Mount Rushmore: carving ended in October 1941, over a year after he was born.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "The Colossus of Rhodes is completed",
+        "year": -280,
+        "display": "c. 280 BC",
+        "category": "architecture",
+        "note": "An earthquake toppled it about half a century later."
+      },
+      {
+        "id": "e2",
+        "title": "Ringo Starr is born",
+        "year": 1940,
+        "month": 7,
+        "day": 7,
+        "display": "7 Jul 1940",
+        "category": "birthday",
+        "note": "Born Richard Starkey in Liverpool."
+      },
+      {
+        "id": "e3",
+        "title": "John Lennon is born",
+        "year": 1940,
+        "month": 10,
+        "day": 9,
+        "display": "9 Oct 1940",
+        "category": "birthday",
+        "note": "Born in Liverpool."
+      },
+      {
+        "id": "e4",
+        "title": "Work on Mount Rushmore ends",
+        "year": 1941,
+        "month": 10,
+        "day": 31,
+        "display": "31 Oct 1941",
+        "category": "architecture",
+        "note": "Funding ran out before the figures could be carved to the waist."
+      },
+      {
+        "id": "e5",
+        "title": "Japan attacks Pearl Harbor",
+        "year": 1941,
+        "month": 12,
+        "day": 7,
+        "display": "7 Dec 1941",
+        "category": "war",
+        "note": "The United States declared war on Japan the next day."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "fact": "Shakespeare and Galileo were born in the same year — before the Gregorian calendar even existed.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "The Julian calendar takes effect",
+        "year": -45,
+        "display": "45 BC",
+        "category": "science",
+        "note": "Introduced by Julius Caesar, with a leap day every four years."
+      },
+      {
+        "id": "e2",
+        "title": "Galileo Galilei is born",
+        "year": 1564,
+        "month": 2,
+        "day": 15,
+        "display": "15 Feb 1564",
+        "category": "birthday",
+        "note": "Born in Pisa."
+      },
+      {
+        "id": "e3",
+        "title": "William Shakespeare is baptised",
+        "year": 1564,
+        "month": 4,
+        "day": 26,
+        "display": "26 Apr 1564",
+        "category": "birthday",
+        "note": "Baptised in Stratford-upon-Avon; his exact birth date is unknown."
+      },
+      {
+        "id": "e4",
+        "title": "The Gregorian calendar is introduced",
+        "year": 1582,
+        "display": "15 Oct 1582",
+        "category": "science",
+        "note": "Ten days were skipped in the first Catholic countries to adopt it."
+      },
+      {
+        "id": "e5",
+        "title": "Britain switches to the Gregorian calendar",
+        "year": 1752,
+        "display": "14 Sep 1752",
+        "category": "politics",
+        "note": "Wednesday 2 September was followed by Thursday 14 September."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "fact": "In July 1054 Chinese astronomers recorded a dazzling 'guest star' — 12 days later, the Christian church split in two.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "The Council of Nicaea meets",
+        "year": 325,
+        "display": "325",
+        "category": "religion",
+        "note": "Emperor Constantine summoned bishops to settle doctrine."
+      },
+      {
+        "id": "e2",
+        "title": "Chinese astronomers record a 'guest star'",
+        "year": 1054,
+        "month": 7,
+        "day": 4,
+        "display": "4 Jul 1054",
+        "category": "space",
+        "note": "The supernova left behind the Crab Nebula."
+      },
+      {
+        "id": "e3",
+        "title": "The East–West Schism splits the Church",
+        "year": 1054,
+        "month": 7,
+        "day": 16,
+        "display": "16 Jul 1054",
+        "category": "religion",
+        "note": "A papal legate laid a bull of excommunication on the altar of Hagia Sophia."
+      },
+      {
+        "id": "e4",
+        "title": "Persia adopts Omar Khayyam's solar calendar",
+        "year": 1079,
+        "display": "1079",
+        "category": "science",
+        "note": "The Jalali calendar was drawn up by astronomers at Isfahan."
+      },
+      {
+        "id": "e5",
+        "title": "England's Act of Supremacy",
+        "year": 1534,
+        "display": "1534",
+        "category": "religion",
+        "note": "Henry VIII became head of the Church of England."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "fact": "Korea printed a book with metal movable type in 1377, nearly 80 years before Gutenberg's Bible.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "The Diamond Sutra is printed",
+        "year": 868,
+        "display": "868",
+        "category": "invention",
+        "note": "The oldest dated printed book, found in a cave at Dunhuang, China."
+      },
+      {
+        "id": "e2",
+        "title": "The Jikji is printed with metal movable type",
+        "year": 1377,
+        "display": "1377",
+        "category": "invention",
+        "note": "A Korean Buddhist text, now held in the National Library of France."
+      },
+      {
+        "id": "e3",
+        "title": "Zheng He's treasure fleet sets sail",
+        "year": 1405,
+        "display": "1405",
+        "category": "exploration",
+        "note": "The first of seven Ming voyages reaching as far as East Africa."
+      },
+      {
+        "id": "e4",
+        "title": "King Sejong promulgates the Hangul alphabet",
+        "year": 1446,
+        "display": "1446",
+        "category": "culture",
+        "note": "Korea celebrates Hangul Day every 9 October."
+      },
+      {
+        "id": "e5",
+        "title": "Battle of Castillon ends the Hundred Years' War",
+        "year": 1453,
+        "display": "17 Jul 1453",
+        "category": "war",
+        "note": "French cannon routed the English army in Gascony."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "fact": "Mark Twain was born in 1835 as Halley's Comet passed, and died in 1910 the day after it next swung closest to the Sun.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Chinese astronomers log Halley's Comet",
+        "year": -240,
+        "display": "240 BC",
+        "category": "space",
+        "note": "The earliest definite record of the comet."
+      },
+      {
+        "id": "e2",
+        "title": "Edmond Halley predicts the comet's return",
+        "year": 1705,
+        "display": "1705",
+        "category": "science",
+        "note": "He forecast a return in 1758 — and was proved right after his death."
+      },
+      {
+        "id": "e3",
+        "title": "Mark Twain is born",
+        "year": 1835,
+        "month": 11,
+        "day": 30,
+        "display": "30 Nov 1835",
+        "category": "birthday",
+        "note": "Born in Florida, Missouri, two weeks after the comet's perihelion."
+      },
+      {
+        "id": "e4",
+        "title": "Halley's Comet passes closest to the Sun",
+        "year": 1910,
+        "month": 4,
+        "day": 20,
+        "display": "20 Apr 1910",
+        "category": "space",
+        "note": "Its first perihelion since the year of Twain's birth."
+      },
+      {
+        "id": "e5",
+        "title": "Mark Twain dies",
+        "year": 1910,
+        "month": 4,
+        "day": 21,
+        "display": "21 Apr 1910",
+        "category": "death",
+        "note": "He had said he expected to 'go out with' the comet."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "fact": "Cologne Cathedral took 632 years to finish — it was completed the year after Edison's light bulb test.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Foundation stone of Cologne Cathedral is laid",
+        "year": 1248,
+        "display": "1248",
+        "category": "architecture",
+        "note": "Work stalled for centuries partway through."
+      },
+      {
+        "id": "e2",
+        "title": "The Black Death reaches Europe",
+        "year": 1347,
+        "display": "1347",
+        "category": "disaster",
+        "note": "The plague arrived in Sicily aboard Genoese ships."
+      },
+      {
+        "id": "e3",
+        "title": "Edison tests a long-lasting light bulb",
+        "year": 1879,
+        "display": "Oct 1879",
+        "category": "invention",
+        "note": "A carbonised cotton-thread filament glowed for over 13 hours."
+      },
+      {
+        "id": "e4",
+        "title": "Cologne Cathedral is completed",
+        "year": 1880,
+        "display": "1880",
+        "category": "architecture",
+        "note": "It was briefly the world's tallest building."
+      },
+      {
+        "id": "e5",
+        "title": "Construction of Barcelona's Sagrada Família begins",
+        "year": 1882,
+        "display": "19 Mar 1882",
+        "category": "architecture",
+        "note": "Gaudí took over a year later; it is still being built."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "fact": "Vikings were felling trees in Newfoundland in 1021 — 471 years before Columbus reached the Americas.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Ptolemy compiles his Geography",
+        "year": 150,
+        "display": "c. AD 150",
+        "category": "exploration",
+        "note": "His influential world map had no Americas."
+      },
+      {
+        "id": "e2",
+        "title": "Vikings fell trees at L'Anse aux Meadows",
+        "year": 1021,
+        "display": "1021",
+        "category": "exploration",
+        "note": "Tree rings in timber cut with metal blades pinpoint the year."
+      },
+      {
+        "id": "e3",
+        "title": "Columbus makes landfall in the Bahamas",
+        "year": 1492,
+        "display": "12 Oct 1492",
+        "category": "exploration",
+        "note": "He believed he had reached Asia."
+      },
+      {
+        "id": "e4",
+        "title": "Vasco da Gama reaches India",
+        "year": 1498,
+        "display": "20 May 1498",
+        "category": "exploration",
+        "note": "The first sea voyage from Europe to India."
+      },
+      {
+        "id": "e5",
+        "title": "Pedro Álvares Cabral lands in Brazil",
+        "year": 1500,
+        "display": "22 Apr 1500",
+        "category": "exploration",
+        "note": "He claimed the land for Portugal."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "fact": "Japan's Kongō Gumi, founded in 578, built temples for over 1,400 years before being absorbed in 2006 — it's older than Kyoto.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Kongō Gumi construction company is founded",
+        "year": 578,
+        "display": "578",
+        "category": "business",
+        "note": "Founded to build the Shitennō-ji temple in Osaka."
+      },
+      {
+        "id": "e2",
+        "title": "Heian-kyō (Kyoto) becomes Japan's capital",
+        "year": 794,
+        "display": "794",
+        "category": "politics",
+        "note": "It remained the imperial capital for over 1,000 years."
+      },
+      {
+        "id": "e3",
+        "title": "Tokugawa Ieyasu becomes shogun",
+        "year": 1603,
+        "display": "1603",
+        "category": "politics",
+        "note": "His family ruled Japan from Edo for over 250 years."
+      },
+      {
+        "id": "e4",
+        "title": "Commodore Perry's ships arrive in Edo Bay",
+        "year": 1853,
+        "display": "8 Jul 1853",
+        "category": "politics",
+        "note": "The American 'black ships' pressed Japan to open to trade."
+      },
+      {
+        "id": "e5",
+        "title": "Japan signs the Convention of Kanagawa",
+        "year": 1854,
+        "display": "31 Mar 1854",
+        "category": "politics",
+        "note": "It opened two Japanese ports to American ships."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "fact": "China's last emperor, Puyi, lived long enough to hear the Beatles release Sgt. Pepper.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Qin Shi Huang unifies China",
+        "year": -221,
+        "display": "221 BC",
+        "category": "politics",
+        "note": "He declared himself the First Emperor."
+      },
+      {
+        "id": "e2",
+        "title": "The Forbidden City is completed",
+        "year": 1420,
+        "display": "1420",
+        "category": "architecture",
+        "note": "Home to 24 emperors over nearly 500 years."
+      },
+      {
+        "id": "e3",
+        "title": "Puyi abdicates as emperor of China",
+        "year": 1912,
+        "display": "12 Feb 1912",
+        "category": "politics",
+        "note": "He was six years old."
+      },
+      {
+        "id": "e4",
+        "title": "The Beatles release Sgt. Pepper's",
+        "year": 1967,
+        "month": 5,
+        "day": 26,
+        "display": "26 May 1967",
+        "category": "music",
+        "note": "Released in the UK ahead of its planned June date."
+      },
+      {
+        "id": "e5",
+        "title": "Puyi dies in Beijing",
+        "year": 1967,
+        "month": 10,
+        "day": 17,
+        "display": "17 Oct 1967",
+        "category": "death",
+        "note": "He spent his last years as an ordinary citizen of the PRC."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "fact": "No one could read hieroglyphs for over 1,400 years — from the last known inscription in 394 to Champollion in 1822.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "The Rosetta Stone decree is issued",
+        "year": -196,
+        "display": "196 BC",
+        "category": "culture",
+        "note": "The same text in hieroglyphs, Demotic and Greek."
+      },
+      {
+        "id": "e2",
+        "title": "The last known hieroglyphic inscription is carved",
+        "year": 394,
+        "display": "24 Aug 394",
+        "category": "culture",
+        "note": "Carved at the temple of Philae, in southern Egypt."
+      },
+      {
+        "id": "e3",
+        "title": "French soldiers find the Rosetta Stone",
+        "year": 1799,
+        "display": "1799",
+        "category": "exploration",
+        "note": "Found near Rashid during Napoleon's campaign in Egypt."
+      },
+      {
+        "id": "e4",
+        "title": "Napoleon dies on Saint Helena",
+        "year": 1821,
+        "display": "5 May 1821",
+        "category": "death",
+        "note": "He died in exile in the South Atlantic."
+      },
+      {
+        "id": "e5",
+        "title": "Champollion deciphers hieroglyphs",
+        "year": 1822,
+        "display": "27 Sep 1822",
+        "category": "science",
+        "note": "Announced in his 'Lettre à M. Dacier'."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "fact": "Saudi Arabia is younger than Mickey Mouse.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Muhammad's migration to Medina (the Hijra)",
+        "year": 622,
+        "display": "622",
+        "category": "religion",
+        "note": "It marks year one of the Islamic calendar."
+      },
+      {
+        "id": "e2",
+        "title": "Ibn Saud captures Riyadh",
+        "year": 1902,
+        "display": "15 Jan 1902",
+        "category": "war",
+        "note": "The start of his long campaign to unite Arabia."
+      },
+      {
+        "id": "e3",
+        "title": "Mickey Mouse debuts in Steamboat Willie",
+        "year": 1928,
+        "display": "18 Nov 1928",
+        "category": "film",
+        "note": "One of the first cartoons with synchronised sound."
+      },
+      {
+        "id": "e4",
+        "title": "The Kingdom of Saudi Arabia is proclaimed",
+        "year": 1932,
+        "display": "23 Sep 1932",
+        "category": "politics",
+        "note": "Ibn Saud united his realms under one name."
+      },
+      {
+        "id": "e5",
+        "title": "Oil is struck at Dammam No. 7",
+        "year": 1938,
+        "display": "Mar 1938",
+        "category": "business",
+        "note": "The well that launched the Saudi oil industry."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "fact": "Napoleon was born on Corsica just 15 months after the island was handed to France.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Caesar crosses the Rubicon",
+        "year": -49,
+        "display": "49 BC",
+        "category": "war",
+        "note": "It sparked the civil war that ended the Roman Republic."
+      },
+      {
+        "id": "e2",
+        "title": "Genoa cedes Corsica to France",
+        "year": 1768,
+        "display": "15 May 1768",
+        "category": "politics",
+        "note": "Transferred by the Treaty of Versailles."
+      },
+      {
+        "id": "e3",
+        "title": "Napoleon Bonaparte is born in Ajaccio",
+        "year": 1769,
+        "display": "15 Aug 1769",
+        "category": "birthday",
+        "note": "Born to a minor noble Corsican family."
+      },
+      {
+        "id": "e4",
+        "title": "Napoleon crowns himself emperor",
+        "year": 1804,
+        "display": "2 Dec 1804",
+        "category": "politics",
+        "note": "The ceremony took place at Notre-Dame de Paris."
+      },
+      {
+        "id": "e5",
+        "title": "The Battle of Waterloo",
+        "year": 1815,
+        "display": "18 Jun 1815",
+        "category": "war",
+        "note": "Napoleon's final defeat."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "fact": "Only 66 years separate the Wright brothers' first flight from the first Moon landing.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Wright brothers make the first powered flight",
+        "year": 1903,
+        "month": 12,
+        "day": 17,
+        "display": "17 Dec 1903",
+        "category": "invention",
+        "note": "The first flight at Kitty Hawk lasted 12 seconds."
+      },
+      {
+        "id": "e2",
+        "title": "Sputnik 1 is launched",
+        "year": 1957,
+        "month": 10,
+        "day": 4,
+        "display": "4 Oct 1957",
+        "category": "space",
+        "note": "The first artificial satellite."
+      },
+      {
+        "id": "e3",
+        "title": "Laika orbits Earth aboard Sputnik 2",
+        "year": 1957,
+        "month": 11,
+        "day": 3,
+        "display": "3 Nov 1957",
+        "category": "space",
+        "note": "The first animal to orbit Earth."
+      },
+      {
+        "id": "e4",
+        "title": "Yuri Gagarin becomes the first human in space",
+        "year": 1961,
+        "display": "12 Apr 1961",
+        "category": "space",
+        "note": "He made one orbit aboard Vostok 1."
+      },
+      {
+        "id": "e5",
+        "title": "Neil Armstrong steps onto the Moon",
+        "year": 1969,
+        "display": "20 Jul 1969",
+        "category": "space",
+        "note": "'One small step for man, one giant leap for mankind.'"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "fact": "Tyrannosaurus rex lived closer in time to us than to Stegosaurus.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Stegosaurus roams North America",
+        "year": -150000000,
+        "display": "c. 150 million years ago",
+        "category": "nature",
+        "note": "The plated plant-eater lived tens of millions of years before T. rex."
+      },
+      {
+        "id": "e2",
+        "title": "Tyrannosaurus rex roams North America",
+        "year": -67000000,
+        "display": "c. 67 million years ago",
+        "category": "nature",
+        "note": "Among the last non-bird dinosaurs before the asteroid impact."
+      },
+      {
+        "id": "e3",
+        "title": "Tyrannosaurus rex is formally named",
+        "year": 1905,
+        "display": "1905",
+        "category": "science",
+        "note": "Named by Henry Fairfield Osborn."
+      },
+      {
+        "id": "e4",
+        "title": "'Sue' the T. rex skeleton is discovered",
+        "year": 1990,
+        "display": "12 Aug 1990",
+        "category": "science",
+        "note": "Found in South Dakota by Sue Hendrickson."
+      },
+      {
+        "id": "e5",
+        "title": "Spielberg's dinosaur blockbuster hits cinemas",
+        "year": 1993,
+        "display": "11 Jun 1993",
+        "category": "film",
+        "note": "Jurassic Park's computer-generated dinosaurs changed visual effects."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "fact": "The US was still paying a Civil War pension until 2020 — Irene Triplett, a veteran's daughter, died that May.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "The Hundred Years' War begins",
+        "year": 1337,
+        "display": "1337",
+        "category": "war",
+        "note": "England and France fought on and off for 116 years."
+      },
+      {
+        "id": "e2",
+        "title": "Confederates fire on Fort Sumter",
+        "year": 1861,
+        "month": 4,
+        "day": 12,
+        "display": "12 Apr 1861",
+        "category": "war",
+        "note": "The opening shots of the American Civil War."
+      },
+      {
+        "id": "e3",
+        "title": "Lee surrenders at Appomattox",
+        "year": 1865,
+        "display": "9 Apr 1865",
+        "category": "war",
+        "note": "It effectively ended the American Civil War."
+      },
+      {
+        "id": "e4",
+        "title": "The last Union Army veteran dies",
+        "year": 1956,
+        "display": "2 Aug 1956",
+        "category": "death",
+        "note": "Albert Woolson died aged 106."
+      },
+      {
+        "id": "e5",
+        "title": "The last Civil War pension recipient dies",
+        "year": 2020,
+        "display": "31 May 2020",
+        "category": "death",
+        "note": "Irene Triplett received $73.13 a month for her father's service."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "fact": "Hiroo Onoda kept fighting WWII in the Philippine jungle until 1974 — over a year after the last Moon landing.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "The Mongols first invade Japan",
+        "year": 1274,
+        "display": "1274",
+        "category": "war",
+        "note": "Storms helped drive the invasion fleet away."
+      },
+      {
+        "id": "e2",
+        "title": "Hiroo Onoda is sent to Lubang Island",
+        "year": 1944,
+        "display": "26 Dec 1944",
+        "category": "war",
+        "note": "The Japanese intelligence officer was ordered never to surrender."
+      },
+      {
+        "id": "e3",
+        "title": "Japan formally surrenders",
+        "year": 1945,
+        "display": "2 Sep 1945",
+        "category": "war",
+        "note": "Signed aboard USS Missouri in Tokyo Bay."
+      },
+      {
+        "id": "e4",
+        "title": "The last astronauts leave the Moon's surface",
+        "year": 1972,
+        "display": "14 Dec 1972",
+        "category": "space",
+        "note": "Apollo 17 commander Gene Cernan was the last to step off."
+      },
+      {
+        "id": "e5",
+        "title": "Hiroo Onoda finally surrenders",
+        "year": 1974,
+        "display": "9 Mar 1974",
+        "category": "war",
+        "note": "His former commander flew to the island to relieve him of duty."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "fact": "Pocahontas died in England in 1617, less than a year after Shakespeare.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Alfred the Great dies",
+        "year": 899,
+        "display": "899",
+        "category": "death",
+        "note": "The Wessex king who fought off the Vikings."
+      },
+      {
+        "id": "e2",
+        "title": "English settlers found Jamestown, Virginia",
+        "year": 1607,
+        "display": "1607",
+        "category": "politics",
+        "note": "The first permanent English settlement in the Americas."
+      },
+      {
+        "id": "e3",
+        "title": "William Shakespeare dies",
+        "year": 1616,
+        "display": "23 Apr 1616",
+        "category": "death",
+        "note": "He died in Stratford-upon-Avon."
+      },
+      {
+        "id": "e4",
+        "title": "Pocahontas dies in England",
+        "year": 1617,
+        "display": "Mar 1617",
+        "category": "death",
+        "note": "She was buried at Gravesend, aged about 21."
+      },
+      {
+        "id": "e5",
+        "title": "The Mayflower Pilgrims reach Massachusetts",
+        "year": 1620,
+        "display": "1620",
+        "category": "exploration",
+        "note": "They founded Plymouth Colony."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "fact": "Dr Pepper is older than Coca-Cola.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "The Hymn to Ninkasi records a beer recipe",
+        "year": -1800,
+        "display": "c. 1800 BC",
+        "category": "food",
+        "note": "A Sumerian hymn to the goddess of brewing."
+      },
+      {
+        "id": "e2",
+        "title": "Dr Pepper is first served",
+        "year": 1885,
+        "display": "1885",
+        "category": "food",
+        "note": "Created by pharmacist Charles Alderton in Waco, Texas."
+      },
+      {
+        "id": "e3",
+        "title": "Coca-Cola is first sold",
+        "year": 1886,
+        "display": "8 May 1886",
+        "category": "food",
+        "note": "Sold at Jacobs' Pharmacy in Atlanta for five cents a glass."
+      },
+      {
+        "id": "e4",
+        "title": "Coca-Cola is first bottled",
+        "year": 1894,
+        "display": "1894",
+        "category": "food",
+        "note": "By Joseph Biedenharn in Vicksburg, Mississippi."
+      },
+      {
+        "id": "e5",
+        "title": "Brad's Drink is renamed Pepsi-Cola",
+        "year": 1898,
+        "display": "1898",
+        "category": "business",
+        "note": "Caleb Bradham's drink came from New Bern, North Carolina."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "fact": "Instant ramen and the modern LEGO brick were both invented in 1958.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "The oldest known noodles are made",
+        "year": -2000,
+        "display": "c. 2000 BC",
+        "category": "food",
+        "note": "A bowl of millet noodles was found at Lajia, China."
+      },
+      {
+        "id": "e2",
+        "title": "LEGO patents its stud-and-tube brick",
+        "year": 1958,
+        "month": 1,
+        "day": 28,
+        "display": "28 Jan 1958",
+        "category": "invention",
+        "note": "Bricks made today still click onto the originals."
+      },
+      {
+        "id": "e3",
+        "title": "Momofuku Ando launches instant ramen",
+        "year": 1958,
+        "month": 8,
+        "day": 25,
+        "display": "25 Aug 1958",
+        "category": "food",
+        "note": "His 'Chicken Ramen' went on sale in Japan."
+      },
+      {
+        "id": "e4",
+        "title": "Barbie makes her debut",
+        "year": 1959,
+        "display": "9 Mar 1959",
+        "category": "business",
+        "note": "Launched at the American International Toy Fair in New York."
+      },
+      {
+        "id": "e5",
+        "title": "Cup Noodles go on sale",
+        "year": 1971,
+        "display": "1971",
+        "category": "food",
+        "note": "Ando's noodles in a foam cup."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "fact": "The first Test cricket match and the first Wimbledon were played less than four months apart, in 1877.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "First recorded Olympic Games are held at Olympia",
+        "year": -776,
+        "display": "776 BC",
+        "category": "sport",
+        "note": "The traditional date; the only event was a footrace."
+      },
+      {
+        "id": "e2",
+        "title": "The first Kentucky Derby is run",
+        "year": 1875,
+        "display": "1875",
+        "category": "sport",
+        "note": "Won by a horse named Aristides."
+      },
+      {
+        "id": "e3",
+        "title": "The first Test cricket match begins",
+        "year": 1877,
+        "month": 3,
+        "day": 15,
+        "display": "15 Mar 1877",
+        "category": "sport",
+        "note": "Australia beat England in Melbourne."
+      },
+      {
+        "id": "e4",
+        "title": "The first Wimbledon Championship begins",
+        "year": 1877,
+        "month": 7,
+        "day": 9,
+        "display": "9 Jul 1877",
+        "category": "sport",
+        "note": "Spencer Gore won the only event, the men's singles."
+      },
+      {
+        "id": "e5",
+        "title": "The first Super Bowl is played",
+        "year": 1967,
+        "display": "15 Jan 1967",
+        "category": "sport",
+        "note": "The Green Bay Packers beat the Kansas City Chiefs."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "fact": "The Football Association was founded in London less than a month before Lincoln's Gettysburg Address.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "The oldest known ballcourt is built in Mesoamerica",
+        "year": -1650,
+        "display": "c. 1650 BC",
+        "category": "sport",
+        "note": "At Paso de la Amada, in what is now Chiapas, Mexico."
+      },
+      {
+        "id": "e2",
+        "title": "The Battle of Gettysburg begins",
+        "year": 1863,
+        "month": 7,
+        "day": 1,
+        "display": "1 Jul 1863",
+        "category": "war",
+        "note": "Three days of fighting in Pennsylvania."
+      },
+      {
+        "id": "e3",
+        "title": "The Football Association is founded",
+        "year": 1863,
+        "month": 10,
+        "day": 26,
+        "display": "26 Oct 1863",
+        "category": "sport",
+        "note": "Formed at the Freemasons' Tavern in London."
+      },
+      {
+        "id": "e4",
+        "title": "Lincoln delivers the Gettysburg Address",
+        "year": 1863,
+        "month": 11,
+        "day": 19,
+        "display": "19 Nov 1863",
+        "category": "politics",
+        "note": "The speech lasted only about two minutes."
+      },
+      {
+        "id": "e5",
+        "title": "The first official international football match",
+        "year": 1872,
+        "display": "30 Nov 1872",
+        "category": "sport",
+        "note": "Scotland and England drew 0–0 in Glasgow."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "fact": "Babe Ruth's sale to the Yankees was announced just 12 days before Prohibition began.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "The Code of Hammurabi is set in stone",
+        "year": -1754,
+        "display": "c. 1754 BC",
+        "category": "politics",
+        "note": "Babylonian laws, including rules for tavern keepers."
+      },
+      {
+        "id": "e2",
+        "title": "Babe Ruth's sale to the Yankees is announced",
+        "year": 1920,
+        "month": 1,
+        "day": 5,
+        "display": "5 Jan 1920",
+        "category": "sport",
+        "note": "The Red Sox sold him for $100,000."
+      },
+      {
+        "id": "e3",
+        "title": "Prohibition begins in the US",
+        "year": 1920,
+        "month": 1,
+        "day": 17,
+        "display": "17 Jan 1920",
+        "category": "politics",
+        "note": "Making and selling alcohol became illegal nationwide."
+      },
+      {
+        "id": "e4",
+        "title": "Al Capone is convicted of tax evasion",
+        "year": 1931,
+        "display": "17 Oct 1931",
+        "category": "crime",
+        "note": "He was sentenced to 11 years."
+      },
+      {
+        "id": "e5",
+        "title": "Prohibition is repealed",
+        "year": 1933,
+        "display": "5 Dec 1933",
+        "category": "politics",
+        "note": "Utah's ratification of the 21st Amendment ended it."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "fact": "The Hindenburg airship flew over the opening of the Berlin Olympics — nine months before it burst into flames.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "The Olympic Games at Olympia are held for the last time",
+        "year": 393,
+        "display": "c. AD 393",
+        "category": "sport",
+        "note": "The games ended under the Christian emperor Theodosius I."
+      },
+      {
+        "id": "e2",
+        "title": "The Spanish Civil War begins",
+        "year": 1936,
+        "month": 7,
+        "day": 17,
+        "display": "17 Jul 1936",
+        "category": "war",
+        "note": "A military coup against the Second Republic."
+      },
+      {
+        "id": "e3",
+        "title": "The Berlin Olympics open",
+        "year": 1936,
+        "month": 8,
+        "day": 1,
+        "display": "1 Aug 1936",
+        "category": "sport",
+        "note": "The Hindenburg airship flew over the stadium."
+      },
+      {
+        "id": "e4",
+        "title": "Jesse Owens wins his fourth Berlin gold",
+        "year": 1936,
+        "month": 8,
+        "day": 9,
+        "display": "9 Aug 1936",
+        "category": "sport",
+        "note": "His final gold came in the 4×100 m relay."
+      },
+      {
+        "id": "e5",
+        "title": "The Hindenburg airship bursts into flames",
+        "year": 1937,
+        "display": "6 May 1937",
+        "category": "disaster",
+        "note": "36 people died at Lakehurst, New Jersey."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "fact": "News that Everest had been climbed reached London on the morning of Elizabeth II's coronation.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "The Battle of Marathon",
+        "year": -490,
+        "display": "490 BC",
+        "category": "war",
+        "note": "Athenians defeated a Persian invasion force."
+      },
+      {
+        "id": "e2",
+        "title": "Watson and Crick publish DNA's double helix",
+        "year": 1953,
+        "month": 4,
+        "day": 25,
+        "display": "25 Apr 1953",
+        "category": "science",
+        "note": "Their one-page paper appeared in Nature."
+      },
+      {
+        "id": "e3",
+        "title": "Hillary and Tenzing reach the summit of Everest",
+        "year": 1953,
+        "month": 5,
+        "day": 29,
+        "display": "29 May 1953",
+        "category": "exploration",
+        "note": "The first confirmed ascent of the world's highest mountain."
+      },
+      {
+        "id": "e4",
+        "title": "Coronation of Queen Elizabeth II",
+        "year": 1953,
+        "month": 6,
+        "day": 2,
+        "display": "2 Jun 1953",
+        "category": "politics",
+        "note": "Held in Westminster Abbey and broadcast live on TV."
+      },
+      {
+        "id": "e5",
+        "title": "Roger Bannister runs a mile in under four minutes",
+        "year": 1954,
+        "display": "6 May 1954",
+        "category": "sport",
+        "note": "He ran 3:59.4 at Iffley Road, Oxford."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "fact": "Handel, Bach and Scarlatti were all born in 1685 — and Bach and Handel were later treated by the same eye surgeon.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Guido of Arezzo devises a new musical notation",
+        "year": 1025,
+        "display": "c. 1025",
+        "category": "music",
+        "note": "His staff system is the ancestor of modern sheet music."
+      },
+      {
+        "id": "e2",
+        "title": "George Frideric Handel is born",
+        "year": 1685,
+        "month": 3,
+        "day": 5,
+        "display": "5 Mar 1685",
+        "category": "birthday",
+        "note": "Born in Halle (23 Feb by the Old Style calendar then used there)."
+      },
+      {
+        "id": "e3",
+        "title": "Johann Sebastian Bach is born",
+        "year": 1685,
+        "month": 3,
+        "day": 31,
+        "display": "31 Mar 1685",
+        "category": "birthday",
+        "note": "Born in Eisenach (21 Mar by the Old Style calendar)."
+      },
+      {
+        "id": "e4",
+        "title": "Domenico Scarlatti is born",
+        "year": 1685,
+        "month": 10,
+        "day": 26,
+        "display": "26 Oct 1685",
+        "category": "birthday",
+        "note": "Born in Naples."
+      },
+      {
+        "id": "e5",
+        "title": "Handel's Messiah premieres in Dublin",
+        "year": 1742,
+        "display": "13 Apr 1742",
+        "category": "music",
+        "note": "First performed in a music hall on Fishamble Street."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "fact": "The Beatles met Cassius Clay in Miami a week before he beat Sonny Liston for the world title.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "King John grants Liverpool its charter",
+        "year": 1207,
+        "display": "1207",
+        "category": "politics",
+        "note": "His letters patent created the town as a borough."
+      },
+      {
+        "id": "e2",
+        "title": "JFK is assassinated in Dallas",
+        "year": 1963,
+        "display": "22 Nov 1963",
+        "category": "crime",
+        "note": "Shot while riding in an open-top motorcade."
+      },
+      {
+        "id": "e3",
+        "title": "The Beatles appear on The Ed Sullivan Show",
+        "year": 1964,
+        "month": 2,
+        "day": 9,
+        "display": "9 Feb 1964",
+        "category": "music",
+        "note": "About 73 million Americans tuned in."
+      },
+      {
+        "id": "e4",
+        "title": "Cassius Clay beats Sonny Liston",
+        "year": 1964,
+        "month": 2,
+        "day": 25,
+        "display": "25 Feb 1964",
+        "category": "sport",
+        "note": "He took the world heavyweight title in Miami Beach."
+      },
+      {
+        "id": "e5",
+        "title": "The Beatles play their final paid concert",
+        "year": 1966,
+        "display": "29 Aug 1966",
+        "category": "music",
+        "note": "At Candlestick Park, San Francisco."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "fact": "The Wizard of Oz premiered less than a month before World War II began.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Sophocles' Oedipus Rex is first staged",
+        "year": -429,
+        "display": "c. 429 BC",
+        "category": "culture",
+        "note": "Performed at a drama festival in Athens."
+      },
+      {
+        "id": "e2",
+        "title": "The Wonderful Wizard of Oz is published",
+        "year": 1900,
+        "display": "1900",
+        "category": "culture",
+        "note": "L. Frank Baum's novel for children."
+      },
+      {
+        "id": "e3",
+        "title": "The Wizard of Oz film premieres",
+        "year": 1939,
+        "month": 8,
+        "display": "Aug 1939",
+        "category": "film",
+        "note": "Its Hollywood premiere was at Grauman's Chinese Theatre."
+      },
+      {
+        "id": "e4",
+        "title": "Germany invades Poland",
+        "year": 1939,
+        "month": 9,
+        "day": 1,
+        "display": "1 Sep 1939",
+        "category": "war",
+        "note": "The start of World War II in Europe."
+      },
+      {
+        "id": "e5",
+        "title": "Gone with the Wind premieres in Atlanta",
+        "year": 1939,
+        "month": 12,
+        "day": 15,
+        "display": "15 Dec 1939",
+        "category": "film",
+        "note": "It won eight competitive Oscars."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "fact": "Nokia began as a Finnish paper mill in 1865 — the same year the US abolished slavery.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Cai Lun reports his papermaking method",
+        "year": 105,
+        "display": "AD 105",
+        "category": "invention",
+        "note": "He was an official at the Han court in China."
+      },
+      {
+        "id": "e2",
+        "title": "The Hudson's Bay Company is chartered",
+        "year": 1670,
+        "display": "2 May 1670",
+        "category": "business",
+        "note": "Granted a vast fur-trading territory in North America."
+      },
+      {
+        "id": "e3",
+        "title": "Nokia is founded as a paper mill",
+        "year": 1865,
+        "month": 5,
+        "day": 12,
+        "display": "12 May 1865",
+        "category": "business",
+        "note": "Founded by mining engineer Fredrik Idestam."
+      },
+      {
+        "id": "e4",
+        "title": "The 13th Amendment abolishes US slavery",
+        "year": 1865,
+        "month": 12,
+        "day": 6,
+        "display": "6 Dec 1865",
+        "category": "politics",
+        "note": "It took effect once three-quarters of the states ratified it."
+      },
+      {
+        "id": "e5",
+        "title": "Nokia sells its phone business to Microsoft",
+        "year": 2014,
+        "display": "Apr 2014",
+        "category": "business",
+        "note": "The deal closed after Nokia had led the mobile market for years."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "fact": "The can opener was invented nearly 50 years after the tin can.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Babylonian tablets record cooking recipes",
+        "year": -1750,
+        "display": "c. 1750 BC",
+        "category": "food",
+        "note": "Yale's collection holds some of the oldest known written recipes."
+      },
+      {
+        "id": "e2",
+        "title": "Peter Durand patents the tin can",
+        "year": 1810,
+        "display": "25 Aug 1810",
+        "category": "invention",
+        "note": "The patent was granted by King George III."
+      },
+      {
+        "id": "e3",
+        "title": "Ezra Warner patents a can opener",
+        "year": 1858,
+        "month": 1,
+        "day": 5,
+        "display": "5 Jan 1858",
+        "category": "invention",
+        "note": "Before this, cans were opened with hammers and chisels."
+      },
+      {
+        "id": "e4",
+        "title": "John Landis Mason patents the Mason jar",
+        "year": 1858,
+        "month": 11,
+        "day": 30,
+        "display": "30 Nov 1858",
+        "category": "invention",
+        "note": "A screw-top glass jar for home canning."
+      },
+      {
+        "id": "e5",
+        "title": "Birds Eye frozen foods go on sale",
+        "year": 1930,
+        "display": "6 Mar 1930",
+        "category": "food",
+        "note": "First sold in Springfield, Massachusetts."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "fact": "The steam locomotive is older than the bicycle: Trevithick's engine ran in 1804, Drais's 'running machine' in 1817.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Hero of Alexandria describes a steam-powered sphere",
+        "year": 50,
+        "display": "c. AD 50",
+        "category": "invention",
+        "note": "His aeolipile spun but did no useful work."
+      },
+      {
+        "id": "e2",
+        "title": "Trevithick's steam locomotive runs on rails",
+        "year": 1804,
+        "display": "21 Feb 1804",
+        "category": "invention",
+        "note": "It hauled iron at Pen-y-darren in Wales."
+      },
+      {
+        "id": "e3",
+        "title": "Mount Tambora erupts",
+        "year": 1815,
+        "display": "10 Apr 1815",
+        "category": "disaster",
+        "note": "The largest volcanic eruption in recorded history."
+      },
+      {
+        "id": "e4",
+        "title": "Karl Drais rides his two-wheeled 'running machine'",
+        "year": 1817,
+        "display": "12 Jun 1817",
+        "category": "invention",
+        "note": "A pedal-less ancestor of the bicycle."
+      },
+      {
+        "id": "e5",
+        "title": "Frankenstein is published",
+        "year": 1818,
+        "display": "1 Jan 1818",
+        "category": "culture",
+        "note": "Mary Shelley began it during the cold, wet summer of 1816."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "fact": "William Herschel discovered Uranus in 1781 and wanted to name it after George III — the year Britain surrendered at Yorktown.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Aristarchus proposes a Sun-centred cosmos",
+        "year": -270,
+        "display": "c. 270 BC",
+        "category": "science",
+        "note": "The Greek astronomer put the Sun, not Earth, at the centre."
+      },
+      {
+        "id": "e2",
+        "title": "William Herschel discovers Uranus",
+        "year": 1781,
+        "month": 3,
+        "day": 13,
+        "display": "13 Mar 1781",
+        "category": "space",
+        "note": "The first planet discovered with a telescope."
+      },
+      {
+        "id": "e3",
+        "title": "The British surrender at Yorktown",
+        "year": 1781,
+        "month": 10,
+        "day": 19,
+        "display": "19 Oct 1781",
+        "category": "war",
+        "note": "The decisive defeat of the American Revolutionary War."
+      },
+      {
+        "id": "e4",
+        "title": "Neptune is discovered",
+        "year": 1846,
+        "display": "23 Sep 1846",
+        "category": "space",
+        "note": "Found close to where mathematics predicted it would be."
+      },
+      {
+        "id": "e5",
+        "title": "Neptune completes its first orbit since discovery",
+        "year": 2011,
+        "display": "Jul 2011",
+        "category": "space",
+        "note": "One Neptune year lasts about 165 Earth years."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "fact": "X-rays and cinema were both unveiled in late 1895, just seven weeks apart.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Ibn al-Haytham writes his Book of Optics",
+        "year": 1015,
+        "display": "c. 1015",
+        "category": "science",
+        "note": "He explained vision as light entering the eye."
+      },
+      {
+        "id": "e2",
+        "title": "Daguerre's photography process is made public",
+        "year": 1839,
+        "display": "19 Aug 1839",
+        "category": "invention",
+        "note": "The French government presented it as a gift to the world."
+      },
+      {
+        "id": "e3",
+        "title": "Wilhelm Röntgen discovers X-rays",
+        "year": 1895,
+        "month": 11,
+        "day": 8,
+        "display": "8 Nov 1895",
+        "category": "science",
+        "note": "One of his first X-ray images showed his wife's hand."
+      },
+      {
+        "id": "e4",
+        "title": "The Lumière brothers hold a paid film screening",
+        "year": 1895,
+        "month": 12,
+        "day": 28,
+        "display": "28 Dec 1895",
+        "category": "film",
+        "note": "Shown in the basement of the Grand Café in Paris."
+      },
+      {
+        "id": "e5",
+        "title": "Henri Becquerel discovers radioactivity",
+        "year": 1896,
+        "display": "1896",
+        "category": "science",
+        "note": "Uranium salts fogged photographic plates in the dark."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "fact": "Smallpox was declared eradicated just two weeks before Pac-Man reached Japanese arcades.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Pharaoh Ramesses V dies, apparently of smallpox",
+        "year": -1145,
+        "display": "c. 1145 BC",
+        "category": "death",
+        "note": "His mummy shows pustule-like marks."
+      },
+      {
+        "id": "e2",
+        "title": "Edward Jenner tests his smallpox vaccine",
+        "year": 1796,
+        "display": "14 May 1796",
+        "category": "science",
+        "note": "He inoculated eight-year-old James Phipps with cowpox."
+      },
+      {
+        "id": "e3",
+        "title": "The WHO declares smallpox eradicated",
+        "year": 1980,
+        "month": 5,
+        "day": 8,
+        "display": "8 May 1980",
+        "category": "science",
+        "note": "The first human disease ever wiped out."
+      },
+      {
+        "id": "e4",
+        "title": "Mount St. Helens erupts",
+        "year": 1980,
+        "month": 5,
+        "day": 18,
+        "display": "18 May 1980",
+        "category": "disaster",
+        "note": "The blast removed the top of the mountain in Washington state."
+      },
+      {
+        "id": "e5",
+        "title": "Pac-Man is released in Japan",
+        "year": 1980,
+        "month": 5,
+        "day": 22,
+        "display": "22 May 1980",
+        "category": "culture",
+        "note": "Its original Japanese name was Puck Man."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "fact": "Russia's Bolshoi Theatre is older than the United States — by about three months.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Battles of Lexington and Concord",
+        "year": 1775,
+        "display": "19 Apr 1775",
+        "category": "war",
+        "note": "The first battles of the American Revolutionary War."
+      },
+      {
+        "id": "e2",
+        "title": "Adam Smith publishes The Wealth of Nations",
+        "year": 1776,
+        "month": 3,
+        "day": 9,
+        "display": "9 Mar 1776",
+        "category": "business",
+        "note": "A founding text of modern economics."
+      },
+      {
+        "id": "e3",
+        "title": "Moscow's Bolshoi Theatre company is founded",
+        "year": 1776,
+        "month": 3,
+        "day": 28,
+        "display": "28 Mar 1776",
+        "category": "culture",
+        "note": "Catherine the Great granted Prince Urusov a licence to stage shows."
+      },
+      {
+        "id": "e4",
+        "title": "The Declaration of Independence is adopted",
+        "year": 1776,
+        "month": 7,
+        "day": 4,
+        "display": "4 Jul 1776",
+        "category": "politics",
+        "note": "Adopted by the Continental Congress in Philadelphia."
+      },
+      {
+        "id": "e5",
+        "title": "Captain Cook sets sail on his final voyage",
+        "year": 1776,
+        "month": 7,
+        "day": 12,
+        "display": "12 Jul 1776",
+        "category": "exploration",
+        "note": "He was killed in Hawaii during the expedition."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "fact": "The last passenger pigeon died just 17 days after the Panama Canal opened.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Archduke Franz Ferdinand is assassinated",
+        "year": 1914,
+        "month": 6,
+        "day": 28,
+        "display": "28 Jun 1914",
+        "category": "crime",
+        "note": "Shot in Sarajevo by Gavrilo Princip."
+      },
+      {
+        "id": "e2",
+        "title": "Shackleton's Endurance sails from Plymouth",
+        "year": 1914,
+        "month": 8,
+        "day": 8,
+        "display": "8 Aug 1914",
+        "category": "exploration",
+        "note": "The ship was later crushed by Antarctic pack ice."
+      },
+      {
+        "id": "e3",
+        "title": "The Panama Canal opens",
+        "year": 1914,
+        "month": 8,
+        "day": 15,
+        "display": "15 Aug 1914",
+        "category": "architecture",
+        "note": "The SS Ancon made the first official transit."
+      },
+      {
+        "id": "e4",
+        "title": "Martha, the last passenger pigeon, dies",
+        "year": 1914,
+        "month": 9,
+        "day": 1,
+        "display": "1 Sep 1914",
+        "category": "nature",
+        "note": "She died at Cincinnati Zoo."
+      },
+      {
+        "id": "e5",
+        "title": "The Christmas truce on the Western Front",
+        "year": 1914,
+        "month": 12,
+        "day": 24,
+        "display": "24 Dec 1914",
+        "category": "war",
+        "note": "Soldiers on both sides met in no man's land."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "fact": "England had three kings in 1066 — and Halley's Comet blazed overhead months before the Norman invasion.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Westminster Abbey is consecrated",
+        "year": 1065,
+        "month": 12,
+        "day": 28,
+        "display": "28 Dec 1065",
+        "category": "religion",
+        "note": "King Edward the Confessor was too ill to attend."
+      },
+      {
+        "id": "e2",
+        "title": "Halley's Comet blazes over England",
+        "year": 1066,
+        "month": 4,
+        "display": "Apr 1066",
+        "category": "space",
+        "note": "It was later stitched into the Bayeux Tapestry."
+      },
+      {
+        "id": "e3",
+        "title": "The Battle of Stamford Bridge",
+        "year": 1066,
+        "month": 9,
+        "day": 25,
+        "display": "25 Sep 1066",
+        "category": "war",
+        "note": "Harold II defeated the Norwegian king Harald Hardrada."
+      },
+      {
+        "id": "e4",
+        "title": "The Battle of Hastings",
+        "year": 1066,
+        "month": 10,
+        "day": 14,
+        "display": "14 Oct 1066",
+        "category": "war",
+        "note": "Harold II was killed by the invading Normans."
+      },
+      {
+        "id": "e5",
+        "title": "William the Conqueror is crowned",
+        "year": 1066,
+        "month": 12,
+        "day": 25,
+        "display": "25 Dec 1066",
+        "category": "politics",
+        "note": "Crowned in Westminster Abbey on Christmas Day."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "fact": "The first Tour de France and the first World Series were both held in 1903 — the year the Wrights first flew.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Ford Motor Company is incorporated",
+        "year": 1903,
+        "month": 6,
+        "day": 16,
+        "display": "16 Jun 1903",
+        "category": "business",
+        "note": "Henry Ford was 39 years old."
+      },
+      {
+        "id": "e2",
+        "title": "The first Tour de France starts",
+        "year": 1903,
+        "month": 7,
+        "day": 1,
+        "display": "1 Jul 1903",
+        "category": "sport",
+        "note": "Maurice Garin won the six-stage race."
+      },
+      {
+        "id": "e3",
+        "title": "The first World Series game is played",
+        "year": 1903,
+        "month": 10,
+        "day": 1,
+        "display": "1 Oct 1903",
+        "category": "sport",
+        "note": "Boston beat Pittsburgh in the best-of-nine series."
+      },
+      {
+        "id": "e4",
+        "title": "Panama declares independence from Colombia",
+        "year": 1903,
+        "month": 11,
+        "day": 3,
+        "display": "3 Nov 1903",
+        "category": "politics",
+        "note": "The US quickly backed it to secure a canal route."
+      },
+      {
+        "id": "e5",
+        "title": "Wright brothers make the first powered flight",
+        "year": 1903,
+        "month": 12,
+        "day": 17,
+        "display": "17 Dec 1903",
+        "category": "invention",
+        "note": "The first flight at Kitty Hawk lasted 12 seconds."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "fact": "Ethiopia crushed Italy's army at Adwa just five weeks before the first modern Olympics opened.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "King Ezana of Aksum adopts Christianity",
+        "year": 330,
+        "display": "c. 330",
+        "category": "religion",
+        "note": "Aksum was one of the first states to adopt Christianity."
+      },
+      {
+        "id": "e2",
+        "title": "Mansa Musa makes his pilgrimage to Mecca",
+        "year": 1324,
+        "display": "1324",
+        "category": "religion",
+        "note": "The Mali emperor's lavish gold spending was remembered in Cairo for years."
+      },
+      {
+        "id": "e3",
+        "title": "The Berlin Conference on Africa opens",
+        "year": 1884,
+        "display": "15 Nov 1884",
+        "category": "politics",
+        "note": "European powers set rules for claiming African territory."
+      },
+      {
+        "id": "e4",
+        "title": "Ethiopia defeats Italy at Adwa",
+        "year": 1896,
+        "month": 3,
+        "day": 1,
+        "display": "1 Mar 1896",
+        "category": "war",
+        "note": "It secured Ethiopian independence."
+      },
+      {
+        "id": "e5",
+        "title": "The first modern Olympics open in Athens",
+        "year": 1896,
+        "month": 4,
+        "day": 6,
+        "display": "6 Apr 1896",
+        "category": "sport",
+        "note": "Athletes from 14 nations took part."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "fact": "Pakistan and India mark independence a day apart — on 14 and 15 August 1947.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Chandragupta founds the Maurya Empire",
+        "year": -321,
+        "display": "c. 321 BC",
+        "category": "politics",
+        "note": "It grew to cover most of the Indian subcontinent."
+      },
+      {
+        "id": "e2",
+        "title": "Babur wins at Panipat, founding the Mughal Empire",
+        "year": 1526,
+        "display": "21 Apr 1526",
+        "category": "war",
+        "note": "His cannons helped defeat the Delhi Sultanate."
+      },
+      {
+        "id": "e3",
+        "title": "The English East India Company is chartered",
+        "year": 1600,
+        "display": "31 Dec 1600",
+        "category": "business",
+        "note": "Elizabeth I granted it a monopoly on trade to the East."
+      },
+      {
+        "id": "e4",
+        "title": "Pakistan becomes independent",
+        "year": 1947,
+        "month": 8,
+        "day": 14,
+        "display": "14 Aug 1947",
+        "category": "politics",
+        "note": "Created by the partition of British India."
+      },
+      {
+        "id": "e5",
+        "title": "India becomes independent",
+        "year": 1947,
+        "month": 8,
+        "day": 15,
+        "display": "15 Aug 1947",
+        "category": "politics",
+        "note": "Nehru gave his 'Tryst with Destiny' speech at midnight."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "fact": "Hiram Bingham reached Machu Picchu less than a month before the Mona Lisa was stolen from the Louvre.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "The Pyramid of the Sun rises at Teotihuacan",
+        "year": 200,
+        "display": "c. AD 200",
+        "category": "architecture",
+        "note": "One of the largest pyramids in the Americas."
+      },
+      {
+        "id": "e2",
+        "title": "The Inca build Machu Picchu",
+        "year": 1450,
+        "display": "c. 1450",
+        "category": "architecture",
+        "note": "Probably an estate for the emperor Pachacuti."
+      },
+      {
+        "id": "e3",
+        "title": "Peru declares independence from Spain",
+        "year": 1821,
+        "display": "28 Jul 1821",
+        "category": "politics",
+        "note": "Proclaimed in Lima by José de San Martín."
+      },
+      {
+        "id": "e4",
+        "title": "Hiram Bingham reaches Machu Picchu",
+        "year": 1911,
+        "month": 7,
+        "day": 24,
+        "display": "24 Jul 1911",
+        "category": "exploration",
+        "note": "A local farmer guided him to the ruins."
+      },
+      {
+        "id": "e5",
+        "title": "The Mona Lisa is stolen from the Louvre",
+        "year": 1911,
+        "month": 8,
+        "day": 21,
+        "display": "21 Aug 1911",
+        "category": "crime",
+        "note": "Vincenzo Peruggia kept it for over two years."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "fact": "The Suez Canal and America's first transcontinental railroad both opened in 1869, six months apart.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Pharaoh Necho II starts a Nile–Red Sea canal",
+        "year": -600,
+        "display": "c. 600 BC",
+        "category": "architecture",
+        "note": "An early forerunner of the Suez Canal."
+      },
+      {
+        "id": "e2",
+        "title": "Golden spike completes a coast-to-coast US railroad",
+        "year": 1869,
+        "month": 5,
+        "day": 10,
+        "display": "10 May 1869",
+        "category": "business",
+        "note": "Driven at Promontory Summit, Utah."
+      },
+      {
+        "id": "e3",
+        "title": "The Suez Canal opens",
+        "year": 1869,
+        "month": 11,
+        "day": 17,
+        "display": "17 Nov 1869",
+        "category": "architecture",
+        "note": "It linked the Mediterranean and the Red Sea."
+      },
+      {
+        "id": "e4",
+        "title": "Egypt nationalises the Suez Canal",
+        "year": 1956,
+        "display": "26 Jul 1956",
+        "category": "politics",
+        "note": "The move triggered the Suez Crisis."
+      },
+      {
+        "id": "e5",
+        "title": "The Aswan High Dam is completed",
+        "year": 1970,
+        "display": "1970",
+        "category": "architecture",
+        "note": "It created Lake Nasser on the Nile."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "fact": "The First Fleet founded Sydney in January 1788 — about 18 months before the storming of the Bastille.",
+    "events": [
+      {
+        "id": "e1",
+        "title": "Mungo Man is buried at Lake Mungo",
+        "year": -40000,
+        "display": "c. 40,000 BC",
+        "category": "culture",
+        "note": "Among the oldest known human burials in Australia."
+      },
+      {
+        "id": "e2",
+        "title": "Captain Cook lands at Botany Bay",
+        "year": 1770,
+        "display": "29 Apr 1770",
+        "category": "exploration",
+        "note": "He later claimed eastern Australia for Britain."
+      },
+      {
+        "id": "e3",
+        "title": "The First Fleet arrives at Sydney Cove",
+        "year": 1788,
+        "display": "26 Jan 1788",
+        "category": "exploration",
+        "note": "Eleven ships carried convicts, marines and officials."
+      },
+      {
+        "id": "e4",
+        "title": "Storming of the Bastille",
+        "year": 1789,
+        "display": "14 Jul 1789",
+        "category": "politics",
+        "note": "A flashpoint of the French Revolution."
+      },
+      {
+        "id": "e5",
+        "title": "Sydney Opera House opens",
+        "year": 1973,
+        "display": "20 Oct 1973",
+        "category": "architecture",
+        "note": "Opened by Queen Elizabeth II."
+      }
+    ]
+  }
+]

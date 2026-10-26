@@ -1,0 +1,301 @@
+puzzle_id,event_id,title,date,source_url
+1,e1,Jack the Ripper murders begin in London,31 Aug 1888,https://en.wikipedia.org/wiki/Jack_the_Ripper
+1,e2,Nintendo is founded in Kyoto,23 Sep 1889,https://en.wikipedia.org/wiki/Nintendo
+1,e3,Future Queen Elizabeth II is born,21 Apr 1926,https://en.wikipedia.org/wiki/Elizabeth_II
+1,e4,Marilyn Monroe is born,1 Jun 1926,https://en.wikipedia.org/wiki/Marilyn_Monroe
+1,e5,Pre-sliced bread is sold for the first time,7 Jul 1928,https://en.wikipedia.org/wiki/Sliced_bread
+2,e1,Great Pyramid of Giza is completed,c. 2560 BC,https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza
+2,e2,Julius Caesar is assassinated,15 Mar 44 BC,https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar
+2,e3,Cleopatra dies in Alexandria,30 BC,https://en.wikipedia.org/wiki/Cleopatra
+2,e4,Concorde makes its first flight,2 Mar 1969,https://en.wikipedia.org/wiki/Concorde
+2,e5,Apollo 11 lands on the Moon,20 Jul 1969,https://en.wikipedia.org/wiki/Apollo_11
+3,e1,Last Western Roman emperor is deposed,476,https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire
+3,e2,Teaching is taking place at Oxford,by 1096,https://www.ox.ac.uk/about/organisation/history
+3,e3,Crusaders capture Jerusalem,1099,https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1099)
+3,e4,The Mexica found Tenochtitlan,1325,https://en.wikipedia.org/wiki/Tenochtitlan
+3,e5,Cortés and his allies capture Tenochtitlan,1521,https://en.wikipedia.org/wiki/Fall_of_Tenochtitlan
+4,e1,Great Pyramid of Giza is completed,c. 2560 BC,https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza
+4,e2,Last woolly mammoths die out on Wrangel Island,c. 2000 BC,https://en.wikipedia.org/wiki/Wrangel_Island
+4,e3,Tutankhamun dies,c. 1323 BC,https://en.wikipedia.org/wiki/Tutankhamun
+4,e4,Howard Carter finds Tutankhamun's tomb,4 Nov 1922,https://en.wikipedia.org/wiki/Discovery_of_the_tomb_of_Tutankhamun
+4,e5,The BBC makes its first radio broadcast,14 Nov 1922,https://en.wikipedia.org/wiki/2LO
+5,e1,Magna Carta is sealed,15 Jun 1215,https://en.wikipedia.org/wiki/Magna_Carta
+5,e2,Insulin is first given to a diabetic patient,11 Jan 1922,https://en.wikipedia.org/wiki/Frederick_Banting
+5,e3,Betty White is born,17 Jan 1922,https://en.wikipedia.org/wiki/Betty_White
+5,e4,Pre-sliced bread is sold for the first time,7 Jul 1928,https://en.wikipedia.org/wiki/Sliced_bread
+5,e5,Alexander Fleming discovers penicillin,Sep 1928,https://en.wikipedia.org/wiki/History_of_penicillin
+6,e1,Polybius describes a torch-signalling alphabet,c. 150 BC,https://en.wikipedia.org/wiki/Polybius_square
+6,e2,Alexander Bain patents a fax-type machine,27 May 1843,https://en.wikipedia.org/wiki/Alexander_Bain_(inventor)
+6,e3,"Morse sends ""What hath God wrought""",24 May 1844,https://en.wikipedia.org/wiki/Samuel_Morse
+6,e4,Confederates fire on Fort Sumter,12 Apr 1861,https://en.wikipedia.org/wiki/Battle_of_Fort_Sumter
+6,e5,Alexander Graham Bell patents the telephone,7 Mar 1876,https://en.wikipedia.org/wiki/Alexander_Graham_Bell
+7,e1,Aristotle dies,322 BC,https://en.wikipedia.org/wiki/Aristotle
+7,e2,Edgar Allan Poe is born,19 Jan 1809,https://en.wikipedia.org/wiki/Edgar_Allan_Poe
+7,e3,Charles Darwin is born,12 Feb 1809,https://en.wikipedia.org/wiki/Charles_Darwin
+7,e4,On the Origin of Species is published,24 Nov 1859,https://en.wikipedia.org/wiki/On_the_Origin_of_Species
+7,e5,Abraham Lincoln is assassinated,14 Apr 1865,https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln
+8,e1,Edict of Milan grants tolerance to Christians,313,https://en.wikipedia.org/wiki/Edict_of_Milan
+8,e2,Martin Luther posts his Ninety-five Theses,31 Oct 1517,https://en.wikipedia.org/wiki/Ninety-five_Theses
+8,e3,Martin Luther King Jr. is born,15 Jan 1929,https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.
+8,e4,Anne Frank is born,12 Jun 1929,https://en.wikipedia.org/wiki/Anne_Frank
+8,e5,Black Tuesday stock crash hits Wall Street,29 Oct 1929,https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929
+9,e1,Chinese military manual records a gunpowder formula,1044,https://en.wikipedia.org/wiki/Wujing_Zongyao
+9,e2,Döbereiner invents his hydrogen lighter,1823,https://en.wikipedia.org/wiki/D%C3%B6bereiner%27s_lamp
+9,e3,John Walker sells the first friction matches,7 Apr 1827,https://en.wikipedia.org/wiki/John_Walker_(inventor)
+9,e4,Gustaf Pasch patents the safety match,1844,https://en.wikipedia.org/wiki/Gustaf_Erik_Pasch
+9,e5,The first Zippo lighter is made,1933,https://en.wikipedia.org/wiki/Zippo
+10,e1,Joan of Arc is burned at the stake,30 May 1431,https://en.wikipedia.org/wiki/Joan_of_Arc
+10,e2,Star Wars opens in US cinemas,25 May 1977,https://en.wikipedia.org/wiki/Star_Wars_(film)
+10,e3,Elvis Presley dies,16 Aug 1977,https://en.wikipedia.org/wiki/Elvis_Presley
+10,e4,Voyager 1 is launched,5 Sep 1977,https://en.wikipedia.org/wiki/Voyager_1
+10,e5,France's last guillotine execution,10 Sep 1977,https://en.wikipedia.org/wiki/Hamida_Djandoubi
+11,e1,Archimedes is killed at Syracuse,212 BC,https://en.wikipedia.org/wiki/Archimedes
+11,e2,Harvard College is founded,1636,https://en.wikipedia.org/wiki/Harvard_University
+11,e3,Galileo dies,8 Jan 1642,https://en.wikipedia.org/wiki/Galileo_Galilei
+11,e4,Leibniz publishes his calculus,Oct 1684,https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+11,e5,Newton publishes the Principia,5 Jul 1687,https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica
+12,e1,Constantine dedicates Constantinople,11 May 330,https://en.wikipedia.org/wiki/Constantinople
+12,e2,Ottoman forces capture Constantinople,29 May 1453,https://en.wikipedia.org/wiki/Fall_of_Constantinople
+12,e3,The first Oreo cookies are sold,6 Mar 1912,https://en.wikipedia.org/wiki/Oreo
+12,e4,Titanic sinks in the North Atlantic,15 Apr 1912,https://en.wikipedia.org/wiki/Titanic
+12,e5,The Ottoman sultanate is abolished,1 Nov 1922,https://en.wikipedia.org/wiki/Abolition_of_the_Ottoman_sultanate
+13,e1,Construction of the Tower of Pisa begins,1173,https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa
+13,e2,The Eiffel Tower is inaugurated,31 Mar 1889,https://en.wikipedia.org/wiki/Eiffel_Tower
+13,e3,Charlie Chaplin is born,16 Apr 1889,https://en.wikipedia.org/wiki/Charlie_Chaplin
+13,e4,Adolf Hitler is born,20 Apr 1889,https://en.wikipedia.org/wiki/Adolf_Hitler
+13,e5,The Great Dictator premieres,15 Oct 1940,https://en.wikipedia.org/wiki/The_Great_Dictator
+14,e1,Pytheas reports a far-northern land called Thule,c. 325 BC,https://en.wikipedia.org/wiki/Pytheas
+14,e2,Amundsen reaches the South Pole,14 Dec 1911,https://en.wikipedia.org/wiki/Amundsen%27s_South_Pole_expedition
+14,e3,Scott's team reaches the South Pole,17 Jan 1912,https://en.wikipedia.org/wiki/Terra_Nova_Expedition
+14,e4,Titanic sinks in the North Atlantic,15 Apr 1912,https://en.wikipedia.org/wiki/Titanic
+14,e5,Fenway Park hosts its first official game,20 Apr 1912,https://en.wikipedia.org/wiki/Fenway_Park
+15,e1,The oldest surviving wooden wheel is made,c. 3150 BC,https://en.wikipedia.org/wiki/Ljubljana_Marshes_Wheel
+15,e2,Karl Benz patents his motor car,29 Jan 1886,https://en.wikipedia.org/wiki/Benz_Patent-Motorwagen
+15,e3,Ford's Model T goes on sale,1 Oct 1908,https://en.wikipedia.org/wiki/Ford_Model_T
+15,e4,Lindbergh lands in Paris after a solo flight,21 May 1927,https://en.wikipedia.org/wiki/Spirit_of_St._Louis
+15,e5,Ford ends Model T production,26 May 1927,https://en.wikipedia.org/wiki/Ford_Model_T
+16,e1,The oldest known bread is baked,"c. 12,400 BC",https://www.ucl.ac.uk/news/2018/jul/bread-predates-agriculture-4000-years
+16,e2,Pluto is discovered,18 Feb 1930,https://en.wikipedia.org/wiki/Pluto
+16,e3,Gandhi begins the Salt March,12 Mar 1930,https://en.wikipedia.org/wiki/Salt_March
+16,e4,Twinkies are invented,6 Apr 1930,https://en.wikipedia.org/wiki/Twinkie
+16,e5,The first FIFA World Cup kicks off,13 Jul 1930,https://en.wikipedia.org/wiki/1930_FIFA_World_Cup
+17,e1,Moscow is first mentioned in the chronicles,1147,https://en.wikipedia.org/wiki/Moscow
+17,e2,Alexey Pajitnov creates Tetris,1984,https://en.wikipedia.org/wiki/Tetris
+17,e3,Chernobyl reactor explodes,26 Apr 1986,https://en.wikipedia.org/wiki/Chernobyl_disaster
+17,e4,The Berlin Wall falls,9 Nov 1989,https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall
+17,e5,The Soviet Union is dissolved,26 Dec 1991,https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union
+18,e1,The first circular ditch is dug at Stonehenge,c. 3000 BC,https://en.wikipedia.org/wiki/Stonehenge
+18,e2,Great Pyramid of Giza is completed,c. 2560 BC,https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza
+18,e3,Romans invade Britain under Claudius,AD 43,https://en.wikipedia.org/wiki/Roman_conquest_of_Britain
+18,e4,Stonehenge is sold at auction,21 Sep 1915,https://en.wikipedia.org/wiki/Cecil_Chubb
+18,e5,Stonehenge is given to the nation,26 Oct 1918,https://en.wikipedia.org/wiki/Cecil_Chubb
+19,e1,The Colossus of Rhodes is completed,c. 280 BC,https://en.wikipedia.org/wiki/Colossus_of_Rhodes
+19,e2,Ringo Starr is born,7 Jul 1940,https://en.wikipedia.org/wiki/Ringo_Starr
+19,e3,John Lennon is born,9 Oct 1940,https://en.wikipedia.org/wiki/John_Lennon
+19,e4,Work on Mount Rushmore ends,31 Oct 1941,https://en.wikipedia.org/wiki/Mount_Rushmore
+19,e5,Japan attacks Pearl Harbor,7 Dec 1941,https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor
+20,e1,The Julian calendar takes effect,45 BC,https://en.wikipedia.org/wiki/Julian_calendar
+20,e2,Galileo Galilei is born,15 Feb 1564,https://en.wikipedia.org/wiki/Galileo_Galilei
+20,e3,William Shakespeare is baptised,26 Apr 1564,https://en.wikipedia.org/wiki/William_Shakespeare
+20,e4,The Gregorian calendar is introduced,15 Oct 1582,https://en.wikipedia.org/wiki/Gregorian_calendar
+20,e5,Britain switches to the Gregorian calendar,14 Sep 1752,https://en.wikipedia.org/wiki/Calendar_(New_Style)_Act_1750
+21,e1,The Council of Nicaea meets,325,https://en.wikipedia.org/wiki/First_Council_of_Nicaea
+21,e2,Chinese astronomers record a 'guest star',4 Jul 1054,https://en.wikipedia.org/wiki/SN_1054
+21,e3,The East–West Schism splits the Church,16 Jul 1054,https://en.wikipedia.org/wiki/East%E2%80%93West_Schism
+21,e4,Persia adopts Omar Khayyam's solar calendar,1079,https://en.wikipedia.org/wiki/Jalali_calendar
+21,e5,England's Act of Supremacy,1534,https://en.wikipedia.org/wiki/Acts_of_Supremacy
+22,e1,The Diamond Sutra is printed,868,https://en.wikipedia.org/wiki/Diamond_Sutra
+22,e2,The Jikji is printed with metal movable type,1377,https://en.wikipedia.org/wiki/Jikji
+22,e3,Zheng He's treasure fleet sets sail,1405,https://en.wikipedia.org/wiki/Zheng_He
+22,e4,King Sejong promulgates the Hangul alphabet,1446,https://en.wikipedia.org/wiki/Hangul
+22,e5,Battle of Castillon ends the Hundred Years' War,17 Jul 1453,https://en.wikipedia.org/wiki/Battle_of_Castillon
+23,e1,Chinese astronomers log Halley's Comet,240 BC,https://en.wikipedia.org/wiki/Halley%27s_Comet
+23,e2,Edmond Halley predicts the comet's return,1705,https://en.wikipedia.org/wiki/Edmond_Halley
+23,e3,Mark Twain is born,30 Nov 1835,https://en.wikipedia.org/wiki/Mark_Twain
+23,e4,Halley's Comet passes closest to the Sun,20 Apr 1910,https://en.wikipedia.org/wiki/Halley%27s_Comet
+23,e5,Mark Twain dies,21 Apr 1910,https://en.wikipedia.org/wiki/Mark_Twain
+24,e1,Foundation stone of Cologne Cathedral is laid,1248,https://en.wikipedia.org/wiki/Cologne_Cathedral
+24,e2,The Black Death reaches Europe,1347,https://en.wikipedia.org/wiki/Black_Death
+24,e3,Edison tests a long-lasting light bulb,Oct 1879,https://en.wikipedia.org/wiki/Incandescent_light_bulb
+24,e4,Cologne Cathedral is completed,1880,https://en.wikipedia.org/wiki/Cologne_Cathedral
+24,e5,Construction of Barcelona's Sagrada Família begins,19 Mar 1882,https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia
+25,e1,Ptolemy compiles his Geography,c. AD 150,https://en.wikipedia.org/wiki/Geography_(Ptolemy)
+25,e2,Vikings fell trees at L'Anse aux Meadows,1021,https://en.wikipedia.org/wiki/L%27Anse_aux_Meadows
+25,e3,Columbus makes landfall in the Bahamas,12 Oct 1492,https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus
+25,e4,Vasco da Gama reaches India,20 May 1498,https://en.wikipedia.org/wiki/Vasco_da_Gama
+25,e5,Pedro Álvares Cabral lands in Brazil,22 Apr 1500,https://en.wikipedia.org/wiki/Pedro_%C3%81lvares_Cabral
+26,e1,Kongō Gumi construction company is founded,578,https://en.wikipedia.org/wiki/Kong%C5%8D_Gumi
+26,e2,Heian-kyō (Kyoto) becomes Japan's capital,794,https://en.wikipedia.org/wiki/Heian-ky%C5%8D
+26,e3,Tokugawa Ieyasu becomes shogun,1603,https://en.wikipedia.org/wiki/Tokugawa_shogunate
+26,e4,Commodore Perry's ships arrive in Edo Bay,8 Jul 1853,https://en.wikipedia.org/wiki/Perry_Expedition
+26,e5,Japan signs the Convention of Kanagawa,31 Mar 1854,https://en.wikipedia.org/wiki/Convention_of_Kanagawa
+27,e1,Qin Shi Huang unifies China,221 BC,https://en.wikipedia.org/wiki/Qin_Shi_Huang
+27,e2,The Forbidden City is completed,1420,https://en.wikipedia.org/wiki/Forbidden_City
+27,e3,Puyi abdicates as emperor of China,12 Feb 1912,https://en.wikipedia.org/wiki/Puyi
+27,e4,The Beatles release Sgt. Pepper's,26 May 1967,https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band
+27,e5,Puyi dies in Beijing,17 Oct 1967,https://en.wikipedia.org/wiki/Puyi
+28,e1,The Rosetta Stone decree is issued,196 BC,https://en.wikipedia.org/wiki/Rosetta_Stone
+28,e2,The last known hieroglyphic inscription is carved,24 Aug 394,https://en.wikipedia.org/wiki/Egyptian_hieroglyphs
+28,e3,French soldiers find the Rosetta Stone,1799,https://en.wikipedia.org/wiki/Rosetta_Stone
+28,e4,Napoleon dies on Saint Helena,5 May 1821,https://en.wikipedia.org/wiki/Napoleon
+28,e5,Champollion deciphers hieroglyphs,27 Sep 1822,https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Champollion
+29,e1,Muhammad's migration to Medina (the Hijra),622,https://en.wikipedia.org/wiki/Hijrah
+29,e2,Ibn Saud captures Riyadh,15 Jan 1902,https://en.wikipedia.org/wiki/Battle_of_Riyadh_(1902)
+29,e3,Mickey Mouse debuts in Steamboat Willie,18 Nov 1928,https://en.wikipedia.org/wiki/Steamboat_Willie
+29,e4,The Kingdom of Saudi Arabia is proclaimed,23 Sep 1932,https://en.wikipedia.org/wiki/Saudi_Arabia
+29,e5,Oil is struck at Dammam No. 7,Mar 1938,https://en.wikipedia.org/wiki/Dammam_No._7
+30,e1,Caesar crosses the Rubicon,49 BC,https://en.wikipedia.org/wiki/Crossing_the_Rubicon
+30,e2,Genoa cedes Corsica to France,15 May 1768,https://en.wikipedia.org/wiki/Treaty_of_Versailles_(1768)
+30,e3,Napoleon Bonaparte is born in Ajaccio,15 Aug 1769,https://en.wikipedia.org/wiki/Napoleon
+30,e4,Napoleon crowns himself emperor,2 Dec 1804,https://en.wikipedia.org/wiki/Coronation_of_Napoleon
+30,e5,The Battle of Waterloo,18 Jun 1815,https://en.wikipedia.org/wiki/Battle_of_Waterloo
+31,e1,Wright brothers make the first powered flight,17 Dec 1903,https://en.wikipedia.org/wiki/Wright_Flyer
+31,e2,Sputnik 1 is launched,4 Oct 1957,https://en.wikipedia.org/wiki/Sputnik_1
+31,e3,Laika orbits Earth aboard Sputnik 2,3 Nov 1957,https://en.wikipedia.org/wiki/Laika
+31,e4,Yuri Gagarin becomes the first human in space,12 Apr 1961,https://en.wikipedia.org/wiki/Yuri_Gagarin
+31,e5,Neil Armstrong steps onto the Moon,20 Jul 1969,https://en.wikipedia.org/wiki/Apollo_11
+32,e1,Stegosaurus roams North America,c. 150 million years ago,https://en.wikipedia.org/wiki/Stegosaurus
+32,e2,Tyrannosaurus rex roams North America,c. 67 million years ago,https://en.wikipedia.org/wiki/Tyrannosaurus
+32,e3,Tyrannosaurus rex is formally named,1905,https://en.wikipedia.org/wiki/Tyrannosaurus
+32,e4,'Sue' the T. rex skeleton is discovered,12 Aug 1990,https://en.wikipedia.org/wiki/Sue_(dinosaur)
+32,e5,Spielberg's dinosaur blockbuster hits cinemas,11 Jun 1993,https://en.wikipedia.org/wiki/Jurassic_Park_(film)
+33,e1,The Hundred Years' War begins,1337,https://en.wikipedia.org/wiki/Hundred_Years%27_War
+33,e2,Confederates fire on Fort Sumter,12 Apr 1861,https://en.wikipedia.org/wiki/Battle_of_Fort_Sumter
+33,e3,Lee surrenders at Appomattox,9 Apr 1865,https://en.wikipedia.org/wiki/Battle_of_Appomattox_Court_House
+33,e4,The last Union Army veteran dies,2 Aug 1956,https://en.wikipedia.org/wiki/Albert_Woolson
+33,e5,The last Civil War pension recipient dies,31 May 2020,https://en.wikipedia.org/wiki/Irene_Triplett
+34,e1,The Mongols first invade Japan,1274,https://en.wikipedia.org/wiki/Mongol_invasions_of_Japan
+34,e2,Hiroo Onoda is sent to Lubang Island,26 Dec 1944,https://en.wikipedia.org/wiki/Hiroo_Onoda
+34,e3,Japan formally surrenders,2 Sep 1945,https://en.wikipedia.org/wiki/Surrender_of_Japan
+34,e4,The last astronauts leave the Moon's surface,14 Dec 1972,https://en.wikipedia.org/wiki/Apollo_17
+34,e5,Hiroo Onoda finally surrenders,9 Mar 1974,https://en.wikipedia.org/wiki/Hiroo_Onoda
+35,e1,Alfred the Great dies,899,https://en.wikipedia.org/wiki/Alfred_the_Great
+35,e2,"English settlers found Jamestown, Virginia",1607,"https://en.wikipedia.org/wiki/Jamestown,_Virginia"
+35,e3,William Shakespeare dies,23 Apr 1616,https://en.wikipedia.org/wiki/William_Shakespeare
+35,e4,Pocahontas dies in England,Mar 1617,https://en.wikipedia.org/wiki/Pocahontas
+35,e5,The Mayflower Pilgrims reach Massachusetts,1620,https://en.wikipedia.org/wiki/Mayflower
+36,e1,The Hymn to Ninkasi records a beer recipe,c. 1800 BC,https://en.wikipedia.org/wiki/Ninkasi
+36,e2,Dr Pepper is first served,1885,https://en.wikipedia.org/wiki/Dr_Pepper
+36,e3,Coca-Cola is first sold,8 May 1886,https://en.wikipedia.org/wiki/Coca-Cola
+36,e4,Coca-Cola is first bottled,1894,https://en.wikipedia.org/wiki/Coca-Cola
+36,e5,Brad's Drink is renamed Pepsi-Cola,1898,https://en.wikipedia.org/wiki/Pepsi
+37,e1,The oldest known noodles are made,c. 2000 BC,https://en.wikipedia.org/wiki/Lajia
+37,e2,LEGO patents its stud-and-tube brick,28 Jan 1958,https://en.wikipedia.org/wiki/Lego
+37,e3,Momofuku Ando launches instant ramen,25 Aug 1958,https://en.wikipedia.org/wiki/Momofuku_Ando
+37,e4,Barbie makes her debut,9 Mar 1959,https://en.wikipedia.org/wiki/Barbie
+37,e5,Cup Noodles go on sale,1971,https://en.wikipedia.org/wiki/Cup_Noodles
+38,e1,First recorded Olympic Games are held at Olympia,776 BC,https://en.wikipedia.org/wiki/Ancient_Olympic_Games
+38,e2,The first Kentucky Derby is run,1875,https://en.wikipedia.org/wiki/Kentucky_Derby
+38,e3,The first Test cricket match begins,15 Mar 1877,https://en.wikipedia.org/wiki/Test_cricket
+38,e4,The first Wimbledon Championship begins,9 Jul 1877,https://en.wikipedia.org/wiki/1877_Wimbledon_Championship
+38,e5,The first Super Bowl is played,15 Jan 1967,https://en.wikipedia.org/wiki/Super_Bowl_I
+39,e1,The oldest known ballcourt is built in Mesoamerica,c. 1650 BC,https://en.wikipedia.org/wiki/Paso_de_la_Amada
+39,e2,The Battle of Gettysburg begins,1 Jul 1863,https://en.wikipedia.org/wiki/Battle_of_Gettysburg
+39,e3,The Football Association is founded,26 Oct 1863,https://en.wikipedia.org/wiki/The_Football_Association
+39,e4,Lincoln delivers the Gettysburg Address,19 Nov 1863,https://en.wikipedia.org/wiki/Gettysburg_Address
+39,e5,The first official international football match,30 Nov 1872,https://en.wikipedia.org/wiki/1872_Scotland_v_England_football_match
+40,e1,The Code of Hammurabi is set in stone,c. 1754 BC,https://en.wikipedia.org/wiki/Code_of_Hammurabi
+40,e2,Babe Ruth's sale to the Yankees is announced,5 Jan 1920,https://en.wikipedia.org/wiki/Babe_Ruth
+40,e3,Prohibition begins in the US,17 Jan 1920,https://en.wikipedia.org/wiki/Prohibition_in_the_United_States
+40,e4,Al Capone is convicted of tax evasion,17 Oct 1931,https://en.wikipedia.org/wiki/Al_Capone
+40,e5,Prohibition is repealed,5 Dec 1933,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution
+41,e1,The Olympic Games at Olympia are held for the last time,c. AD 393,https://en.wikipedia.org/wiki/Ancient_Olympic_Games
+41,e2,The Spanish Civil War begins,17 Jul 1936,https://en.wikipedia.org/wiki/Spanish_Civil_War
+41,e3,The Berlin Olympics open,1 Aug 1936,https://en.wikipedia.org/wiki/1936_Summer_Olympics
+41,e4,Jesse Owens wins his fourth Berlin gold,9 Aug 1936,https://en.wikipedia.org/wiki/Jesse_Owens
+41,e5,The Hindenburg airship bursts into flames,6 May 1937,https://en.wikipedia.org/wiki/Hindenburg_disaster
+42,e1,The Battle of Marathon,490 BC,https://en.wikipedia.org/wiki/Battle_of_Marathon
+42,e2,Watson and Crick publish DNA's double helix,25 Apr 1953,https://en.wikipedia.org/wiki/Molecular_Structure_of_Nucleic_Acids
+42,e3,Hillary and Tenzing reach the summit of Everest,29 May 1953,https://en.wikipedia.org/wiki/1953_British_Mount_Everest_expedition
+42,e4,Coronation of Queen Elizabeth II,2 Jun 1953,https://en.wikipedia.org/wiki/Coronation_of_Elizabeth_II
+42,e5,Roger Bannister runs a mile in under four minutes,6 May 1954,https://en.wikipedia.org/wiki/Roger_Bannister
+43,e1,Guido of Arezzo devises a new musical notation,c. 1025,https://en.wikipedia.org/wiki/Guido_of_Arezzo
+43,e2,George Frideric Handel is born,5 Mar 1685,https://en.wikipedia.org/wiki/George_Frideric_Handel
+43,e3,Johann Sebastian Bach is born,31 Mar 1685,https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+43,e4,Domenico Scarlatti is born,26 Oct 1685,https://en.wikipedia.org/wiki/Domenico_Scarlatti
+43,e5,Handel's Messiah premieres in Dublin,13 Apr 1742,https://en.wikipedia.org/wiki/Messiah_(Handel)
+44,e1,King John grants Liverpool its charter,1207,https://en.wikipedia.org/wiki/Liverpool
+44,e2,JFK is assassinated in Dallas,22 Nov 1963,https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy
+44,e3,The Beatles appear on The Ed Sullivan Show,9 Feb 1964,https://en.wikipedia.org/wiki/The_Beatles_in_the_United_States
+44,e4,Cassius Clay beats Sonny Liston,25 Feb 1964,https://en.wikipedia.org/wiki/Muhammad_Ali_vs._Sonny_Liston
+44,e5,The Beatles play their final paid concert,29 Aug 1966,https://en.wikipedia.org/wiki/Candlestick_Park
+45,e1,Sophocles' Oedipus Rex is first staged,c. 429 BC,https://en.wikipedia.org/wiki/Oedipus_Rex
+45,e2,The Wonderful Wizard of Oz is published,1900,https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz
+45,e3,The Wizard of Oz film premieres,Aug 1939,https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1939_film)
+45,e4,Germany invades Poland,1 Sep 1939,https://en.wikipedia.org/wiki/Invasion_of_Poland
+45,e5,Gone with the Wind premieres in Atlanta,15 Dec 1939,https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)
+46,e1,Cai Lun reports his papermaking method,AD 105,https://en.wikipedia.org/wiki/Cai_Lun
+46,e2,The Hudson's Bay Company is chartered,2 May 1670,https://en.wikipedia.org/wiki/Hudson%27s_Bay_Company
+46,e3,Nokia is founded as a paper mill,12 May 1865,https://en.wikipedia.org/wiki/Nokia
+46,e4,The 13th Amendment abolishes US slavery,6 Dec 1865,https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution
+46,e5,Nokia sells its phone business to Microsoft,Apr 2014,https://en.wikipedia.org/wiki/Microsoft_Mobile
+47,e1,Babylonian tablets record cooking recipes,c. 1750 BC,https://en.wikipedia.org/wiki/Yale_Babylonian_Collection
+47,e2,Peter Durand patents the tin can,25 Aug 1810,https://en.wikipedia.org/wiki/Tin_can
+47,e3,Ezra Warner patents a can opener,5 Jan 1858,https://en.wikipedia.org/wiki/Can_opener
+47,e4,John Landis Mason patents the Mason jar,30 Nov 1858,https://en.wikipedia.org/wiki/Mason_jar
+47,e5,Birds Eye frozen foods go on sale,6 Mar 1930,https://en.wikipedia.org/wiki/Clarence_Birdseye
+48,e1,Hero of Alexandria describes a steam-powered sphere,c. AD 50,https://en.wikipedia.org/wiki/Aeolipile
+48,e2,Trevithick's steam locomotive runs on rails,21 Feb 1804,https://en.wikipedia.org/wiki/Richard_Trevithick
+48,e3,Mount Tambora erupts,10 Apr 1815,https://en.wikipedia.org/wiki/1815_eruption_of_Mount_Tambora
+48,e4,Karl Drais rides his two-wheeled 'running machine',12 Jun 1817,https://en.wikipedia.org/wiki/Dandy_horse
+48,e5,Frankenstein is published,1 Jan 1818,https://en.wikipedia.org/wiki/Frankenstein
+49,e1,Aristarchus proposes a Sun-centred cosmos,c. 270 BC,https://en.wikipedia.org/wiki/Aristarchus_of_Samos
+49,e2,William Herschel discovers Uranus,13 Mar 1781,https://en.wikipedia.org/wiki/Uranus
+49,e3,The British surrender at Yorktown,19 Oct 1781,https://en.wikipedia.org/wiki/Siege_of_Yorktown
+49,e4,Neptune is discovered,23 Sep 1846,https://en.wikipedia.org/wiki/Discovery_of_Neptune
+49,e5,Neptune completes its first orbit since discovery,Jul 2011,https://en.wikipedia.org/wiki/Neptune
+50,e1,Ibn al-Haytham writes his Book of Optics,c. 1015,https://en.wikipedia.org/wiki/Book_of_Optics
+50,e2,Daguerre's photography process is made public,19 Aug 1839,https://en.wikipedia.org/wiki/Daguerreotype
+50,e3,Wilhelm Röntgen discovers X-rays,8 Nov 1895,https://en.wikipedia.org/wiki/X-ray
+50,e4,The Lumière brothers hold a paid film screening,28 Dec 1895,https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re
+50,e5,Henri Becquerel discovers radioactivity,1896,https://en.wikipedia.org/wiki/Henri_Becquerel
+51,e1,"Pharaoh Ramesses V dies, apparently of smallpox",c. 1145 BC,https://en.wikipedia.org/wiki/Ramesses_V
+51,e2,Edward Jenner tests his smallpox vaccine,14 May 1796,https://en.wikipedia.org/wiki/Edward_Jenner
+51,e3,The WHO declares smallpox eradicated,8 May 1980,https://en.wikipedia.org/wiki/Smallpox
+51,e4,Mount St. Helens erupts,18 May 1980,https://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens
+51,e5,Pac-Man is released in Japan,22 May 1980,https://en.wikipedia.org/wiki/Pac-Man
+52,e1,Battles of Lexington and Concord,19 Apr 1775,https://en.wikipedia.org/wiki/Battles_of_Lexington_and_Concord
+52,e2,Adam Smith publishes The Wealth of Nations,9 Mar 1776,https://en.wikipedia.org/wiki/The_Wealth_of_Nations
+52,e3,Moscow's Bolshoi Theatre company is founded,28 Mar 1776,https://en.wikipedia.org/wiki/Bolshoi_Theatre
+52,e4,The Declaration of Independence is adopted,4 Jul 1776,https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence
+52,e5,Captain Cook sets sail on his final voyage,12 Jul 1776,https://en.wikipedia.org/wiki/Third_voyage_of_James_Cook
+53,e1,Archduke Franz Ferdinand is assassinated,28 Jun 1914,https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand
+53,e2,Shackleton's Endurance sails from Plymouth,8 Aug 1914,https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition
+53,e3,The Panama Canal opens,15 Aug 1914,https://en.wikipedia.org/wiki/Panama_Canal
+53,e4,"Martha, the last passenger pigeon, dies",1 Sep 1914,https://en.wikipedia.org/wiki/Martha_(pigeon)
+53,e5,The Christmas truce on the Western Front,24 Dec 1914,https://en.wikipedia.org/wiki/Christmas_truce
+54,e1,Westminster Abbey is consecrated,28 Dec 1065,https://en.wikipedia.org/wiki/Westminster_Abbey
+54,e2,Halley's Comet blazes over England,Apr 1066,https://en.wikipedia.org/wiki/Halley%27s_Comet
+54,e3,The Battle of Stamford Bridge,25 Sep 1066,https://en.wikipedia.org/wiki/Battle_of_Stamford_Bridge
+54,e4,The Battle of Hastings,14 Oct 1066,https://en.wikipedia.org/wiki/Battle_of_Hastings
+54,e5,William the Conqueror is crowned,25 Dec 1066,https://en.wikipedia.org/wiki/William_the_Conqueror
+55,e1,Ford Motor Company is incorporated,16 Jun 1903,https://en.wikipedia.org/wiki/Ford_Motor_Company
+55,e2,The first Tour de France starts,1 Jul 1903,https://en.wikipedia.org/wiki/1903_Tour_de_France
+55,e3,The first World Series game is played,1 Oct 1903,https://en.wikipedia.org/wiki/1903_World_Series
+55,e4,Panama declares independence from Colombia,3 Nov 1903,https://en.wikipedia.org/wiki/Separation_of_Panama_from_Colombia
+55,e5,Wright brothers make the first powered flight,17 Dec 1903,https://en.wikipedia.org/wiki/Wright_Flyer
+56,e1,King Ezana of Aksum adopts Christianity,c. 330,https://en.wikipedia.org/wiki/Ezana_of_Axum
+56,e2,Mansa Musa makes his pilgrimage to Mecca,1324,https://en.wikipedia.org/wiki/Mansa_Musa
+56,e3,The Berlin Conference on Africa opens,15 Nov 1884,https://en.wikipedia.org/wiki/Berlin_Conference
+56,e4,Ethiopia defeats Italy at Adwa,1 Mar 1896,https://en.wikipedia.org/wiki/Battle_of_Adwa
+56,e5,The first modern Olympics open in Athens,6 Apr 1896,https://en.wikipedia.org/wiki/1896_Summer_Olympics
+57,e1,Chandragupta founds the Maurya Empire,c. 321 BC,https://en.wikipedia.org/wiki/Maurya_Empire
+57,e2,"Babur wins at Panipat, founding the Mughal Empire",21 Apr 1526,https://en.wikipedia.org/wiki/First_Battle_of_Panipat
+57,e3,The English East India Company is chartered,31 Dec 1600,https://en.wikipedia.org/wiki/East_India_Company
+57,e4,Pakistan becomes independent,14 Aug 1947,https://en.wikipedia.org/wiki/Independence_Day_(Pakistan)
+57,e5,India becomes independent,15 Aug 1947,https://en.wikipedia.org/wiki/Independence_Day_(India)
+58,e1,The Pyramid of the Sun rises at Teotihuacan,c. AD 200,https://en.wikipedia.org/wiki/Pyramid_of_the_Sun
+58,e2,The Inca build Machu Picchu,c. 1450,https://en.wikipedia.org/wiki/Machu_Picchu
+58,e3,Peru declares independence from Spain,28 Jul 1821,https://en.wikipedia.org/wiki/Peruvian_War_of_Independence
+58,e4,Hiram Bingham reaches Machu Picchu,24 Jul 1911,https://en.wikipedia.org/wiki/Hiram_Bingham_III
+58,e5,The Mona Lisa is stolen from the Louvre,21 Aug 1911,https://en.wikipedia.org/wiki/Mona_Lisa
+59,e1,Pharaoh Necho II starts a Nile–Red Sea canal,c. 600 BC,https://en.wikipedia.org/wiki/Canal_of_the_Pharaohs
+59,e2,Golden spike completes a coast-to-coast US railroad,10 May 1869,https://en.wikipedia.org/wiki/Golden_spike
+59,e3,The Suez Canal opens,17 Nov 1869,https://en.wikipedia.org/wiki/Suez_Canal
+59,e4,Egypt nationalises the Suez Canal,26 Jul 1956,https://en.wikipedia.org/wiki/Suez_Crisis
+59,e5,The Aswan High Dam is completed,1970,https://en.wikipedia.org/wiki/Aswan_Dam
+60,e1,Mungo Man is buried at Lake Mungo,"c. 40,000 BC",https://en.wikipedia.org/wiki/Mungo_Man
+60,e2,Captain Cook lands at Botany Bay,29 Apr 1770,https://en.wikipedia.org/wiki/James_Cook
+60,e3,The First Fleet arrives at Sydney Cove,26 Jan 1788,https://en.wikipedia.org/wiki/First_Fleet
+60,e4,Storming of the Bastille,14 Jul 1789,https://en.wikipedia.org/wiki/Storming_of_the_Bastille
+60,e5,Sydney Opera House opens,20 Oct 1973,https://en.wikipedia.org/wiki/Sydney_Opera_House
