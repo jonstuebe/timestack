@@ -6,12 +6,8 @@ import { PUZZLE } from './fixtures';
 const results: SlotResult[] = ['correct', 'close', 'close', 'far', 'correct'];
 
 describe('buildShareText', () => {
-  it('matches the exact Wordle-style format', () => {
-    expect(buildShareText(142, 3, results)).toBe('Timestack #142 3/5\n\n🟩🟨🟨⬜🟩\n\ntimestack.app');
-  });
-
-  it('uses orange and blue in high-contrast mode', () => {
-    expect(buildShareText(142, 3, results, true)).toBe('Timestack #142 3/5\n\n🟧🟦🟦⬜🟧\n\ntimestack.app');
+  it('matches the exact format', () => {
+    expect(buildShareText(142, 3, results)).toBe('Timestack No. 142 · 3/5\n\n●─◐─◐─○─●\n\ntimestack.app');
   });
 
   it('never contains event names or years', () => {
@@ -25,7 +21,7 @@ describe('buildShareText', () => {
 });
 
 describe('shareResults', () => {
-  const text = 'Timestack #1 5/5';
+  const text = 'Timestack No. 1 · 5/5';
   const fakeNav = (overrides: Partial<Navigator>) => overrides as Navigator;
 
   it('uses the native share sheet when available', async () => {

@@ -114,10 +114,10 @@ export function App() {
         <p className="puzzle-meta">
           {daily.status === 'ready' && (
             <>
-              <span className="puzzle-number">#{daily.number}</span> ·{' '}
+              <span className="puzzle-number">No. {daily.number}</span>{' '}
             </>
           )}
-          {formatPuzzleDate(now)}
+          <span className="puzzle-date">{formatPuzzleDate(now)}</span>
         </p>
 
         {daily.status === 'ready' && (

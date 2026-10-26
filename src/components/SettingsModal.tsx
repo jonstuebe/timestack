@@ -37,7 +37,7 @@ export function SettingsModal({ open, onClose, settings, onChange }: SettingsMod
       <div className="setting setting-row">
         <label htmlFor="high-contrast" className="setting-text">
           <span className="setting-name">High contrast mode</span>
-          <span className="setting-hint">Orange and blue instead of green and yellow, in the game and when sharing</span>
+          <span className="setting-hint">Bolder, more distinct result colours on the cards</span>
         </label>
         <input
           id="high-contrast"

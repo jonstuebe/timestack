@@ -9,7 +9,7 @@ import pkg from './package.json' with { type: 'json' };
 import puzzles from './worker/puzzles.json' with { type: 'json' };
 import { RUNWAY_WARNING_DAYS, parseDateKey, puzzleNumber } from './worker/puzzles.ts';
 
-const THEME_COLOR = '#121213';
+const THEME_COLOR = '#0c1626';
 
 export default defineConfig({
   define: {
@@ -41,7 +41,8 @@ export default defineConfig({
         ],
       },
       workbox: {
-        globPatterns: ['**/*.{js,css,html,svg,png,json,webmanifest}'],
+        // Only the Latin font files: other subsets load on demand from the network.
+        globPatterns: ['**/*.{js,css,html,svg,png,json,webmanifest}', '**/alegreya-latin-wght-normal-*.woff2', '**/alegreya-sans-latin-*-normal-*.woff2'],
         navigateFallback: '/index.html',
         navigateFallbackDenylist: [/^\/api\//],
         cleanupOutdatedCaches: true,

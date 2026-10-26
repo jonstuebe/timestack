@@ -13,7 +13,7 @@ import { SortableContext, arrayMove, useSortable, verticalListSortingStrategy } 
 import { CSS } from '@dnd-kit/utilities';
 import type { PuzzleEvent } from '../lib/types';
 import { categoryIcon } from '../lib/icons';
-import { ArrowIcon, GripIcon } from './Icons';
+import { ArrowIcon } from './Icons';
 
 interface BoardProps {
   events: Record<string, PuzzleEvent>;
@@ -61,7 +61,7 @@ export function Board({ events, order, onChange, announce }: BoardProps) {
 
   return (
     <div className="board">
-      <p className="axis-label" aria-hidden="true">Earlier ↑</p>
+      <p className="axis-label" aria-hidden="true">Earliest</p>
       <p id={INSTRUCTIONS_ID} className="visually-hidden">
         Use the up and down arrow keys, or the move buttons, to reorder this card. Earliest event goes at the top.
       </p>
@@ -74,7 +74,7 @@ export function Board({ events, order, onChange, announce }: BoardProps) {
           </ol>
         </SortableContext>
       </DndContext>
-      <p className="axis-label" aria-hidden="true">Later ↓</p>
+      <p className="axis-label" aria-hidden="true">Latest</p>
     </div>
   );
 }
@@ -110,9 +110,7 @@ function SortableCard({ event, index, total, onMove }: SortableCardProps) {
       onKeyDown={onKeyDown}
       {...listeners}
     >
-      <span className="card-grip" aria-hidden="true">
-        <GripIcon />
-      </span>
+      <span className="card-hole" aria-hidden="true" />
       {icon && <span className="card-icon" aria-hidden="true">{icon}</span>}
       <span className="card-title">{event.title}</span>
       <span className="card-moves">
