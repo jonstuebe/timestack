@@ -195,6 +195,19 @@ button {
   color: var(--text);
 }
 
+/* Loading, offline and "Back tomorrow" */
+.status {
+  margin-top: 48px;
+  text-align: center;
+}
+
+.status-text {
+  margin: 12px auto 24px;
+  max-width: 32ch;
+  text-align: center;
+  color: var(--muted);
+}
+
 /* Board */
 .board {
   margin: 0 auto;

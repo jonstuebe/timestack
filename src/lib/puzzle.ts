@@ -1,29 +1,21 @@
 import type { Puzzle, PuzzleEvent } from './types';
 import { correctOrder } from './scoring';
 
-/** Puzzle #1 is played on this local date. */
-export const LAUNCH_DATE = { year: 2026, month: 10, day: 26 } as const;
-
 const DAY_MS = 86_400_000;
 
-/**
- * Days since launch (puzzle #1 on launch day), using the player's local
- * calendar date. Calendar parts are compared as UTC midnights so DST
- * transitions (23- or 25-hour days) never skew the count.
- */
-export function puzzleNumberForDate(date: Date): number {
-  const local = Date.UTC(date.getFullYear(), date.getMonth(), date.getDate());
-  const launch = Date.UTC(LAUNCH_DATE.year, LAUNCH_DATE.month - 1, LAUNCH_DATE.day);
-  return Math.max(1, Math.round((local - launch) / DAY_MS) + 1);
+/** The player's local calendar date as `YYYY-MM-DD`: the key the server serves a Puzzle by. */
+export function localDateKey(date: Date): string {
+  const pad = (n: number) => String(n).padStart(2, '0');
+  return `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}`;
 }
 
-/** Looks up a puzzle by number, looping back to #1 when the list runs out. */
-export function getPuzzle(puzzles: Puzzle[], number: number): Puzzle {
-  const index = (((number - 1) % puzzles.length) + puzzles.length) % puzzles.length;
-  if (import.meta.env?.DEV && number > puzzles.length) {
-    console.warn(`[timestack] Puzzle #${number} exceeds the ${puzzles.length} bundled puzzles; looping to #${index + 1}.`);
-  }
-  return puzzles[index];
+/** Whole calendar days from one date key to another, immune to DST. */
+export function daysBetween(from: string, to: string): number {
+  const utc = (key: string) => {
+    const [y, m, d] = key.split('-').map(Number);
+    return Date.UTC(y, m - 1, d);
+  };
+  return Math.round((utc(to) - utc(from)) / DAY_MS);
 }
 
 /** The next local midnight after `now`. */

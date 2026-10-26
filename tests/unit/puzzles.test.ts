@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import puzzles from '../../src/data/puzzles.json';
+import puzzles from '../../worker/puzzles.json';
 import { compareEvents } from '../../src/lib/scoring';
 import { categoryIcon } from '../../src/lib/icons';
 import type { Puzzle } from '../../src/lib/types';

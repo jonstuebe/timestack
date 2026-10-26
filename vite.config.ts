@@ -2,8 +2,12 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
+import { cloudflare } from '@cloudflare/vite-plugin';
+import type { Plugin } from 'vite';
 
 import pkg from './package.json' with { type: 'json' };
+import puzzles from './worker/puzzles.json' with { type: 'json' };
+import { RUNWAY_WARNING_DAYS, parseDateKey, puzzleNumber } from './worker/puzzles.ts';
 
 const THEME_COLOR = '#121213';
 
@@ -13,6 +17,9 @@ export default defineConfig({
   },
   plugins: [
     react(),
+    // Vitest only needs React; the Worker runtime is for dev, preview and build.
+    !process.env.VITEST && cloudflare(),
+    puzzleRunway(),
     VitePWA({
       registerType: 'prompt',
       injectRegister: false,
@@ -36,6 +43,7 @@ export default defineConfig({
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,png,json,webmanifest}'],
         navigateFallback: '/index.html',
+        navigateFallbackDenylist: [/^\/api\//],
         cleanupOutdatedCaches: true,
       },
     }),
@@ -45,3 +53,20 @@ export default defineConfig({
     environment: 'jsdom',
   },
 });
+
+/** Warns on every build (and so every deploy) when the Puzzles are about to run out. */
+function puzzleRunway(): Plugin {
+  return {
+    name: 'timestack:puzzle-runway',
+    apply: 'build',
+    buildStart() {
+      // Runs once per environment; report from the client build only.
+      if (this.environment.name !== 'client') return;
+      const today = new Date().toISOString().slice(0, 10);
+      const left = puzzles.length - puzzleNumber(parseDateKey(today)!);
+      if (left < RUNWAY_WARNING_DAYS) {
+        this.warn(`Only ${Math.max(0, left)} Puzzles left after today (${puzzles.length} in worker/puzzles.json). Add more before players see "Back tomorrow".`);
+      }
+    },
+  };
+}

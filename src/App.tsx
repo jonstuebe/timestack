@@ -1,44 +1,30 @@
-import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
-import puzzlesData from './data/puzzles.json';
-import type { Puzzle } from './lib/types';
-import { formatPuzzleDate, getPuzzle, initialOrder, isValidOrder, puzzleNumberForDate } from './lib/puzzle';
-import { correctOrder, scoreOrder, slotResults } from './lib/scoring';
-import { effectiveStreak, loadState, recordResult, saveState, type GameState, type Settings } from './lib/storage';
+import { useCallback, useEffect, useRef, useState } from 'react';
+import { formatPuzzleDate, localDateKey } from './lib/puzzle';
+import { cachedDaily, estimatedPuzzleNumber, loadDaily, type Daily } from './lib/daily';
+import { effectiveStreak, loadState, saveState, type GameState, type Settings } from './lib/storage';
 import { applyUpdate, onUpdateAvailable } from './lib/pwa';
 import { usePrefersReducedMotion } from './lib/usePrefersReducedMotion';
 import { Header } from './components/Header';
-import { Board } from './components/Board';
-import { RevealBoard } from './components/RevealBoard';
-import { Results } from './components/Results';
+import { Game } from './components/Game';
+import { Countdown } from './components/Countdown';
 import { HelpModal } from './components/HelpModal';
 import { StatsModal } from './components/StatsModal';
 import { SettingsModal } from './components/SettingsModal';
-import { ConfirmModal } from './components/ConfirmModal';
 import { ToastList, type ToastMessage } from './components/Toast';
 
-const PUZZLES = puzzlesData as Puzzle[];
-
-type ModalName = 'help' | 'stats' | 'settings' | 'confirm' | null;
-type Phase = 'playing' | 'revealing' | 'done';
+type ModalName = 'help' | 'stats' | 'settings' | null;
 
 export function App() {
   const [now, setNow] = useState(() => new Date());
-  const puzzleNumber = puzzleNumberForDate(now);
-  const puzzle = useMemo(() => getPuzzle(PUZZLES, puzzleNumber), [puzzleNumber]);
-  const eventsById = useMemo(() => Object.fromEntries(puzzle.events.map((e) => [e.id, e])), [puzzle]);
-  const correct = useMemo(() => correctOrder(puzzle.events), [puzzle]);
+  const date = localDateKey(now);
+  const [daily, setDaily] = useState<Daily>(() => cachedDaily(date) ?? { status: 'loading' });
+  const [attempt, setAttempt] = useState(0);
 
   const [state, setState] = useState<GameState>(loadState);
   const [modal, setModal] = useState<ModalName>(() => (state.seenHelp ? null : 'help'));
   const [toasts, setToasts] = useState<ToastMessage[]>([]);
   const [liveMessage, setLiveMessage] = useState('');
   const reducedMotion = usePrefersReducedMotion();
-
-  const result = state.results[puzzleNumber];
-  const [order, setOrder] = useState<string[]>(() => startingOrder(state, puzzleNumber, puzzle));
-  const [phase, setPhase] = useState<Phase>(result ? 'done' : 'playing');
-  // Only animate and steal focus for a reveal that happens in this session.
-  const playedThisSession = useRef(false);
 
   // Persist every state change.
   useEffect(() => saveState(state), [state]);
@@ -52,27 +38,36 @@ export function App() {
     else delete root.dataset.contrast;
   }, [state.settings]);
 
-  // Roll over to a new puzzle at local midnight, or when the app returns from the background on a new day.
+  // Roll over to a new Puzzle at local midnight, or when the app returns from the background on a new day.
   const refreshDate = useCallback(() => setNow(new Date()), []);
+  const retry = useCallback(() => setAttempt((a) => a + 1), []);
   useEffect(() => {
     const onVisible = () => document.visibilityState === 'visible' && refreshDate();
     document.addEventListener('visibilitychange', onVisible);
     window.addEventListener('focus', refreshDate);
+    window.addEventListener('online', retry);
     return () => {
       document.removeEventListener('visibilitychange', onVisible);
       window.removeEventListener('focus', refreshDate);
+      window.removeEventListener('online', retry);
     };
-  }, [refreshDate]);
+  }, [refreshDate, retry]);
 
-  const lastPuzzle = useRef(puzzleNumber);
+  // Fetch the Puzzle for the local date, unless it's already loaded. Retries when asked or back online.
+  const dailyRef = useRef(daily);
+  dailyRef.current = daily;
   useEffect(() => {
-    if (lastPuzzle.current === puzzleNumber) return;
-    lastPuzzle.current = puzzleNumber;
-    playedThisSession.current = false;
-    setOrder(startingOrder(state, puzzleNumber, puzzle));
-    setPhase(state.results[puzzleNumber] ? 'done' : 'playing');
-    setModal((m) => (m === 'confirm' ? null : m));
-  }, [puzzleNumber, puzzle, state]);
+    const current = dailyRef.current;
+    if (current.status === 'ready' && current.date === date) return;
+    let cancelled = false;
+    setDaily({ status: 'loading' });
+    void loadDaily(date).then((d) => {
+      if (!cancelled) setDaily(d);
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, [date, attempt]);
 
   const showToast = useCallback((content: ToastMessage['content'], persistent = false) => {
     const id = Date.now() + Math.random();
@@ -102,25 +97,6 @@ export function App() {
     window.requestAnimationFrame(() => setLiveMessage(message));
   }, []);
 
-  const handleReorder = (next: string[]) => {
-    setOrder(next);
-    setState((s) => ({ ...s, inProgress: { puzzle: puzzleNumber, order: next } }));
-  };
-
-  const submit = () => {
-    setModal(null);
-    if (state.results[puzzleNumber]) return;
-    const score = scoreOrder(order, correct);
-    playedThisSession.current = true;
-    setState((s) => recordResult(s, puzzleNumber, order, score));
-    setPhase('revealing');
-    announce('Revealing the dates.');
-  };
-
-  const finishReveal = useCallback(() => {
-    setPhase((p) => (p === 'revealing' ? 'done' : p));
-  }, []);
-
   const closeHelp = () => {
     setModal(null);
     if (!state.seenHelp) setState((s) => ({ ...s, seenHelp: true }));
@@ -128,50 +104,62 @@ export function App() {
 
   const updateSettings = (settings: Settings) => setState((s) => ({ ...s, settings }));
 
-  const submitted = result?.order ?? order;
-  const results = slotResults(submitted, correct);
   const latestScore = state.lastPlayedPuzzle !== null ? (state.results[state.lastPlayedPuzzle]?.score ?? null) : null;
+  const todayNumber = daily.status === 'ready' ? daily.number : (estimatedPuzzleNumber(date) ?? state.lastPlayedPuzzle ?? 0);
 
   return (
     <div className="app">
       <Header onHelp={() => setModal('help')} onStats={() => setModal('stats')} onSettings={() => setModal('settings')} />
       <main className="main">
         <p className="puzzle-meta">
-          <span className="puzzle-number">#{puzzleNumber}</span> · {formatPuzzleDate(now)}
+          {daily.status === 'ready' && (
+            <>
+              <span className="puzzle-number">#{daily.number}</span> ·{' '}
+            </>
+          )}
+          {formatPuzzleDate(now)}
         </p>
 
-        {phase === 'playing' ? (
-          <>
-            <Board events={eventsById} order={order} onChange={handleReorder} announce={announce} />
-            <button type="button" className="primary-button lock-button" onClick={() => setModal('confirm')}>
-              Lock it in
-            </button>
-          </>
-        ) : (
-          <RevealBoard
-            key={puzzleNumber}
-            events={eventsById}
-            order={submitted}
-            results={results}
-            animate={playedThisSession.current && !reducedMotion}
-            onComplete={finishReveal}
-          />
-        )}
-
-        {phase === 'done' && result && (
-          <Results
-            key={puzzleNumber}
-            puzzle={puzzle}
-            puzzleNumber={puzzleNumber}
-            correct={correct}
-            submitted={submitted}
-            results={results}
-            score={result.score}
-            highContrast={state.settings.highContrast}
-            focusOnMount={playedThisSession.current}
+        {daily.status === 'ready' && (
+          <Game
+            key={daily.number}
+            puzzle={daily.puzzle}
+            puzzleNumber={daily.number}
+            state={state}
+            setState={setState}
+            reducedMotion={reducedMotion}
+            announce={announce}
             onToast={showToast}
             onNextPuzzle={refreshDate}
           />
+        )}
+
+        {daily.status === 'loading' && (
+          <p className="status-text" role="status">
+            Loading today's Puzzle…
+          </p>
+        )}
+
+        {daily.status === 'offline' && (
+          <section className="status" aria-labelledby="status-heading">
+            <h2 id="status-heading" className="results-headline">
+              Connect to get today's Puzzle
+            </h2>
+            <p className="status-text">Timestack fetches each new Puzzle once a day. Your stats and streak are saved on this device.</p>
+            <button type="button" className="primary-button" onClick={retry}>
+              Retry
+            </button>
+          </section>
+        )}
+
+        {daily.status === 'none' && (
+          <section className="status" aria-labelledby="status-heading">
+            <h2 id="status-heading" className="results-headline">
+              Back tomorrow
+            </h2>
+            <p className="status-text">There's no Puzzle today. Check back for the next one.</p>
+            <Countdown onExpire={refreshDate} />
+          </section>
         )}
       </main>
 
@@ -180,11 +168,10 @@ export function App() {
         open={modal === 'stats'}
         onClose={() => setModal(null)}
         stats={state.stats}
-        currentStreak={effectiveStreak(state, puzzleNumber)}
+        currentStreak={effectiveStreak(state, todayNumber)}
         latestScore={latestScore}
       />
       <SettingsModal open={modal === 'settings'} onClose={() => setModal(null)} settings={state.settings} onChange={updateSettings} />
-      <ConfirmModal open={modal === 'confirm'} onCancel={() => setModal(null)} onConfirm={submit} />
 
       <ToastList toasts={toasts} />
       <div id="announcer" className="visually-hidden" aria-live="assertive" aria-atomic="true">
@@ -192,10 +179,4 @@ export function App() {
       </div>
     </div>
   );
-}
-
-function startingOrder(state: GameState, puzzleNumber: number, puzzle: Puzzle): string[] {
-  const saved = state.inProgress;
-  if (saved && saved.puzzle === puzzleNumber && isValidOrder(saved.order, puzzle.events)) return saved.order;
-  return initialOrder(puzzle, puzzleNumber);
 }
